@@ -130,20 +130,27 @@ Breakoutrooms:
 
 Kurze Recherche und gegenseitiges vorstellen
 
+
+
 Beispiele: 
 
 Folgende Policies enthalten in etwa die im T2T 5 genannten Elemente: Quelle: https://www.forschungsdaten.org/index.php/Data_Policies
 
     Policy der Uni Mannheim: https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/forschung/Forschungsdaten-Policy.pdf
     
+    
     Policy der Uni Wien: https://rdm.univie.ac.at/de/fdm-policy-und-faq/
+    
     
     Policy der FU Berlin: https://refubium.fu-berlin.de/bitstream/handle/fub188/30821/Forschungsdaten-Policy_der_Freien_Universitaet_Berlin.pdf?sequence=2&isAllowed=y
     
+
     Policy der Uni München: https://epub.ub.uni-muenchen.de/116800/1/Leitfaden_fuer_FDM_in_den_DH__Version1-2_.pdf
     
+
     Policy der RWTH Aachen: https://www.rwth-aachen.de/cms/root/Forschung/Forschungsdatenmanagement/Forschungsdatenmanagement-an-der-RWTH/~ncfw/Leitlinie-zum-Forschungsdatenmanagement/
     
+
     Policy der Hochschule Bremen: www.hs-bremen.de/assets/hsb/de/Dokumente/Referate/R02/Rechtssammlung/Qualitätssicherung/Forschungsdaten-Policy_der_Hochschule_Bremen__Fassung_Amtliche_Mitteilungen_der_HSB_2-2025_vom_2025-02-03_.pdf
 
 
@@ -152,6 +159,8 @@ Folgende Policies enthalten in etwa die im T2T 5 genannten Elemente: Quelle: htt
 Online-Plenum:
 
 1 Beispiel por Gruppe präsentieren
+
+
 
 
 „Die Universität Mannheim möchte mit dieser Forschungsdaten-Policy den Mitgliedern der Universität **eine Orientierung im Umgang mit Forschungsdaten geben und leistungsfähige Strukturen für das Management von Forschungsdaten etablieren**. Ziel ist ein zukunftsfähiges, institutionelles Forschungsdatenmanagement, das die Mannheimer Fächer effektiv unterstützt und zur nachhaltigen Sichtbarkeit und Exzellenz ihrer Ergebnisse beiträgt.“ 
