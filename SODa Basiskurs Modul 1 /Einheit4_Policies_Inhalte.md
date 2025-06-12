@@ -69,7 +69,7 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 ## Forschungsdaten-Policies
 
- ![Mentimeter](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/FDMPolicies.png)<!--width="100%"-->
+
 
 
 ### Definition
@@ -103,6 +103,13 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 
 ### Institutionelle FDM-Policies
+
+ ![Data Policies](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/FDMPolicies.png)<!--width="100%"-->
+
+----------
+(https://www.forschungsdaten.org/index.php/Data_Policies)
+
+### Abfrage
 
 **Hat Ihre Institution eine Forschungsdaten-Policy?**
 
