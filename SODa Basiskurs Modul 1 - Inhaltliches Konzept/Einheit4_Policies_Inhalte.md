@@ -1,39 +1,25 @@
 
 !--
 
-author: Canan Hastik und Rebekka Reichert 
+author: Canan Hastik 
+author: Rebekka Reichert 
 email:    
 version:  v1
 language: DE
+lizenz: cc by
+modultitel: Modul 1, Teil 1: Sammlungs- und Objektdaten als Forschungsdaten managen
+einheitstitel: Forschungsdaten-Policies
+lernziele:
+* die Elemente und Ziele von Forschungsdaten-Policies benennen.. (01\_004\_0058)
+* die Elemente und Ziele von Forschungsdaten-Policies erläutern. (01\_004\_0059)
+* eigenständig Recherchen zu Forschungsdaten-Policies duchführen. (01\_004\_0068)
+
+
 
 icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
 link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/soda.css
 
 comment:  WissKi SODA OERs
-
-Einheitliche Metadaten:
-
-**In dieser Einheit können Teilnehmende…**
-
-* gute Beipsiele für FDM-Policies benennen und erläutern.
-
-**Diese Einheit behandelt Themen**
-
-* Elemente und Ziele von FDM-Policies.
-
-**Für diesen Workshop werden vorausgesetzt…**
-
-aus Cluster „xxxx“ die Themen und Lernziele der *Lernzielmatrix zum FDM* zu xxxx
-
-* ....
-
-**Dieser Workshop adressiert Lernziele**
-
-aus Cluster „Grundlegende und übergreifende Konzepte Forschungsdatenmanagements (FDM) kennen und verstehen.“ die Themen und Lernziele der *Lernzielmatrix zum FDM* zu „Forschungsdatenmanagement (FDM)-Policies“
-
-* die Elemente und Ziele von Forschungsdaten-Policies benennen.. (01\_004\_0058)
-* die Elemente und Ziele von Forschungsdaten-Policies erläutern. (01\_004\_0059)
-* eigenständig Recherchen zu Forschungsdaten-Policies duchführen. (01\_004\_0068)
 
 -->
 
