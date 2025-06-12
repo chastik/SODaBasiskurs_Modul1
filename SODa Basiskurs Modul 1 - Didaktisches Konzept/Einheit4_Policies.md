@@ -1,7 +1,18 @@
+<!--
 
+author: Rebekka Reichert und Canan Hastik  
+email:    
+version:  v1
+language: DE
 
+icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
+link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/soda.css
 
-SODa Basiskurs Modul 1
+comment:  WissKi SODA OERs
+
+-->
+
+# SODa Basiskurs Modul 1 
 
 *Einheit 4 Forschungsdaten Policies*
 
