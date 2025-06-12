@@ -55,6 +55,8 @@ SODa, Sammlungen, Objekte, Datenkompetenzen
 
 Humboldt-Universität zu Berlin
 
+
+
 ***
 
 
@@ -83,13 +85,17 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 „Unter Forschungsdatenpolicies werden Richtlinien verstanden, die für alle Mitarbeiterinnen und Mitarbeiter einer Institution (z. B. Hochschulinstitut) festschreiben, wie Forschungsdatenmanagement angegangen werden soll. Solche begleitenden Regelwerke (engl. policies) existieren nicht nur für wissenschaftliche Institutionen sondern auch für Förderorganisationen und sind mittlerweile eine wichtige Orientierungshilfe für den Umgang mit Forschungsdaten.“ 
 
 -----------
+Quellenangabe
+
 (https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/)
 
 #### Beispiel Univ. Mannheim
 
 „Die Universität Mannheim möchte mit dieser Forschungsdaten-Policy den Mitgliedern der Universität **eine Orientierung im Umgang mit Forschungsdaten geben und leistungsfähige Strukturen für das Management von Forschungsdaten etablieren**. Ziel ist ein zukunftsfähiges, institutionelles Forschungsdatenmanagement, das die Mannheimer Fächer effektiv unterstützt und zur nachhaltigen Sichtbarkeit und Exzellenz ihrer Ergebnisse beiträgt.“ 
 
---------------
+-----------
+Quellenangabe
+
 (Policy der Uni Mannheim S. 3: https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/forschung/Forschungsdaten-Policy.pdf)
 
 
@@ -97,7 +103,10 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 „Diese Policy für Forschungsdatenmanagement hat das Ziel, **Forscher*innen bei der Verarbeitung von Forschungsdaten bestmöglich zu unterstützen und die Risiken bei der Verarbeitung von Forschungsdaten zu reduzieren**.“ 
 
---------------
+
+-----------
+Quellenangabe
+
 (Forschungsdatenpolicy der Uni Wien https://rdm.univie.ac.at/de/fdm-policy-und-faq/)
 
 
@@ -111,7 +120,9 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 * Fachspezifische Policies
 * Policies von Forschungsförderern“ 
 
-------------
+-----------
+Quellenangabe
+
 (T2T 5 S. 33)
 
 
@@ -126,7 +137,9 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 Forschungsdaten Policies haben das Ziel, **den Umgang mit Forschungsdaten in einer Organisation oder Institution zu regulieren und zu standardisieren. Sie sollen sicherstellen, dass Forschungsdaten verantwortungsvoll und nach den Prinzipien der „guten wissenschaftlichen Praxis“ behandelt werden**. Dazu gehören beispielsweise die Sicherung und Archivierung der Daten, die Veröffentlichung und Nachnutzung, sowie die Einhaltung ethischer und rechtlicher Rahmenbedingungen. 
 
---------------
+-----------
+Quellenangabe
+
 (KI Google - Fragestellung: Was sind die Ziele von Forschungsdatenpolicies? erstellt am 2025.05.28)
 
 
@@ -135,7 +148,9 @@ Forschungsdaten Policies haben das Ziel, **den Umgang mit Forschungsdaten in ein
 
  ![Data Policies](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/FDMPolicies.png)<!--width="100%"-->
 
-----------
+-----------
+Quellenangabe
+
 (https://www.forschungsdaten.org/index.php/Data_Policies)
 
 #### Abfrage
@@ -163,7 +178,9 @@ Bildschirm-Memory:
 5. Verantwortlichkeiten
 6. Gültigkeit“ 
 
--------------
+-----------
+Quellenangabe
+
 (T2T 5 S. 35)
 
 ### FDM-Richtlinien für die Kernelemente
@@ -177,7 +194,9 @@ Bildschirm-Memory:
 * Eine Empfehlungen zur Vereinfachung der Nachnutzung von Forschungsdaten
 * Einen Überblick über Berichtspflichten und ggfs. Sanktionen.
 
--------------
+-----------
+Quellenangabe
+
 (https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/)
 
 
@@ -215,6 +234,7 @@ Folgende Policies enthalten in etwa die im T2T 5 genannten Elemente: Quelle: htt
     
 - Policy der Hochschule Bremen: www.hs-bremen.de/assets/hsb/de/Dokumente/Referate/R02/Rechtssammlung/Qualitätssicherung/Forschungsdaten-Policy_der_Hochschule_Bremen__Fassung_Amtliche_Mitteilungen_der_HSB_2-2025_vom_2025-02-03_.pdf
 
+
 ### Fachspezifische FDM-Policies
 
 Fachspezifische FDM-Policies definieren disziplinspezifische Standards und Anforderungen für den Umgang mit Forschungsdaten, angepasst an Besonderheiten fachlicher Bedarfe wie z.B. ethische Fragen einer Fachcommunity (z. B. Archäologie, Medizin, Biologie).
@@ -223,7 +243,9 @@ Fachspezifische FDM-Policies definieren disziplinspezifische Standards und Anfor
 
 Deutsches Archäologisches Institut (DAI), Data Policy: Legt spezifische Vorgaben für das Forschungsdatenmanagement in der Archäologie fest und ergänzt institutionelle Regeln um fachliche Anforderungen (z. B. Dokumentation von Grabungsdaten, Langzeitarchivierung, FAIR-Prinzipien).
 
---------
+-----------
+Quellenangabe
+
 Deutsches Archäologisches Institut (DAI): Data Policy. Online verfügbar unter: https://www.dainst.org/data-policy
 
 
