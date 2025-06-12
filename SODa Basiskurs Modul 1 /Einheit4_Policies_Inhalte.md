@@ -168,17 +168,17 @@ Bildschirm-Memory:
 
 ### FDM-Richtlinien für die Kernelemente
 
-  * Eine Definition des Begriffs Forschungsdaten
-  * Eine Definition der Daten, die der Policy unterliegen
-  * Kriterien für die Auswahl zu veröffentlichender Daten
-  * Einen Überblick über die Verantwortlichkeiten von Förderinstitutionen, Forschenden und wissenschaftlichen Serviceinstitutionen
-  * Einen Überblick über verfügbare Infrastruktur und über die Verantwortlichkeit für entstehende Kosten
-  * Eine Verpflichtung, Datenmanagementpläne zu verwenden
-  * Eine Empfehlungen zur Vereinfachung der Nachnutzung von Forschungsdaten
-  * Einen Überblick über Berichtspflichten und ggfs. Sanktionen.
+* Eine Definition des Begriffs Forschungsdaten
+* Eine Definition der Daten, die der Policy unterliegen
+* Kriterien für die Auswahl zu veröffentlichender Daten
+* Einen Überblick über die Verantwortlichkeiten von Förderinstitutionen, Forschenden und wissenschaftlichen Serviceinstitutionen
+* Einen Überblick über verfügbare Infrastruktur und über die Verantwortlichkeit für entstehende Kosten
+* Eine Verpflichtung, Datenmanagementpläne zu verwenden
+* Eine Empfehlungen zur Vereinfachung der Nachnutzung von Forschungsdaten
+* Einen Überblick über Berichtspflichten und ggfs. Sanktionen.
 
-  -------------
-  (https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/)
+-------------
+(https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/)
 
 
 #### Gruppenarbeit
