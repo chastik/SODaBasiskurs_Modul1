@@ -248,13 +248,31 @@ Quellenangabe
 
 Deutsches Archäologisches Institut (DAI): Data Policy. Online verfügbar unter: https://www.dainst.org/data-policy
 
-
-### Zusammenfassung
-
-
 #### Umfrage
 
 **Braucht es eine Policy für wissenschaftliche Sammlungen an Universitäten und Hochschulen?**
+
+### Relevanz für Sammlungsdaten
+
+- Notwendigkeit spezifischer Regelwerke für Sammlungen
+
+- Klärung von Zuständigkeiten (z. B. Kustod*innen, Forschende, Repositorien)
+
+- Sicherung von Langzeitverfügbarkeit, Sichtbarkeit und FAIRness
+
+- Unterstützung bei der Verknüpfung von Sammlungs- und Forschungsdaten
+
+#### Beispiel "USGS Policy on Scientific Working Collections" 
+
+ ![USGS Policy](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/FDMPolicyUSGS.png)<!--width="100%"-->
+
+-----------
+Quellenangabe
+
+(https://www.usgs.gov/scientific-collections/usgs-policy-scientific-working-collections)
+
+
+
 
 
 
