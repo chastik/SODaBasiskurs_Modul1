@@ -196,6 +196,8 @@ im Online-Plenum:
 
 - die TN führen eine kurze Recherche zu den FDM-Kernelementen einer institutionellen FDM-Policy durch und die Ergebnisse werden im Plenum durch Zuruf oder im Chat zusammengetragen.
 
+
+
 **Gute Beispiele**
 
 Folgende Policies enthalten in etwa die im T2T 5 genannten Elemente: Quelle: https://www.forschungsdaten.org/index.php/Data_Policies
@@ -217,8 +219,20 @@ Folgende Policies enthalten in etwa die im T2T 5 genannten Elemente: Quelle: htt
 
 Fachspezifische FDM-Policies definieren disziplinspezifische Standards und Anforderungen für den Umgang mit Forschungsdaten, angepasst an Besonderheiten fachlicher Bedarfe wie z.B. ethische Fragen einer Fachcommunity (z. B. Archäologie, Medizin, Biologie).
 
+**Beispiel** 
+
+Deutsches Archäologisches Institut (DAI), Data Policy: Legt spezifische Vorgaben für das Forschungsdatenmanagement in der Archäologie fest und ergänzt institutionelle Regeln um fachliche Anforderungen (z. B. Dokumentation von Grabungsdaten, Langzeitarchivierung, FAIR-Prinzipien).
+
+--------
+Deutsches Archäologisches Institut (DAI): Data Policy. Online verfügbar unter: https://www.dainst.org/data-policy
 
 
 ### Zusammenfassung
+
+
+#### Umfrage
+
+**Braucht es eine Policy für wissenschaftliche Sammlungen an Universitäten und Hochschulen?**
+
 
 
