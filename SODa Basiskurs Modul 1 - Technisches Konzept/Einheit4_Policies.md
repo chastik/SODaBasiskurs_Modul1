@@ -12,3 +12,6 @@ link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/sod
 comment:  WissKi SODA OERs
 
 -->
+
+Autorenrichtlinien....
+Welches Element hat welche Funktion...
