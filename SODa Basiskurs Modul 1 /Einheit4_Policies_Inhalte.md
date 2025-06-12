@@ -67,15 +67,15 @@ SODa, Sammlungen, Objekte, Datenkompetenzen
 Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 
-## Forschungsdaten-Policies
+## Forschungsdaten-Policies 
 
-- Verbindliche Orientierung: Forschungsdaten-Policies bieten klaren Regeln für den Umgang mit Forschungsdaten und fördern so die Einhaltung der guten wissenschaftlichen Praxis 
+- **Verbindliche Orientierung**: Forschungsdaten-Policies bieten klaren Regeln für den Umgang mit Forschungsdaten und fördern so die Einhaltung der guten wissenschaftlichen Praxis 
 
-- Strategische Steuerung: Sie unterstützen Hochschulen bei der Entwicklung und Umsetzung institutioneller FDM-Strategien 
+- **Strategische Steuerung**: Sie unterstützen Hochschulen bei der Entwicklung und Umsetzung institutioneller FDM-Strategien 
 
-- Rechtssicherheit: Durch die Klärung von Zuständigkeiten und rechtlichen Rahmenbedingungen schaffen sie Sicherheit für Forschende und Institutionen
+- **Rechtssicherheit**: Durch die Klärung von Zuständigkeiten und rechtlichen Rahmenbedingungen schaffen sie Sicherheit für Forschende und Institutionen
 
-- Nachhaltigkeit und Sichtbarkeit: Forschungsdaten-Policies fördern die langfristige Archivierung und Nachnutzung von Forschungsdaten 
+- **Nachhaltigkeit und Sichtbarkeit**: Forschungsdaten-Policies fördern die langfristige Archivierung und Nachnutzung von Forschungsdaten 
 
 
 ### Definition
@@ -85,7 +85,7 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 -----------
 (https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/)
 
-### Weitere Definhitionen
+#### Beispiel Univ. Mannheim
 
 „Die Universität Mannheim möchte mit dieser Forschungsdaten-Policy den Mitgliedern der Universität **eine Orientierung im Umgang mit Forschungsdaten geben und leistungsfähige Strukturen für das Management von Forschungsdaten etablieren**. Ziel ist ein zukunftsfähiges, institutionelles Forschungsdatenmanagement, das die Mannheimer Fächer effektiv unterstützt und zur nachhaltigen Sichtbarkeit und Exzellenz ihrer Ergebnisse beiträgt.“ 
 
@@ -93,18 +93,12 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 (Policy der Uni Mannheim S. 3: https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/forschung/Forschungsdaten-Policy.pdf)
 
 
+#### Beispiel Univ. Wien
 
 „Diese Policy für Forschungsdatenmanagement hat das Ziel, **Forscher*innen bei der Verarbeitung von Forschungsdaten bestmöglich zu unterstützen und die Risiken bei der Verarbeitung von Forschungsdaten zu reduzieren**.“ 
 
 --------------
 (Forschungsdatenpolicy der Uni Wien https://rdm.univie.ac.at/de/fdm-policy-und-faq/)
-
-Forschungsdaten Policies haben das Ziel, **den Umgang mit Forschungsdaten in einer Organisation oder Institution zu regulieren und zu standardisieren. Sie sollen sicherstellen, dass Forschungsdaten verantwortungsvoll und nach den Prinzipien der „guten wissenschaftlichen Praxis“ behandelt werden**. Dazu gehören beispielsweise die Sicherung und Archivierung der Daten, die Veröffentlichung und Nachnutzung, sowie die Einhaltung ethischer und rechtlicher Rahmenbedingungen. 
-
-
---------------
-(KI Google - Fragestellung: Was sind die Ziele von Forschungsdatenpolicies? erstellt am 2025.05.28)
-
 
 
 ### Arten 
@@ -127,6 +121,14 @@ Forschungsdaten Policies haben das Ziel, **den Umgang mit Forschungsdaten in ein
 * Sicherstellung, dass Forschungsdaten gemäß der GWP behandelt werden
 * Unterstützung der Forschenden bei der Verarbeitung von Forschungsdaten und Umsetzung der Richtlinien zu FDM
 * Minimierung von Risiken bei der Verarbeitung von Forschungsdaten
+
+#### Beispiel (KI generiert) 
+
+Forschungsdaten Policies haben das Ziel, **den Umgang mit Forschungsdaten in einer Organisation oder Institution zu regulieren und zu standardisieren. Sie sollen sicherstellen, dass Forschungsdaten verantwortungsvoll und nach den Prinzipien der „guten wissenschaftlichen Praxis“ behandelt werden**. Dazu gehören beispielsweise die Sicherung und Archivierung der Daten, die Veröffentlichung und Nachnutzung, sowie die Einhaltung ethischer und rechtlicher Rahmenbedingungen. 
+
+--------------
+(KI Google - Fragestellung: Was sind die Ziele von Forschungsdatenpolicies? erstellt am 2025.05.28)
+
 
 
 ### Institutionelle FDM-Policies
