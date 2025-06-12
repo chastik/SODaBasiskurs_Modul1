@@ -51,7 +51,11 @@ Rebekka Reichert
 
 Fachexpertise Erschließung
 
-HU Berlin
+SODa, Sammlungen, Objekte, Datenkompetenzen
+
+Humboldt-Universität zu Berlin
+
+***
 
 
 Canan Hastik 
@@ -65,13 +69,18 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 ## Forschungsdaten-Policies
 
-***Definitionen***
+ ![Mentimeter](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/FDMPolicies.png)<!--width="70%"-->
+
+
+### Definition
 
 „Unter Forschungsdatenpolicies werden Richtlinien verstanden, die für alle Mitarbeiterinnen und Mitarbeiter einer Institution (z. B. Hochschulinstitut) festschreiben, wie Forschungsdatenmanagement angegangen werden soll. Solche begleitenden Regelwerke (engl. policies) existieren nicht nur für wissenschaftliche Institutionen sondern auch für Förderorganisationen und sind mittlerweile eine wichtige Orientierungshilfe für den Umgang mit Forschungsdaten.“ 
 
 -----------
 (https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/)
 
+
+### Arten 
 
 „Eine Forschungsdaten-Policy enthält Vorgaben zum Umgang mit Forschungsdaten. Es gibt verschiedene Arten von Policies, zum Beispiel:
 
@@ -85,7 +94,7 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 (T2T 5 S. 33)
 
 
-### Ziele
+### Ziele 
 
 * Umgang mit Forschungsdaten zu standardisieren
 * Sicherstellung, dass Forschungsdaten gemäß der GWP behandelt werden
@@ -93,7 +102,9 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 * Minimierung von Risiken bei der Verarbeitung von Forschungsdaten
 
 
-### Hat Ihre Institution eine Forschungsdaten-Policy?
+### Institutionelle FDM-Policies
+
+**Hat Ihre Institution eine Forschungsdaten-Policy?**
 
 Bildschirm-Memory:
 
@@ -102,9 +113,10 @@ Bildschirm-Memory:
 - Wer es nicht weiß, wechselt.
 
 
-### Die Kernelemente einer FDM-Policy
+### Kernelemente
 
 „Elemente einer institutionellen Forschungsdaten-Policy:
+
 1. Präambel
 2. Geltungsbereich
 3. Rechtliche Aspekte
@@ -130,36 +142,39 @@ Bildschirm-Memory:
   (https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/)
 
 
-### Welche Elemente hat die Forschungsdaten-Policy Ihrer Institution?
+### Gruppenarbeit
+
+
+**Welche Elemente hat die Forschungsdaten-Policy Ihrer Institution?**
 
 Breakoutrooms:
 
-(3-5 Personen pro Gruppe) 
+- In Kleingruppen (je 3-5 Personen) wird eine kurze Recherche zu den FDM-Kernelementen einer institutionellen FDM-Policy durchgeführt und die Ergebnisse gegenseitig vorstellt.
 
-Kurze Recherche und gegenseitiges vorstellen
+ODER 
 
+im Online-Plenum:
 
+- die TN führen eine kurze Recherche zu den FDM-Kernelementen einer institutionellen FDM-Policy durch und die Ergebnisse werden im Plenum durch Zuruf oder im Chat zusammengetragen.
 
-Beispiele: 
+**Gute Beispiele**
 
 Folgende Policies enthalten in etwa die im T2T 5 genannten Elemente: Quelle: https://www.forschungsdaten.org/index.php/Data_Policies
 
-    Policy der Uni Mannheim: https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/forschung/Forschungsdaten-Policy.pdf
+- Policy der Uni Mannheim: https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/forschung/Forschungsdaten-Policy.pdf  
     
+- Policy der Uni Wien: https://rdm.univie.ac.at/de/fdm-policy-und-faq/
     
-    Policy der Uni Wien: https://rdm.univie.ac.at/de/fdm-policy-und-faq/
+- Policy der FU Berlin: https://refubium.fu-berlin.de/bitstream/handle/fub188/30821/Forschungsdaten-Policy_der_Freien_Universitaet_Berlin.pdf?sequence=2&isAllowed=y
     
-    
-    Policy der FU Berlin: https://refubium.fu-berlin.de/bitstream/handle/fub188/30821/Forschungsdaten-Policy_der_Freien_Universitaet_Berlin.pdf?sequence=2&isAllowed=y
-    
-
-    Policy der Uni München: https://epub.ub.uni-muenchen.de/116800/1/Leitfaden_fuer_FDM_in_den_DH__Version1-2_.pdf
+- Policy der Uni München: https://epub.ub.uni-muenchen.de/116800/1/Leitfaden_fuer_FDM_in_den_DH__Version1-2_.pdf
     
 
-    Policy der RWTH Aachen: https://www.rwth-aachen.de/cms/root/Forschung/Forschungsdatenmanagement/Forschungsdatenmanagement-an-der-RWTH/~ncfw/Leitlinie-zum-Forschungsdatenmanagement/
+- Policy der RWTH Aachen: https://www.rwth-aachen.de/cms/root/Forschung/Forschungsdatenmanagement/Forschungsdatenmanagement-an-der-RWTH/~ncfw/Leitlinie-zum-Forschungsdatenmanagement/
     
+- Policy der Hochschule Bremen: www.hs-bremen.de/assets/hsb/de/Dokumente/Referate/R02/Rechtssammlung/Qualitätssicherung/Forschungsdaten-Policy_der_Hochschule_Bremen__Fassung_Amtliche_Mitteilungen_der_HSB_2-2025_vom_2025-02-03_.pdf
 
-    Policy der Hochschule Bremen: www.hs-bremen.de/assets/hsb/de/Dokumente/Referate/R02/Rechtssammlung/Qualitätssicherung/Forschungsdaten-Policy_der_Hochschule_Bremen__Fassung_Amtliche_Mitteilungen_der_HSB_2-2025_vom_2025-02-03_.pdf
+Weitere Beispiele
 
 
 ### Nennen Sie gute Beispiele
