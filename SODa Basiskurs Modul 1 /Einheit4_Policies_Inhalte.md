@@ -151,6 +151,9 @@ Bildschirm-Memory:
 
 ### Kernelemente
 
+![Bestandteile einer institutionellen FDM-Policy](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/FDMPolicies-Elemente.png)<!--width="100%"-->
+
+
 „Elemente einer institutionellen Forschungsdaten-Policy:
 
 1. Präambel
