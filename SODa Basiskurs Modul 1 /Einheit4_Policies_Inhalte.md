@@ -1,7 +1,7 @@
 
 !--
 
-author: Canan Hastik  
+author: Canan Hastik und Rebekka Reichert 
 email:    
 version:  v1
 language: DE
@@ -15,11 +15,11 @@ Einheitliche Metadaten:
 
 **In dieser Einheit können Teilnehmende…**
 
-* TaDiRAH anwenden, analysieren und weiterdenken.
+* gute Beipsiele für FDM-Policies benennen und erläutern.
 
-**Diese Einheit behandelt Themen…**
+**Diese Einheit behandelt Themen**
 
-* ....
+* Elemente und Ziele von FDM-Policies.
 
 **Für diesen Workshop werden vorausgesetzt…**
 
@@ -41,9 +41,18 @@ aus Cluster „Grundlegende und übergreifende Konzepte Forschungsdatenmanagemen
 
 **Modul 1, Teil 1: Sammlungs- und Objektdaten als Forschungsdaten managen**
 
+**Thema: Forschungsdaten-Policies**
+
 **13. Juni 2025, 14:00 - 15:30 Uhr**
 
 ---
+
+Rebekka Reichert 
+
+Fachexpertise Erschließung
+
+HU Berlin
+
 
 Canan Hastik 
 
@@ -56,8 +65,7 @@ Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
 
 ## Forschungsdaten-Policies
 
-
-### Definitionen
+***Definitionen***
 
 „Unter Forschungsdatenpolicies werden Richtlinien verstanden, die für alle Mitarbeiterinnen und Mitarbeiter einer Institution (z. B. Hochschulinstitut) festschreiben, wie Forschungsdatenmanagement angegangen werden soll. Solche begleitenden Regelwerke (engl. policies) existieren nicht nur für wissenschaftliche Institutionen sondern auch für Förderorganisationen und sind mittlerweile eine wichtige Orientierungshilfe für den Umgang mit Forschungsdaten.“ 
 
