@@ -47,6 +47,6 @@ aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema �
 
 **Methoden**
 
-- zu 5.1 Input und Bildschirm-Memory (ca. 2 Min.)
-- zu 5.2 - 5.3 Drag & Drop und Fehlersuche auf Miroboard (ca. 5 Min.)
-- zu 5.4 Impuls (ca. 3 Min.)
+- zu Input und Bildschirm-Memory (ca. 2 Min.)
+- zu Drag & Drop und Fehlersuche auf Miroboard (ca. 5 Min.)
+- zu Impuls (ca. 3 Min.)
