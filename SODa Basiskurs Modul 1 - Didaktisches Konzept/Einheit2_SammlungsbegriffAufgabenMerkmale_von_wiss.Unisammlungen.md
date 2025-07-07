@@ -29,20 +29,20 @@ Keine Voraussetzungen nötig.
 
 **In Einheit 2 können Teilnehmende…**
 
-- Relevanz und Nutzen von FDM benennen.
-- Sammlungsspezifik diskutieren.
+- die Relevanz und den Nutzen von FDM benennen.
+- Sammlungsspezifische Aspekte diskutieren.
 
 **Einheit 2 adressiert Lernziele der LZM**[1]
 
 aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM).“
 
-2.1. die Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (01\_001\_0001)
+2.1. Lernden können die Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (01\_001\_0001)
 
-2.2. den Nutzen von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen.  (01\_001\_0004)
+2.2. Lernden können den Nutzen von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen.  (01\_001\_0004)
 
-2.3  Sammlungsbegriff diskutieren. (neu)
+2.3  Lernden können den Sammlungsbegriff diskutieren. (neu)
 
-2.4  Sammlungsfunktionen benennen. (neu)
+2.4  Lernden können wesentliche Sammlungsfunktionen benennen. (neu)
 
 
 **Didaktische Methoden in Einheit 2 für Online Workshop und Plenum**
