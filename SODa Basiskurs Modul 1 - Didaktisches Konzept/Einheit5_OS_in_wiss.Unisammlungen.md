@@ -15,28 +15,29 @@ comment:  WissKi SODA OERs
 # SODa Basiskurs Modul 1 
 
 *Einheit 5 - Open Science in wissenschaftlichen Universitätssammlungen*
+<!-- kurz: Einheit5_OS_in_wiss.Unisammlungen -->
 
 **Einheit 5 behandelt Themen…**
 
+- Open Science und offene Daten
+
 aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen der LZM[1]
 
-- Open Science und offene Daten
 
 **Für Einheit 5 werden vorausgesetzt…**
 
-
+Keine Voraussetzungen nötig.
 
 **In Einheit 5 können Teilnehmende…**
 
 - Open Science
 - Relevanz von Open Science
-- Unterschied zu den FAIR Prinzipien
 - Qualitätskriterien von offenen Daten
 benennen und erläutern.[1]
 
 **Einheit 1 adressiert Lernziele der LZM**[1]
 
-aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Personen und Rollen im Forschungsdatenmanagement (FDM)“
+aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Open (Science, Data, Source...)“
 
 5.1. Lernende können Ziele von Open Science benennen. (LZ-ID 01_08_0138)
 
