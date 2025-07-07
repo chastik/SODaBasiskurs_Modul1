@@ -15,16 +15,18 @@ comment:  WissKi SODA OERs
 # SODa Basiskurs Modul 1 
 
 *Einheit 6 - Sammlungsbezogener Forschungsdatenlebenszyklus*
+<!-- kurz: Einheit6_Sammlungsbezogener_FDZyklus -->
 
 **Einheit 6 behandelt Themen…**
 
+- Forschungsdatenlebenszyklus
+
 aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen der LZM[1]
 
-- Forschungsdatenlebenszyklus
 
 **Für Einheit 6 werden vorausgesetzt…**
 
-
+Keine Voraussetzungen nötig.
 
 **In Einheit 6 können Teilnehmende…**
 
@@ -44,7 +46,7 @@ aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema �
 
 6.4  Lernende können Forschungsdatenmanagement (FDM)-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus erläutern. (LZ-ID 01_004_0083)
 
-**Methoden**
+**Didaktische Methoden in Einheit 4 für Online Workshop im Plenum und in Gruppenarbeit**
 
 - zu 6.1 und 6.4 Gruppenarbeit (ca. 11 Min.)
 - zu 6.2 Impuls (ca. 2 Min.)
