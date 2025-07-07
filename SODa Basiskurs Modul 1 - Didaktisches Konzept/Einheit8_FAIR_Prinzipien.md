@@ -14,7 +14,7 @@ comment:  WissKi SODA OERs
 
 # SODa Basiskurs Modul 1 
 
-*Einheit 8 - FAIR Prinzipien*
+*Einheit 8 - FAIR Prinzipien in universitären Sammlungen*
 
 **Einheit 8 behandelt Themen…**
 
