@@ -32,7 +32,7 @@ Keine Voraussetzungen nötig.
 **In Einheit 1 können Teilnehmende…**
 
 - den Begriff Forschungsdaten erläutern.
-- Beispiele für Forschungs- und Sammlungsdaten benennen.
+- Beispiele für Forschungsdaten in wiss. Universitätssammlungen benennen.
 
 **Einheit 1 adressiert Lernziele der LZM** [1]
 
@@ -42,11 +42,10 @@ aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema �
 
 1.2. Lernende können Beispiele für Forschungsdaten benennen. (01\_001\_0008)
 
-1.3  Lernende können Beispiele für Sammlungsdaten benennen. (neu)
+1.x. Beispiele in wissenschaftlichen Universitätssammlungen (klären)
 
 
 **Didaktische Methoden in Einheit 1 für Online Workshop und Plenum**
 
 - zu 1.1. Input (ca. xx Min.)
 - zu 1.2. Mentimeterumfrage (Word Cloud) (ca. xx Min.)
-- zu 1.3. Mentimeterumfrage (Word Cloud) (ca. xx Min.)
