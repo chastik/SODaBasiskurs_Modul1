@@ -15,6 +15,8 @@ comment:  WissKi SODA OERs
 # SODa Basiskurs Modul 1 
 
 *Einheit 4 Forschungsdaten Policies für wissenschaftliche Universitätssammlungen*
+<!-- kurz: Einheit4_FDMPolicies_für_wiss.Unisammlungen -->
+
 
 **Einheit 4 behandelt Themen…**
 
