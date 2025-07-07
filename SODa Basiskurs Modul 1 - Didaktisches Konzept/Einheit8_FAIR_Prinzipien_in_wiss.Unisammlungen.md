@@ -19,7 +19,7 @@ comment:  WissKi SODA OERs
 
 **Einheit 8 behandelt Themen…**
 
-aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen der LZM[1]
+aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen der LZM [1]
 
 - FAIR Prinzipien
 
@@ -35,7 +35,7 @@ Keine Voraussetzungen nötig.
 - Schwierigkeiten bei der Umsetzung
 benennen und erläutern.[1]
 
-**Einheit 8 adressiert Lernziele der LZM**[1]
+**Einheit 8 adressiert Lernziele der LZM** [1]
 
 aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Personen und Rollen im Forschungsdatenmanagement (FDM)“
 
