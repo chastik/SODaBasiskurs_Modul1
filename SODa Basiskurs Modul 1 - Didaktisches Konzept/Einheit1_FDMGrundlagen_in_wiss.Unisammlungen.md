@@ -17,6 +17,9 @@ comment:  WissKi SODA OERs
 *Einheit 1 FDM Grundlagen für Sammlungs- und Objektdaten in wissenschaftlichen Universitätssammlungen* 
 <---kurz: Einheit1_FDMGrundlagen_in_wiss.Unisammlungen--->
 <--- Kommentar --->
+> Kommentartext
+<!-- Das ist ein unsichtbarer Kommentar -->
+
 
 **Einheit 1 behandelt Themen…**
 
