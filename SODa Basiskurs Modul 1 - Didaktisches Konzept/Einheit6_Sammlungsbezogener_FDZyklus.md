@@ -12,7 +12,7 @@ comment:  WissKi SODA OERs
 
 -->
 
-# SODa Basiskurs Modul 1 
+# SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen Modul 1 
 
 *Einheit 6 - Sammlungsbezogener Forschungsdatenlebenszyklus*
 <!-- kurz: Einheit6_Sammlungsbezogener_FDZyklus -->
