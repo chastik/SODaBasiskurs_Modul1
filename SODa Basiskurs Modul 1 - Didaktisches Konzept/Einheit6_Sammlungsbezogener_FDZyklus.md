@@ -21,7 +21,7 @@ comment:  WissKi SODA OERs
 
 - Forschungsdatenlebenszyklus
 
-aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen der LZM[1]
+aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen der LZM [1]
 
 
 **Für Einheit 6 werden vorausgesetzt…**
