@@ -41,13 +41,11 @@ aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema �
 
 8.1. Lernende können die FAIR-Prinzipien benennen. (LZ-ID 01\_007\_0117)
 
-8.2. Lernende können die FAIR-Prinzipien erläutern. (LZ-ID 01\_007\_0118)
+8.2. Lernende können den Unterschied zwischen FAIR und Open Science benennen. (LZ-ID 01\_008\_0145)
 
-8.3. Lernende können den Unterschied zwischen FAIR und Open Science benennen. (LZ-ID 01\_008\_0145)
+8.3. Lernende können die Relvanz der FAIR-Prinzipien für das Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 01\_007\_0119)
 
-8.4. Lernende können die Relvanz der FAIR-Prinzipien für das Forschungsdatenmanagement (FDM) erläutern. (LZ-ID 01\_007\_0119)
-
-8.5. Lernende können Schwierigkeiten bei der Umsetzung der FAIR-Prinzipien benennen. (LZ-ID 01\_007\_0129)
+8.4. Lernende können Schwierigkeiten bei der Umsetzung der FAIR-Prinzipien benennen. (LZ-ID 01\_007\_0129)
 
 
 ****Didaktische Methoden in Einheit 8 für Online Workshop im Plenum und in Gruppenarbeit****
@@ -56,7 +54,6 @@ aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema �
 - zu 8.2 Impuls (2 Min.)
 - zu 8.3 (5 Min.)
 - zu 8.4 (5 Min.)
-- zu 8.5 ()
 
 
 
