@@ -12,7 +12,7 @@ comment:  WissKi SODA OERs
 
 -->
 
-# SODa Basiskurs Modul 1 
+# SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen Modul 1 
 
 *Einheit 5 - Open Science in wissenschaftlichen Universitätssammlungen*
 <!-- kurz: Einheit5_OS_in_wiss.Unisammlungen -->
