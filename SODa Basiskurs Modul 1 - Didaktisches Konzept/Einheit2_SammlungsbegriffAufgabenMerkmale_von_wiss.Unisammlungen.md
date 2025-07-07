@@ -12,7 +12,7 @@ comment:  WissKi SODA OERs
 
 -->
 
-# SODa Basiskurs Modul 1 
+# SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen Modul 1 
 
 *Einheit 2 Sammlungsbegriff, Aufgaben und Merkmale von wissenschaftlichen Universitätssammlungen*
 <!-- kurz: Einheit2_SammlungsbegriffAufgabenMerkmale_von_wiss.Unisammlungen -->
