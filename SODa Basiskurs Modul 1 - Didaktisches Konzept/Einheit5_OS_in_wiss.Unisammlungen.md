@@ -39,13 +39,13 @@ benennen und erläutern.[1]
 
 aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Open (Science, Data, Source...)“
 
-5.1. Lernende können Ziele von Open Science benennen. (LZ-ID 01_08_0138)
+5.1. Lernende können Ziele von Open Science benennen. (LZ-ID 01\_08\_0138)
 
-5.2. Lernende können die Prinzipien von Open Science benennen. (LZ-ID 01_008_0136)
+5.2. Lernende können die Prinzipien von Open Science benennen. (LZ-ID 01\_008\_0136)
 
-5.3  Lernende können die verschiedenen Dimensionen von Open Science benennen. (LZ-ID 01_08_0140)
+5.3  Lernende können die verschiedenen Dimensionen von Open Science benennen. (LZ-ID 01\_08\_0140)
 
-5.4  Lernende können die Relevanz von Open Science für Wissenschaft und Gesellschaft benennen. (LZ-ID 01_08_0142)
+5.4  Lernende können die Relevanz von Open Science für Wissenschaft und Gesellschaft benennen. (LZ-ID 01\_08\_0142)
 
 **Methoden**
 
