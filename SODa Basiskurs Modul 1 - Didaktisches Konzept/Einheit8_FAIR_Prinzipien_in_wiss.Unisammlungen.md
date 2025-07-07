@@ -12,7 +12,7 @@ comment:  WissKi SODA OERs
 
 -->
 
-# SODa Basiskurs Modul 1 
+# SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen Modul 1 
 
 *Einheit 8 - FAIR Prinzipien in universitären Sammlungen*
 <!-- kurz: Einheit4_FAIR_Prinzipien_in_wiss.Unisammlungen -->
