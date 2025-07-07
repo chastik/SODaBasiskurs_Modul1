@@ -14,7 +14,7 @@ comment:  WissKi SODA OERs
 
 # SODa Basiskurs Modul 1 
 
-*Einheit 7 - Datenmanagementplan (DMP)*
+*Einheit 7 - Datenmanagementplan (DMP) für universitäre Sammlungen*
 
 **Einheit 7 behandelt Themen…**
 
