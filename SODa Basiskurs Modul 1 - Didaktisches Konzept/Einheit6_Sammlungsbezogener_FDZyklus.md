@@ -48,9 +48,10 @@ aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema �
 
 **Didaktische Methoden in Einheit 4 für Online Workshop im Plenum und in Gruppenarbeit**
 
-- zu 6.1 und 6.4 Gruppenarbeit (ca. 11 Min.)
-- zu 6.2 Impuls (ca. 2 Min.)
-- zu 6.3 Impuls (ca. 2 Min.)
+- zu 6.1 Drehen und Wenden (ca. Min.)
+- zu 6.2 Zuordnen (ca. 2 Min.)
+- zu 6.3 Zuordnen (ca. 2 Min.)
+- zu 6.4 vorstellen (ca. 2 Min.)
 
 
 
