@@ -36,7 +36,7 @@ Keine Voraussetzungen nötig.
 
 **Einheit 1 adressiert Lernziele der LZM** [1]
 
-aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM):“
+aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)“
 
 1.1. Lernende können den Begriff Forschungsdaten erläutern . (01\_001\_0007)
 
