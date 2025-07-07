@@ -21,7 +21,7 @@ comment:  WissKi SODA OERs
 
 - Open Science und offene Daten
 
-aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen der LZM[1]
+aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen der LZM [1]
 
 
 **Für Einheit 5 werden vorausgesetzt…**
@@ -40,19 +40,22 @@ benennen und erläutern.
 
 aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Open (Science, Data, Source...)“ 
 
-5.1. Lernende können Ziele von Open Science benennen. (LZ-ID 01\_08\_0138)
+5.1. Lernende können Kodizes und Leitlinen zur Guten Wissenschaftlichen Praxis benennen. (LZ-ID  05\_011\_1031)
 
-5.2. Lernende können die Prinzipien von Open Science benennen. (LZ-ID 01\_008\_0136)
+5.2. Lernende können Ziele von Open Science benennen. (LZ-ID 01\_08\_0138)
 
-5.3  Lernende können die verschiedenen Dimensionen von Open Science benennen. (LZ-ID 01\_08\_0140)
+5.3. Lernende können die Prinzipien von Open Science benennen. (LZ-ID 01\_008\_0136)
 
-5.4  Lernende können die Relevanz von Open Science für Wissenschaft und Gesellschaft benennen. (LZ-ID 01\_08\_0142)
+5.4.  Lernende können die verschiedenen Dimensionen von Open Science benennen. (LZ-ID 01\_08\_0140)
+
+5.5.  Lernende können die Relevanz von Open Science für Wissenschaft und Gesellschaft benennen. (LZ-ID 01\_08\_0142)
 
 **Didaktische Methoden in Einheit 5 für Online Workshop und Plenum**
 
-- zu 5.1 Umfrage (Wortwolke) (ca. 2 Min.)
-- zu 5.2 - 5.3 Drag & Drop und Fehlersuche auf Miroboard (ca. 5 Min.)
-- zu 5.4 Impuls (ca. 3 Min.)
+- zu 5.1
+- zu 5.2 Umfrage (Wortwolke) (ca. 2 Min.)
+- zu 5.3 - 5.4 Drag & Drop und Fehlersuche auf Miroboard (ca. 5 Min.)
+- zu 5.5 Impuls (ca. 3 Min.)
 
 
 
