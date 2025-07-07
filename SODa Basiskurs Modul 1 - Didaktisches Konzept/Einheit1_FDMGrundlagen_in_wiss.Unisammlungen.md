@@ -34,16 +34,15 @@ Keine Voraussetzungen nötig.
 - den Begriff Forschungsdaten erläutern.
 - Beispiele für Forschungs- und Sammlungsdaten benennen.
 
-**Einheit 1 adressiert Lernziele der LZM**[1]
+**Einheit 1 adressiert Lernziele der LZM** [1]
 
-aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM).“
+aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM):“
 
-1.1. den Begriff Forschungsdaten erläutern . (01\_001\_0007)
+1.1. Lernende können den Begriff Forschungsdaten erläutern . (01\_001\_0007)
 
-1.2. Beispiele für Forschungsdaten benennen. (01\_001\_0008)
+1.2. Lernende können Beispiele für Forschungsdaten benennen. (01\_001\_0008)
 
-1.3  Beispiele für Sammlungsdaten benennen. (neu)
-
+1.3  Lernende können Beispiele für Sammlungsdaten benennen. (neu)
 
 
 **Didaktische Methoden in Einheit 1 für Online Workshop und Plenum**
