@@ -33,11 +33,12 @@ Keine Voraussetzungen nötig.
 - Open Science
 - Relevanz von Open Science
 - Qualitätskriterien von offenen Daten
-benennen und erläutern.[1]
 
-**Einheit 1 adressiert Lernziele der LZM**[1]
+benennen und erläutern.
 
-aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Open (Science, Data, Source...)“
+**Einheit 1 adressiert Lernziele der LZM** [1]
+
+aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Open (Science, Data, Source...)“ 
 
 5.1. Lernende können Ziele von Open Science benennen. (LZ-ID 01\_08\_0138)
 
@@ -47,7 +48,7 @@ aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema �
 
 5.4  Lernende können die Relevanz von Open Science für Wissenschaft und Gesellschaft benennen. (LZ-ID 01\_08\_0142)
 
-**Methoden**
+**Didaktische Methoden in Einheit 5 für Online Workshop und Plenum**
 
 - zu 5.1 Umfrage (Wortwolke) (ca. 2 Min.)
 - zu 5.2 - 5.3 Drag & Drop und Fehlersuche auf Miroboard (ca. 5 Min.)
