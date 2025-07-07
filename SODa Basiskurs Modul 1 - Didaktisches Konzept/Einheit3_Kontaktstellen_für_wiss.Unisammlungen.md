@@ -29,7 +29,7 @@ Keine Voraussetzungen nötig.
 
 **In Einheit 3 können Teilnehmende…**
 
-- Ansprechpartner und Kontaktstellen im Allgemeinen und für wissenschaftliche Universitätssammlungen benennen.
+- Ansprechpartner und Kontaktstellen für das FDM und für wissenschaftliche Universitätssammlungen benennen.
 
 **Einheit 3 adressiert Lernziele der LZM**[1]
 
