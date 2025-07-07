@@ -14,7 +14,7 @@ comment:  WissKi SODA OERs
 
 # SODa Basiskurs Modul 1 
 
-*Einheit 5 - Open Science*
+*Einheit 5 - Open Science in wissenschaftlichen Universitätssammlungen*
 
 **Einheit 5 behandelt Themen…**
 
