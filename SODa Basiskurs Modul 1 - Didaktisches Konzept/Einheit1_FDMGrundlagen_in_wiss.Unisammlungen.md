@@ -14,7 +14,8 @@ comment:  WissKi SODA OERs
 
 # SODa Basiskurs Modul 1 
 
-*Einheit 1 Grundlagen FDM für Sammlungs- und Objektdaten in wissenschaftlichen Universitätssammlungen*
+*Einheit 1 FDM Grundlagen für Sammlungs- und Objektdaten in wissenschaftlichen Universitätssammlungen* 
+<---kurz: Einheit1_FDMGrundlagen_in_wiss.Unisammlungen--->
 
 **Einheit 1 behandelt Themen…**
 
