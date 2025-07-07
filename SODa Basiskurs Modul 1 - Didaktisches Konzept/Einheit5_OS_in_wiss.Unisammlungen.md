@@ -17,11 +17,15 @@ comment:  WissKi SODA OERs
 *Einheit 5 - Open Science in wissenschaftlichen Universitätssammlungen*
 <!-- kurz: Einheit5_OS_in_wiss.Unisammlungen -->
 
-**Einheit 5 behandelt Themen…**
+**Einheit 5 behandelt die Themen…**
+
+- Gute wissenschaftliche Praxis (GWP)
+
+aus dem Cluster "Recht und Ethik" [1]
 
 - Open Science und offene Daten
 
-aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen der LZM [1]
+aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ [1]
 
 
 **Für Einheit 5 werden vorausgesetzt…**
