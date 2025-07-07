@@ -51,6 +51,6 @@ aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema �
 
 **Didaktische Methoden in Einheit 4 für Online Workshop und Plenum**
 
-- zu 4.1. Input und Bildschirm-Memory (ca. 2 Min.)
+- zu 4.1. Input und Bildschirm-Memory (ca. 2 Min.) --> lieber nur eine Methode?
 - zu 4.2. Drag & Drop und Fehlersuche auf Miroboard (ca. 5 Min.)
 - zu 4.3. Impuls (ca. 3 Min.)
