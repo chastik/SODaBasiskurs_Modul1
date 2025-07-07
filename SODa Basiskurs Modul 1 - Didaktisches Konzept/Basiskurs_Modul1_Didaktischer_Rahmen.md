@@ -18,7 +18,7 @@ comment:  WissKi SODA OERs
 
 **Beschreibung**
 
-
+....noch zu ergänzen
 
 **Zielgruppe**
 
@@ -29,13 +29,16 @@ Dieses Modul richtet sich an SODa Personae [3], wie Professor*innen, Sammlungsko
 
 Forschendes Lernen fördert Kompetenzen, die in dynamischen und komplexen Arbeitsumgebungen zunehmend erforderlich sind, verbindet theoretisches Wissen mit praxisorientiertem Handeln und unterstützt die Entwicklung von Fähigkeiten, die direkt in der Arbeitswelt anwendbar sind. Forschendes Lernen integriert selbstgesteuertes, problemorientiertes und kooperatives Lernen.
 
-Die Einheiten aus Lehr-In- und Lern-Output
-folgen dem Prinziep des Ein- und Ausatmens nach Klaus Döring [2].
+Die Einheiten aus Lehr-In- und Lern-Output folgen dem Prinziep des Ein- und Ausatmens nach Klaus Döring [2].
 
 **Themenbereiche im Modul 1**
 
-- basiert auf "Grundlegende und übergreifende Konzepte des FDM" [1]
-
+basiert auf "Grundlegende und übergreifende Konzepte des FDM" [1]
+  
+ - Einheit 1 
+ - Einheit 2
+ - Einheit 3
+ - Einheit 4
  - Einheit 5 zu Open Science adressiert die Motivation und bildet einen Rahmen.
  - Einheit 6 zu Forschungsdatenlebenszyklus bietet Struktur & Orientierung.
  - Einheit 7 zu Datenmanagementplan (DMP) stellt ein Werkzeug zur Planung vor.
@@ -43,8 +46,10 @@ folgen dem Prinziep des Ein- und Ausatmens nach Klaus Döring [2].
 
 **Einheiten und Zeitbedraf im Modul 1**
 
-
-
+- Einheit 1 –
+- Einheit 2
+- Einheit 3
+- Einheit 4
 - Einheit 5 – Open Science (ca. 10 Min.)
 - Einheit 6 – Forschungsdatenlebenszyklus (ca. 15 Min.)
 - Einheit 7 – Datenmanagementplan (ca. 10 Min.)
