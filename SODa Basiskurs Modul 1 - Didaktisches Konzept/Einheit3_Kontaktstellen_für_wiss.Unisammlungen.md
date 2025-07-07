@@ -15,6 +15,7 @@ comment:  WissKi SODA OERs
 # SODa Basiskurs Modul 1 
 
 *Einheit 3 Kontaktstellen für wissenschaftlichen Universitätssammlungen*
+<!-- kurz: Einheit3_Kontaktstellen_für_wiss.Unisammlungen -->
 
 **Einheit 3 behandelt Themen…**
 
