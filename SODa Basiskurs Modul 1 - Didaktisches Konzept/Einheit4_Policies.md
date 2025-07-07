@@ -14,7 +14,7 @@ comment:  WissKi SODA OERs
 
 # SODa Basiskurs Modul 1 
 
-*Einheit 4 Forschungsdaten Policies*
+*Einheit 4 Forschungsdaten Policies für wissenschaftliche Universitätssammlungen*
 
 **Einheit 4 behandelt Themen…**
 
