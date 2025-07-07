@@ -15,6 +15,7 @@ comment:  WissKi SODA OERs
 # SODa Basiskurs Modul 1 
 
 *Einheit 2 Sammlungsbegriff, Aufgaben und Merkmale von wissenschaftlichen Universitätssammlungen*
+<---kurz: Einheit2_SammlungsbegriffAufgabenMerkmale_von_wiss.Unisammlungen.md--->
 
 **Einheit 2 behandelt Themen…**
 
