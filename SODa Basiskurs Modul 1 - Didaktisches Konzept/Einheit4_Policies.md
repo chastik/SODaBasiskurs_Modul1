@@ -19,7 +19,7 @@ comment:  WissKi SODA OERs
 **Einheit 4 behandelt Themen…**
 
 - Forschungsdaten-Policies
-- 
+
 aus Cluster „Grundlegende und übergreifende Konzepte des FDM“ die Themen der LZM[1]
 
 **Für Einheit 4 werden vorausgesetzt…**
