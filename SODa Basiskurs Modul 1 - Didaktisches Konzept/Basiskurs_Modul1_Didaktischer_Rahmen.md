@@ -14,7 +14,7 @@ comment:  WissKi SODA OERs
 
 # Willkommen zu SODa OERs 
 
-*Modul 1 – Basiskurs – Didaktische Rahmen*
+*Modul 1 – Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen – Didaktische Rahmen*
 
 **Beschreibung**
 
