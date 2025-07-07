@@ -14,7 +14,7 @@ comment:  WissKi SODA OERs
 
 # SODa Basiskurs Modul 1 
 
-*Einheit 6 - Sammlungsbezogene Forschungsdatenlebenszyklus*
+*Einheit 6 - Sammlungsbezogener Forschungsdatenlebenszyklus*
 
 **Einheit 6 behandelt Themen…**
 
