@@ -1,6 +1,6 @@
 <!--
 
-author: Canan Hastik  und Rebekka Reichert
+author: Canan Hastik  
 email:    
 version:  v1
 language: DE
