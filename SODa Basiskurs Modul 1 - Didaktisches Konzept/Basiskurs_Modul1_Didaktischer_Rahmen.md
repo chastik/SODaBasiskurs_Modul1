@@ -35,21 +35,21 @@ Die Einheiten aus Lehr-In- und Lern-Output folgen dem Prinziep des Ein- und Ausa
 
 basiert auf "Grundlegende und übergreifende Konzepte des FDM" [1]
   
- - Einheit 1 
- - Einheit 2
- - Einheit 3
- - Einheit 4
+ - Einheit 1 zu sammlungsbezogenen Forschungsdaten und Forschungsdatenmanagement
+ - Einheit 2 zu Sammlungsbegriff, Aufgaben und Merkmalen von wissenschaftlichen Universitätssammlungen
+ - Einheit 3 zu Kontaktstellen für wissenschaftlichen Universitätssammlungen
+ - Einheit 4 zu Forschungsdaten-Policies
  - Einheit 5 zu Open Science adressiert die Motivation und bildet einen Rahmen.
  - Einheit 6 zu Forschungsdatenlebenszyklus bietet Struktur & Orientierung.
  - Einheit 7 zu Datenmanagementplan (DMP) stellt ein Werkzeug zur Planung vor.
  - Einheit 8 zu FAIR-Prinzipien formuliert das Qualitätsziel für Publikation & Nachnutzung.
 
-**Einheiten und Zeitbedraf im Modul 1**
+**Einheiten und Zeitbedarf im Modul 1**
 
-- Einheit 1 –
-- Einheit 2
-- Einheit 3
-- Einheit 4
+- Einheit 1 – Forschungsdatenmanagement (ca. 15 Min.)
+- Einheit 2 - Sammlungsbegriffe und -merkmale (ca. 10. Min.)
+- Einheit 3 - Kontaktstellen (ca. 10 Min.)
+- Einheit 4 - Forschungsdaten-Policies (ca. 15. Min.) 
 - Einheit 5 – Open Science (ca. 10 Min.)
 - Einheit 6 – Forschungsdatenlebenszyklus (ca. 15 Min.)
 - Einheit 7 – Datenmanagementplan (ca. 10 Min.)
