@@ -46,13 +46,15 @@ aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema �
 
 5.1. Lernende können Kodizes und Leitlinen zur Guten Wissenschaftlichen Praxis benennen. (LZ-ID  05\_011\_1031)
 
-5.2. Lernende können Ziele von Open Science benennen. (LZ-ID 01\_08\_0138)
+5.2. Lernende können die Prinzipien von Open Science benennen. (LZ-ID 01\_008\_0136)
 
-5.3. Lernende können die Prinzipien von Open Science benennen. (LZ-ID 01\_008\_0136)
+5.3. Lernende können Ziele von Open Science benennen. (LZ-ID 01\_08\_0138)
 
-5.4.  Lernende können die verschiedenen Dimensionen von Open Science benennen. (LZ-ID 01\_08\_0140)
+5.4. Lernende können die verschiedenen Dimensionen von Open Science benennen. (LZ-ID 01\_08\_0140)
 
-5.5.  Lernende können die Relevanz von Open Science für Wissenschaft und Gesellschaft benennen. (LZ-ID 01\_08\_0142)
+5.5. Lernende können die Relevanz von Open Science für Wissenschaft und Gesellschaft benennen. (LZ-ID 01\_08\_0142)
+
+5.6. Lernende können Plattformen für eine Open Science Veröffentlichung benennen. (LZ-ID 01\_08\_0148)
 
 **Didaktische Methoden in Einheit 5 für Online Workshop und Plenum**
 
