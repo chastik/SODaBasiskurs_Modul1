@@ -25,7 +25,7 @@ comment:  WissKi SODA OERs
 
 **Einheit 5: Open Science in wissenschaftlichen Universitätssammlungen**
 
-**EduBrick: 5.2. Prinzipien von Open Science**
+**EduBrick: 5.2. Dimensionen (Praktiken) von Open Science**
 
 **Lernziel: 5.2. Lernende können die Prinzipien von Open Science benennen. (LZ-ID 01_008_0136)**
 
@@ -38,13 +38,14 @@ Open Science folgt den "Prinzipien guter wissenschaftlicher Praxis (GWP) [siehe 
 
 **Die wichtigsten Prinzipien sind** 
 
-* Open Access: Forschungsergebnisse öffentlich, unbeschränkt und kostenfrei zugänglich machen - Ziel: breite Sichtbarkeit, Nachvollziehbarkeit und gerechter Zugang zu Wissen
-* Open Data: Forschungsdaten (wenn möglich) offen nach FAIR-Prinzipien (Findable, Accessible, Interoperable, Reusable) zugänglich machen - Ermöglicht Nachnutzung, Nachvollziehbarkeit und Reproduzierbarkeit
-* Open Methodology: Der gesamte Forschungsprozess (inkl. Methodenwahl, Erhebungsstrategien, Analyseschritte etc.) wird nachvollziehbar dokumentiert - Ziel: Transparenz und Reproduzierbarkeit von Forschung
-* Open Source / Open Code: Wissenschaftliche Software (Code, Skripte, Tools) quelloffen bereitstellen - Nutzbar, veränderbar, weiterentwickelbar – oft durch Open-Source-Lizenzen geregelt - Umfasst sowohl Software als auch ggf. Hardware
-* Open Peer Review: Der Begutachtungsprozess wird offengelegt: Reviewer:innen können namentlich genannt werden, Gutachten veröffentlicht, Rückmeldungen einsehbar gemacht - Ziel: transparente und nachvollziehbare Qualitätssicherung
-* Open Educational Resources (OER): Lehr- und Lernmaterialien offen lizensieren (z. B. mit CC-Lizenzen) und frei zugänglich machen - OER können verwendet, verändert, kombiniert und verbreitet werden – z. B. in Hochschullehre, Weiterbildung, Citizen Science
-* Citizen Science (Bürgerwissenschaft): Beteiligung von Bürger:innen an wissenschaftlicher Forschung (z. B. bei Datenerhebung, Auswertung oder Kommunikation) - Fördert gesellschaftliche Teilhabe und Relevanz von Wissenschaft
+* Transparenz – Offenlegung von Daten, Methoden, Entscheidungen
+* Nachvollziehbarkeit – Reproduzierbarkeit von Forschungsergebnissen
+* Offenheit – Zugang für alle zu Wissen und Infrastrukturen
+* Partizipation – Beteiligung vielfältiger Akteure, inkl. Citizen Science
+* Gerechtigkeit und Inklusivität – Abbau struktureller Barrieren (z. B. Global South, Gender)
+* Nachhaltigkeit – Langfristige Verfügbarkeit und Weiterverwendbarkeit von Ergebnissen
+* Verantwortung – Wissenschaftliche Integrität und gesellschaftlicher Nutzen
+
 
 ### Beispiele für nationale Austauschformate rund um Open Science
 
