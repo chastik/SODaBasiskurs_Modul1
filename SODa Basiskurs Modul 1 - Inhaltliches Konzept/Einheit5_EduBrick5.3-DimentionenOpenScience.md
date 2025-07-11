@@ -45,18 +45,9 @@ Die Grundprinzipien [siehe Einheit 5.2 Prinzipien] von Open Science bilden das e
 * Citizen Science (Bürgerwissenschaft): Beteiligung von Bürger:innen an wissenschaftlicher Forschung (z. B. bei Datenerhebung, Auswertung oder Kommunikation) 
 
 
-### Beispiele für nationale Austauschformate rund um Open Science
+### Beispiele
 
-**[Podcast der ZBW](https://podcast.zbw.eu/fos/)**
-![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/future_is_open_science.png)<!--width="50%"-->
 
-**[Open Science Conference](https://www.open-science-conference.eu/)**
-
-![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OSconference.png)<!--width="50%"-->
-
-**[Barcamp Open Science](https://www.barcamp-open-science.eu/)**
-
-![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OSBarcamp.png)<!--width="50%"-->
 
 #### Aufgabe
 
