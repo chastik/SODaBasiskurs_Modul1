@@ -25,7 +25,7 @@ comment:  WissKi SODA OERs
 
 **Einheit 5: Open Science in wissenschaftlichen Universitätssammlungen**
 
-**EduBrick: Kodizes und Leitlinen zur Guten Wissenschaftlichen Praxis**
+**EduBrick: 5.1. Kodizes und Leitlinen zur Guten Wissenschaftlichen Praxis**
 
 **Lernziel: 5.1. Lernende können Kodizes und Leitlinen zur Guten Wissenschaftlichen Praxis benennen. (LZ-ID 05_011_1031)**
 
