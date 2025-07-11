@@ -25,21 +25,21 @@ comment:  WissKi SODA OERs
 |  Baustein         | Lernziel         | Inhaltliches Ziel | Didaktische Methode (Arbeitsform)   | Dauer | Inhalt        | Schritt       | Regieanweisung | Materialien (Werkzeuge)  |
 |  ------------     | ------------     | ------------      | ------------ | ------------  |  ------------  |  ------------  |------------  |  ------------  |
 |  1.1. Begriff Forschungsdaten        |Lernende können den Begriff Forschungsdaten erläutern . (01\_001\_0007)| TN können den Begriff Forschungsdaten erläutern.| Folien | ca. Minuten   | Inhalt |  TN hören zu (einatmen)    |  WL stellt wesentliche Definitionen vor. | Folien vorbereiten    | 
-| 1.2. Beispiele zu Forschungsdaten        |Lernende können Beispiele für Forschungsdaten benennen. (01_001_0008)| TN können den Begriff Forschungsdaten erläutern.| Umfrage (Mentimeter)  | ca. Minuten   | Inhalt |   TN agieren (ausatmen)    |  WL präsentiert die Umfrage| Mentimeterumfrage vorbereiten    | 
+| 1.2. Beispiele zu Forschungsdaten        |Lernende können Beispiele für Sammlungs- und Forschungsdaten benennen. (in Anlehnung an 01_001_0008)| TN können den Begriff Forschungsdaten erläutern.| Umfrage (Mentimeter)  | ca. Minuten   | Inhalt |   TN agieren (ausatmen)    |  WL präsentiert die Umfrage| Mentimeterumfrage vorbereiten    | 
 
 **Einheit 2 Sammlungsbegriff, Aufgaben und Merkmale von wissenschaftlichen Universitätssammlungen** 
 | Baustein         | Lernziel         | Inhaltliches Ziel | Didaktische Methode (Arbeitsform)   | Dauer | Inhalt        | Schritt       | Regieanweisung |  Materialien (Werkzeuge)  |
 | ------------     | ------------     | ------------      | ------------ | ------------  |  ------------  |  ------------  |------------  |  ------------  |
 | 2.1. Relevanz von FDM       |Lernden können die Relevanz von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (01_001_0001)| TN können Relevanz von FDM benennen.| Folien | ca. Minuten   | Inhalt |   TN hören zu (einatmen)     |  WL stellt wesentliche Aspekte vor.| Folien vorbereiten    | 
-| 2.2. Nutzen von FDM       | Lernden können den Nutzen von Forschungsdatenmanagement (FDM) für Forschung und Gesellschaft benennen. (01_001_0004)| TN können Nutzen von FDM benennen.| Folien | ca. Minuten   | Inhalt |   TN hören zu (einatmen)     |  WL stellt wesentliche Aspekte vor.| Folien vorbereiten    | 
+| 2.2. Nutzen von FDM       | Lernden können den Nutzen von Forschungsdatenmanagement (FDM) für Forschung, Gesellschaft und ihre Sammlungsarbeit benennen. (in Anlehnung an 01_001_0004)| TN können Nutzen von FDM benennen.| Folien | ca. Minuten   | Inhalt |   TN hören zu (einatmen)     |  WL stellt wesentliche Aspekte vor.| Folien vorbereiten    | 
 | 2.3. Sammlungsbegriff     |Lernden können den Sammlungsbegriff diskutieren. (neu)| TN diskutieren Sammlungsbegriff| Umfrage (Mentimeter) | ca. Minuten   | Inhalt |   TN agieren (ausatmen)     |  WL präsentiert Umfrage.| Mentimeterumfrage vorbereiten    | 
 | 2.4. Sammlungsfunktion   |Lernden können wesentliche Sammlungsfunktionen benennen. (neu)| TN lernen wesentliche Sammlungsfunktionen | Folien | ca. Minuten   | Inhalt |  TN hören zu (einatmen)     |  WL stellt wesentliche Funktionen einer Sammlung vor.| Folien vorbereiten    | 
 
 **Einheit 3 Kontaktstellen für wissenschaftlichen Universitätssammlungen** 
 |  Baustein         | Lernziel         | Inhaltliches Ziel | Didaktische Methode (Arbeitsform)   | Dauer | Inhalt        | Schritt       | Regieanweisung |  Materialien (Werkzeuge)   |
 | ------------     | ------------     | ------------      | ------------ | ------------  |  ------------  |  ------------  |------------  |  ------------  |
-| 3.1. Kontaktstellen   |  Lernende können Ansprechpersonen zum Forschungsdatenmanagement (FDM) an eigenen Institutionen. (01_009_0172)| TN lernen Kontaktstellen kennen. | Folien | ca. Minuten   | Inhalt |  TN hören zu (einatmen)     |  WL stellt wesentliche Kontakstellen vor.| Folien vorbereiten    | 
-| 3.2. Ansprechpersonen   | Lernende können die Angebote und Funktionen von Ansprechpersonen zum Forschungsdatenmanagement (FDM) an eigenen Institutionen benennen. (01_009_0173)| TN lernen Ansprechpersonen und Funktionen kennen. | Folien | ca. Minuten   | Inhalt |  TN hören zu (einatmen)     |  WL stellt vor.| Folien vorbereiten    | 
+| 3.1. Kontaktstellen   |  Lernende können Ansprechpersonen zum sammlungesbzogenen Forschungsdatenmanagement (FDM) benennen. (in Anlehnung an 01_009_0172)| TN lernen Kontaktstellen kennen. | Folien | ca. Minuten   | Inhalt |  TN hören zu (einatmen)     |  WL stellt wesentliche Kontakstellen vor.| Folien vorbereiten    | 
+| 3.2. Ansprechpersonen   | Lernende können die Angebote und Funktionen von Ansprechpersonen zum sammlungsbezogenen Forschungsdatenmanagement (FDM) benennen. (in Anlehnung an 01_009_0173)| TN lernen Ansprechpersonen und Funktionen kennen. | Folien | ca. Minuten   | Inhalt |  TN hören zu (einatmen)     |  WL stellt vor.| Folien vorbereiten    | 
 | 3.3.    | Lernende können... (neu)| TN ... | Folien | ca. Minuten   | Inhalt |   TN hören zu (einatmen)     |  WL stellt vor.| Folien vorbereiten    | 
 
 
