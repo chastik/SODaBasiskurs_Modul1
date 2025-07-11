@@ -32,7 +32,7 @@ comment:  WissKi SODA OERs
 
 ## 5.3. Dimensionen (Praktiken) von Open Science
 
-Die Grundprinzipien [siehe Einheit 5.2 Prinzipien] von Open Science bilden das ethische Fundament für eine offenen wissenschaftlichen Handelns. In den konkreten Dimensionen und Zielen [siehe Einheit 5.x Ziele] zeigt sich, wie diese Werte praktisch umgesetzt und wirksam werden.
+Die Grundprinzipien [siehe Einheit 5.2 Prinzipien] von Open Science bilden das ethische Fundament für eine offenen wissenschaftlichen Handelns. In den konkreten Dimensionen und Zielen [siehe Einheit 5.4 Ziele] zeigt sich, wie diese Werte praktisch umgesetzt und wirksam werden.
 
 **Die Praktiken für Open Science sind** 
 
@@ -45,7 +45,18 @@ Die Grundprinzipien [siehe Einheit 5.2 Prinzipien] von Open Science bilden das e
 * Citizen Science (Bürgerwissenschaft): Beteiligung von Bürger:innen an wissenschaftlicher Forschung (z. B. bei Datenerhebung, Auswertung oder Kommunikation) 
 
 
-### Beispiele
+### Beispiele für Austauschformate rund um Open Science
+
+**[Podcast der ZBW](https://podcast.zbw.eu/fos/)**
+![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/future_is_open_science.png)<!--width="50%"-->
+
+**[Open Science Conference](https://www.open-science-conference.eu/)**
+
+![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OSconference.png)<!--width="50%"-->
+
+**[Barcamp Open Science](https://www.barcamp-open-science.eu/)**
+
+![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OSBarcamp.png)<!--width="50%"-->
 
 
 
