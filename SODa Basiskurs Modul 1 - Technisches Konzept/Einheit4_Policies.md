@@ -1,5 +1,5 @@
 
-!--
+<!--
 
 author: Canan Hastik  
 email:    
@@ -14,4 +14,8 @@ comment:  WissKi SODA OERs
 -->
 
 Autorenrichtlinien....
-Welches Element hat welche Funktion...
+Welches Element hat welche Funktion... Metadatenschema
+
+Wo wird was veröffentlicht?
+
+Technisches Konzept im Sinne einer Readme... ?
