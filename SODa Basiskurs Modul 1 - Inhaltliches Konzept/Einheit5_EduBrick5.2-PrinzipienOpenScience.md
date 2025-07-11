@@ -47,7 +47,7 @@ Open Science folgt den "Prinzipien guter wissenschaftlicher Praxis (GWP) [siehe 
 * Verantwortung – Wissenschaftliche Integrität und gesellschaftlicher Nutzen
 
 
-### Beispiele für nationale Austauschformate rund um Open Science
+### Beispiele für Austauschformate rund um Open Science
 
 **[Podcast der ZBW](https://podcast.zbw.eu/fos/)**
 ![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/future_is_open_science.png)<!--width="50%"-->
