@@ -32,7 +32,7 @@ comment:  WissKi SODA OERs
 
 ## 5.4. Ziele von Open Science
 
-Mit den Prinzipien von Open Science lassen sich die grundlegenden Ziele einer offenen, nachvollziehbaren und partizipativen Wissenschaft realisieren.
+Die Prinzipien [siehe Einheit 5.2 Prinzipien] von Open Science bilden das normative Fundament. In den konkreten Dimensionen [siehe Einheit 5.3 Dimensione] und Zielen zeigt sich, wie diese Werte praktisch umgesetzt und wirksam werden – hin zu einer offenen, nachvollziehbaren und partizipativen Wissenschaft.
 
 **Die wichtigsten Ziele sind** 
 
