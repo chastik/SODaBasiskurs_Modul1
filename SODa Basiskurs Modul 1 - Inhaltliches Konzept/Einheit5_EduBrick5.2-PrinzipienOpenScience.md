@@ -25,12 +25,12 @@ comment:  WissKi SODA OERs
 
 **Einheit 5: Open Science in wissenschaftlichen Universitätssammlungen**
 
-**EduBrick 5.2: Prinzipien von Open Science**
+**EduBrick: 5.2. Prinzipien von Open Science**
 
 **Lernziel: 5.2. Lernende können die Prinzipien von Open Science benennen. (LZ-ID 01_008_0136)**
 
 
-## Prinzipien von Open Science
+## 5.2. Prinzipien von Open Science
 
 
 ### Beispiele
