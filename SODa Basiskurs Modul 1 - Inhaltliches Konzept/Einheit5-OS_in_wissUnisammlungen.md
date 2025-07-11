@@ -44,7 +44,7 @@ comment:  WissKi SODA OERs
 
 5.6. Lernende können Plattformen für eine Open Science Veröffentlichung benennen. (LZ-ID 01_08_0148)
 
-## Kodizes und Leitlienien der DFG
+## 5.1. Kodizes und Leitlienien der DFG
 
 Am 1. August 2019 trat für alle Wissenschaftseinrichtungen der "Kodex zur Sicherung guter wissenschaftlicher Praxis" [1] mit 19 Leitlinien und ihre Erläuterungen rechtsverbindlich in Kranft.
 Für Einrichtungen, die bereits die zuvor geltenden Regelungen von 1998 der DFG-Denkschrift "Sicherung guter wissenschaftlicher Praxis" [2] umgesetzt hatten, galt eine Übergangsfrist von vier Jahren. 
@@ -85,7 +85,6 @@ Die Umsetzung und Anerkennung ist in verschiedenen Varianten möglich:
 * Sanktionen & Korrekturen: Maßnahmen bei Fehlverhalten – von Rüge bis Korrektur/Widerruf
 
 
-
 -----------
 Quellenangaben
 
@@ -99,6 +98,9 @@ Quellenangaben
 
 [5] Humboldt‑Universität zu Berlin. (2023). Satzung der Humboldt‑Universität zu Berlin zur Sicherung guter wissenschaftlicher Praxis und zum Umgang mit Vorwürfen wissenschaftlichen Fehlverhaltens (Amtliches Mitteilungsblatt Nr. 18/2023). https://www.hu-berlin.de/de/forschung/gute-wissenschaftliche-praxis/gwp-satzung-volltext
 
+
+
+## 5.2. Prinzipien von Open Science
 
 
 
