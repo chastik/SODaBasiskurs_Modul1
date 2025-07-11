@@ -36,9 +36,9 @@ comment:  WissKi SODA OERs
 
 5.2. Lernende können die Prinzipien von Open Science benennen. (LZ-ID 01_008_0136)
 
-5.3. Lernende können Ziele von Open Science benennen. (LZ-ID 01_08_0138)
+5.3. Lernende können die verschiedenen Dimensionen von Open Science benennen. (LZ-ID 01_08_0140)
 
-5.4. Lernende können die verschiedenen Dimensionen von Open Science benennen. (LZ-ID 01_08_0140)
+5.4. Lernende können Ziele von Open Science benennen. (LZ-ID 01_08_0138)
 
 5.5. Lernende können die Relevanz von Open Science für Wissenschaft und Gesellschaft benennen. (LZ-ID 01_08_0142)
 
