@@ -32,16 +32,31 @@ comment:  WissKi SODA OERs
 
 ## 5.2. Prinzipien von Open Science
 
+Open Science folgt den "Prinzipien guter wissenschaftlicher Praxis (GWP) [siehe Einheit 5.1] mit den Mitteln einer digitalisierten Gesellschaft" [1] und wird definiert als "the idea that scientific knowledge of all kinds should be openly shared as early as is practical in the discovery process." [2] 
+
+Offene Wissenschaft bedeutet, dass Forschung nicht im Verborgenen stattfindet, sondern für alle zugänglich ist. Forschende, Fachzeitschriften, Geldgeber und die Öffentlichkeit arbeiten dabei zusammen. Wichtig ist, dass Ergebnisse überprüfbar und vergleichbar sind – und dass Wissenschaft verständlicher und transparenter wird.
+
+Ziel ist es, möglichst viele Menschen in Diskussionen über Forschung einzubeziehen. Das gelingt z. B. durch anschauliche Darstellungen, klare Sprache und gute Erklärungen. Wenn Ergebnisse offen zugänglich und gut erklärt sind, können sich mehr Menschen beteiligen – ohne große Hürden.
+
+Open Science betrifft uns alle und ist die Zukunft
+
+ 
+ ![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/img/main/future_is_open_science.png)<!--width="70%"-->
+
+
 
 ### Beispiele
 
 
-#### Überblick über die 19 Leitlinien
+#### xxx
 
 
 
 -----------
 Quellenangaben
 
-[1]  ....
+[1]  Leibniz-Gemeinschaft. (o. J.). Open Science. In Forschung. Abgerufen am 11. Juli 2025, von https://www.leibniz-gemeinschaft.de/forschung/open-science
+leibniz-gemeinschaft.de
+
+[] Nielsen, M. (2011, November 13). Open Science [Video]. YouTube. https://www.youtube.com/watch?v=DnWocYKqvhw
 
