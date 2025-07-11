@@ -30,7 +30,7 @@ comment:  WissKi SODA OERs
 **Lernziel: 5.3. Lernende können Ziele von Open Science benennen. (LZ-ID 01_08_0138)**
 
 
-## 5.2. Ziele von Open Science
+## 5.3. Ziele von Open Science
 
 Mit den Prinzipien von Open Science lassen sich die grundlegenden Ziele einer offenen, nachvollziehbaren und partizipativen Wissenschaft realisieren.
 
@@ -70,8 +70,6 @@ Mit den Prinzipien von Open Science lassen sich die grundlegenden Ziele einer of
 - **Typ:** Vielschichtig – Zoologie, Afrikastudien, Mineralogie  
 - **Besonderheit:** Digitalisierung & FAIR-Zielsetzung  
 - **Zugang:** [https://www.campusmuseum.uni-hamburg.de/](https://www.campusmuseum.uni-hamburg.de/)
-
-
 
 
 ### Weitere Beispiele
