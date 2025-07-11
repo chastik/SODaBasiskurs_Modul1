@@ -25,12 +25,12 @@ comment:  WissKi SODA OERs
 
 **Einheit 5: Open Science in wissenschaftlichen Universitätssammlungen**
 
-**EduBrick: 5.3. Ziele von Open Science**
+**EduBrick: 5.4. Ziele von Open Science**
 
-**Lernziel: 5.3. Lernende können Ziele von Open Science benennen. (LZ-ID 01_08_0138)**
+**Lernziel: 5.4. Lernende können Ziele von Open Science benennen. (LZ-ID 01_08_0138)**
 
 
-## 5.3. Ziele von Open Science
+## 5.4. Ziele von Open Science
 
 Mit den Prinzipien von Open Science lassen sich die grundlegenden Ziele einer offenen, nachvollziehbaren und partizipativen Wissenschaft realisieren.
 
