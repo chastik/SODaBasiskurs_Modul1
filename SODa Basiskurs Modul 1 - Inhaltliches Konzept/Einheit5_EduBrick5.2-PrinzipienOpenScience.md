@@ -41,7 +41,9 @@ Ziel ist es, möglichst viele Menschen in Diskussionen über Forschung einzubezi
 Open Science betrifft uns alle und ist die Zukunft
 
  
- ![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/img/main/future_is_open_science.png)<!--width="70%"-->
+ ![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/img/future_is_open_science.png)<!--width="70%"-->
+
+ 
 
 
 
