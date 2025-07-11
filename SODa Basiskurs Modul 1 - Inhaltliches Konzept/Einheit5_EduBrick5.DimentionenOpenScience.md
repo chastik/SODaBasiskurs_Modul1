@@ -25,14 +25,14 @@ comment:  WissKi SODA OERs
 
 **Einheit 5: Open Science in wissenschaftlichen Universitätssammlungen**
 
-**EduBrick: 5.2. Dimensionen (Praktiken) von Open Science**
+**EduBrick: 5.3. Dimensionen (Praktiken) von Open Science**
 
-**Lernziel: 5.2. Lernende können die Prinzipien von Open Science benennen. (LZ-ID 01_008_0136)**
-
-
-## 5.2. Dimensionen (Praktiken) von Open Science
+**5.3. Lernende können die verschiedenen Dimensionen von Open Science benennen. (LZ-ID 01_08_0140)**
 
 
+## 5.3. Dimensionen (Praktiken) von Open Science
+
+Die Grundprinzipien [siehe Einheit 5.2 Prinzipien] von Open Science bilden das ethische Fundament für eine offenen wissenschaftlichen Handelns. In den konkreten Dimensionen und Zielen [siehe Einheit 5.x Ziele] zeigt sich, wie diese Werte praktisch umgesetzt und wirksam werden.
 
 **Die Praktiken für Open Science sind** 
 
