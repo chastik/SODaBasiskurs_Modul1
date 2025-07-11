@@ -30,7 +30,7 @@ comment:  WissKi SODA OERs
 **Lernziel: 5.1. Lernende können Kodizes und Leitlinen zur Guten Wissenschaftlichen Praxis benennen. (LZ-ID 05_011_1031)**
 
 
-## Kodizes und Leitlienien der DFG
+## 5.1. Kodizes und Leitlienien der DFG
 
 Am 1. August 2019 trat für alle Wissenschaftseinrichtungen der "Kodex zur Sicherung guter wissenschaftlicher Praxis" [1] mit 19 Leitlinien und ihre Erläuterungen rechtsverbindlich in Kranft.
 Für Einrichtungen, die bereits die zuvor geltenden Regelungen von 1998 der DFG-Denkschrift "Sicherung guter wissenschaftlicher Praxis" [2] umgesetzt hatten, galt eine Übergangsfrist von vier Jahren. 
