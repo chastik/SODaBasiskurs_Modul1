@@ -32,9 +32,20 @@ comment:  WissKi SODA OERs
 
 ## 5.4. Ziele von Open Science
 
-Die Prinzipien [siehe Einheit 5.2 Prinzipien] von Open Science bilden das normative Fundament. In den konkreten Dimensionen [siehe Einheit 5.3 Dimensione] und Zielen zeigt sich, wie diese Werte praktisch umgesetzt und wirksam werden – hin zu einer offenen, nachvollziehbaren und partizipativen Wissenschaft.
+Die Prinzipien [siehe Einheit 5.2 Prinzipien] von Open Science bilden das normative Fundament. 
+In den konkreten Dimensionen [siehe Einheit 5.3 Dimensionen] und Zielen zeigt sich, wie diese Werte praktisch umgesetzt und wirksam werden – hin zu einer offenen, nachvollziehbaren und partizipativen Wissenschaft.
 
-**Die wichtigsten Ziele sind** 
+### Aufgabe 
+
+Frame auf Miroboard
+
+Ziele zu Ergbnis aus [Einheit5_EduBrickxxxx]
+
+Plenum oder Kleingruppe?
+
+Zeitbedarf: ca. X Min. im Plenum
+
+### Die wichtigsten Ziele sind... 
 
 * Open Access: breite Sichtbarkeit, Nachvollziehbarkeit und gerechter Zugang zu Wissen
 * Open Data: ermöglicht Nachnutzung, Nachvollziehbarkeit und Reproduzierbarkeit
@@ -43,61 +54,6 @@ Die Prinzipien [siehe Einheit 5.2 Prinzipien] von Open Science bilden das normat
 * Open Peer Review: transparente und nachvollziehbare Qualitätssicherung
 * Open Educational Resources (OER): OER können verwendet, verändert, kombiniert und verbreitet werden – z. B. in Hochschullehre, Weiterbildung, Citizen Science
 * Citizen Science (Bürgerwissenschaft): fördert gesellschaftliche Teilhabe und Relevanz von Wissenschaft
-
-### Beispiele für wissenschaftliche Universitätssammlungen
-
-#### Universität Jena – Sammlung der Wissenschaftlichen Instrumente und Globen
-- **Typ:** Historisch-technisch / naturwissenschaftlich  
-- **Besonderheit:** Vorbildliche digitale Erschließung, Lehre & Forschung  
-- **Zugang:** [https://sammlungen.uni-jena.de/](https://sammlungen.uni-jena.de/)
-
-#### Universität Göttingen – Wissenschaftliche Sammlungen
-- **Typ:** Multidisziplinär – ethnografisch, medizinisch, mathematisch  
-- **Besonderheit:** Forschungsanbindung, Digitalisierungsinfrastruktur  
-- **Zugang:** [https://sammlungen.uni-goettingen.de/](https://sammlungen.uni-goettingen.de/)
-
-#### Humboldt-Universität zu Berlin – HZK / Sammlungen
-- **Typ:** Kulturtechnik, Philosophie, Wissenschaftsgeschichte  
-- **Besonderheit:** Forschungseinheit zu Sammlungstheorie & Praxis  
-- **Zugang:** [https://www.kulturtechnik.hu-berlin.de/](https://www.kulturtechnik.hu-berlin.de/)
-
-#### Universität Erlangen-Nürnberg – Anatomie & Kunst
-- **Typ:** Medizin, Kunst, Wissenschaftsgeschichte  
-- **Besonderheit:** Sichtbarkeit in Forschung und Öffentlichkeit  
-- **Zugang:** [https://www.sammlungen.fau.de/](https://www.sammlungen.fau.de/)
-
-### Universität Hamburg – Campusmuseum
-- **Typ:** Vielschichtig – Zoologie, Afrikastudien, Mineralogie  
-- **Besonderheit:** Digitalisierung & FAIR-Zielsetzung  
-- **Zugang:** [https://www.campusmuseum.uni-hamburg.de/](https://www.campusmuseum.uni-hamburg.de/)
-
-
-### Weitere Beispiele
-
-**1. Open Access**
-   - Deutschland: Open Access LMU – Institutionelles Repositorium der Universität München mit Beratung und Infrastruktur
-   - International: PubMed Central – Offene Plattform für biomedizinische Forschung der US National Institutes of Health
-**2. Open Data**
-   - Deutschland: GESIS Datenarchiv – Archiv für sozialwissenschaftliche Daten mit offenem Zugang
-   - International: Zenodo – Offenes Repositorium für Daten und Publikationen, betrieben von CERN und OpenAIRE
-**3. Open Methodology**
-   - Deutschland: OpenMethods – Plattform für methodischen Austausch in den Geisteswissenschaften
-   - International: Protocol Exchange – Sammlung von Methodenprotokollen aus der internationalen Forschung
-**4. Open Source / Open Code**
-   - Deutschland: Software Heritage @ MPI Saarbrücken – Beitrag zum internationalen Software-Archivierungsprojekt
-   - International: R Project – Freie Programmiersprache und Umgebung für Statistik und Datenanalyse
-**5. Open Peer Review**
-   - Deutschland: Pilotprojekte z. B. bei der Gesellschaft für Informatik (GI) – Experimente mit offenen Begutachtungsprozessen
-   - International: F1000Research – Wissenschaftsplattform mit offenem Peer Review und veröffentlichten Gutachten
-**6. Open Educational Resources (OER)**
-   - Deutschland: OERhörnchen – Suchportal und Community-Plattform für freie Bildungsmaterialien
-   - International: OpenStax – Offene Hochschullehrbücher, lizensiert und frei verfügbar
-**7. Citizen Science**
-   - Deutschland: Bürger schaffen Wissen – Nationale Plattform für Citizen-Science-Projekte
-   - International: Zooniverse – Weltweit genutzte Plattform für bürgerwissenschaftliche Forschung (Astronomie, Biologie, Geschichte etc.)
-
-#### Aufgabe
-
 
 
 -----------
