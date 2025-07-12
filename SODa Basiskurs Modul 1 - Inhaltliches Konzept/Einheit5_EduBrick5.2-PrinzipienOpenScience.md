@@ -53,14 +53,6 @@ Es geht auf Zeit: 2-3 Min
 * Nachhaltigkeit – Langfristige Verfügbarkeit und Weiterverwendbarkeit von Ergebnissen
 * Verantwortung – Wissenschaftliche Integrität und gesellschaftlicher Nutzen
 
-### Gute Beispiele aus wiss. Universitätssammlungen
-
-
-
-
-
-
-
 -----------
 Quellenangaben
 
