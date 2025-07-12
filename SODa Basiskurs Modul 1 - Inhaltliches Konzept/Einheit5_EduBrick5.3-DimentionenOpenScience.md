@@ -62,15 +62,15 @@ Zeitbedarf: ca. 7 Min. im Plenum
 **Open Science Praktiken in wissenschaftlichen Universitätssammlungen**
 | Open Science Praxis       | Beispielhafte Universitätssammlung                                         | Beschreibung                                                                                      |
 |---------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| **Open Access**           | Universität Hamburg – Campusmuseum                                         | Wissenschaftliche Publikationen über Sammlungen frei zugänglich im Repositorium der UHH         |
-| **Open Data**             | Universität Göttingen – Ethnografische Sammlung                            | Forschungsdaten zu Objekten über [sammlungen.uni-goettingen.de](https://sammlungen.uni-goettingen.de) zugänglich |
-| **Open Methodology**      | HU Berlin – Hermann von Helmholtz-Zentrum für Kulturtechnik (HZK)          | Vermittlung sammlungsbezogener Forschungsmethoden, dokumentiert über Ausstellungen & Lehrformate |
-| **Open Source**           | Universität Jena – Digitale Sammlungsplattform (mit DSpace)                | Nutzung quelloffener Repositoriumsoftware zur digitalen Sammlungspflege                          |
-| **Open Educational Resources (OER)** | FAU Erlangen-Nürnberg – Anatomische Sammlung                    | Sammlung als Grundlage für frei zugängliche digitale Lehrmaterialien im Medizinstudium           |
+| **Open Access**           | Universität Hamburg – [Campusmuseum](https://www.campusmuseum.uni-hamburg.de/) | Wissenschaftliche Publikationen über Sammlungen (z.B. Zoologie, Afrikastudien, Mineralogie ) frei zugänglich im Repositorium der UHH         |
+| **Open Data**             | Universität Göttingen – [Wissenschaftliche Sammlung /](https://sammlungen.uni-goettingen.de/)                          | Forschungsdaten zugänglich zu Objekten aus Ethnographie, Medizin, Mathematik,...  |
+| **Open Methodology**      | HU Berlin – Hermann von Helmholtz- [Zentrum für Kulturtechnik (HZK)](https://www.kulturtechnik.hu-berlin.de/)        | Vermittlung sammlungsbezogener Forschungsmethoden z.B aus Kulturtechnik, Philosophie, Wissenschaftsgeschichte, dokumentiert über Ausstellungen & Lehrformate; Forschungseinheit zu Sammlungstheorie & Praxis  |
+| **Open Source**           | Universität Jena – [Digitale DSpace-Sammlungsplattform](https://sammlungen.uni-jena.de/)         | Nutzung quelloffener Repositoriumsoftware zur digitalen Erschließung, Lehre und Forschung                        |
+| **Open Educational Resources (OER)** | FAU Erlangen-Nürnberg – [Anatomische Sammlung](https://www.sammlungen.fau.de/)  | Sammlung (z.B. Medizin, Kunst, Wissenschaftsgeschichte) als Grundlage für frei zugängliche digitale Lehrmaterialien im Medizinstudium           |
 | **Open Peer Review**      | (Beispielhaft: Journale mit Museumsbezug)                                  | Offene Begutachtung z. B. bei *Journal of Museum Education* oder *Curator: The Museum Journal*   |
-| **Citizen Science**       | „MuseumsLab“ (HU Berlin, Uni Hamburg u. a.); Liebesbriefarchiv (Univ. Koblenz)| Beteiligung von Bürger:innen an Provenienzforschung & Digitalisierung von Objekten; Transkription und Annotation|                |
+| **Citizen Science**       | HU Berlin, Uni Hamburg u. a. - [MuseumsLab(https://www.museumfuernaturkunde.berlin/de/museum/heute/das-museum/themuseumslab); Universität Koblenz - [Liebesbriefarchiv]([Liebesbriefarchiv](https://liebesbriefarchiv.de/))| Beteiligung von Bürger:innen an Provenienzforschung & Digitalisierung von Objekten; Transkription und Annotation|                |
 
-
+  
 ### Beispiele für Austauschformate 
 
 **[Podcast der ZBW](https://podcast.zbw.eu/fos/)**
