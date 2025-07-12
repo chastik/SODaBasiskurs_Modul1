@@ -25,7 +25,7 @@ comment:  WissKi SODA OERs
 
 **Einheit 5: Open Science in wissenschaftlichen Universitätssammlungen**
 
-**EduBrick: 5.2. Dimensionen (Praktiken) von Open Science**
+**EduBrick: 5.2. Prinzipien von Open Science**
 
 **Lernziel: 5.2. Lernende können die Prinzipien von Open Science benennen. (LZ-ID 01_008_0136)**
 
@@ -36,7 +36,14 @@ Open Science folgt den "Prinzipien guter wissenschaftlicher Praxis (GWP) [siehe 
 
 2021 veröffentlicht die UNESCO eine Empfehlung zu Open Science [3] als erste globale Norm für eine offene Wissenschaft. Sie definiert Prinzipien, Werte und Maßnahmen, um den offenen Zugang zu wissenschaftlichem Wissen weltweit zu fördern – gerecht, inklusiv, kooperativ.
 
-**Die wichtigsten Prinzipien sind** 
+### Aufgabe
+Frame auf Miroboard 
+Begriffsalat: Erklärungen den Begriffen zuordnen
+Plenum oder Kleingruppe?
+Es geht auf Zeit: 2-3 Min
+
+
+### Die wichtigsten Prinzipien sind...
 
 * Transparenz – Offenlegung von Daten, Methoden, Entscheidungen
 * Nachvollziehbarkeit – Reproduzierbarkeit von Forschungsergebnissen
@@ -46,10 +53,11 @@ Open Science folgt den "Prinzipien guter wissenschaftlicher Praxis (GWP) [siehe 
 * Nachhaltigkeit – Langfristige Verfügbarkeit und Weiterverwendbarkeit von Ergebnissen
 * Verantwortung – Wissenschaftliche Integrität und gesellschaftlicher Nutzen
 
+### Gute Beispiele aus wiss. Universitätssammlungen
 
-### Beispiele
 
-#### Aufgabe
+
+
 
 
 
