@@ -59,7 +59,7 @@ Zeitbedarf: ca. 7 Min. im Plenum
 
 ### Beispiele aus wissenschaftlichen Universitätssammlungen
 
-# Open Science Praktiken in wissenschaftlichen Universitätssammlungen
+**Open Science Praktiken in wissenschaftlichen Universitätssammlungen**
 | Open Science Praxis       | Beispielhafte Universitätssammlung                                         | Beschreibung                                                                                      |
 |---------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | **Open Access**           | Universität Hamburg – Campusmuseum                                         | Wissenschaftliche Publikationen über Sammlungen frei zugänglich im Repositorium der UHH         |
