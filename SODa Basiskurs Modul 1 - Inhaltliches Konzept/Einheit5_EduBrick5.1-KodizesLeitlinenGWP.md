@@ -32,7 +32,7 @@ comment:  WissKi SODA OERs
 
 ## 5.1. Kodizes und Leitlienien der DFG
 
-Am 1. August 2019 trat für alle Wissenschaftseinrichtungen der "Kodex zur Sicherung guter wissenschaftlicher Praxis" [1] mit 19 Leitlinien und ihre Erläuterungen rechtsverbindlich in Kranft.
+Am 1. August 2019 trat für alle Wissenschaftseinrichtungen der "Kodex zur Sicherung guter wissenschaftlicher Praxis" [1] mit 19 Leitlinien und ihre Erläuterungen rechtsverbindlich in Kraft.
 Für Einrichtungen, die bereits die zuvor geltenden Regelungen von 1998 der DFG-Denkschrift "Sicherung guter wissenschaftlicher Praxis" [2] umgesetzt hatten, galt eine Übergangsfrist von vier Jahren. 
 
 Mit Inkrafttreten des Kodex müssen alle wissenschaftlichen Einrichtungen die Ebenen eins und zwei der 19 Leitlinien rechtsverbindlich umsetzen, um Fördermittel durch die DFG erhalten zu können.
