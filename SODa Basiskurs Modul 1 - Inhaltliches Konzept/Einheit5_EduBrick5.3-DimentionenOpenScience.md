@@ -32,9 +32,21 @@ comment:  WissKi SODA OERs
 
 ## 5.3. Dimensionen (Praktiken) von Open Science
 
-Die Grundprinzipien [siehe Einheit 5.2 Prinzipien] von Open Science bilden das ethische Fundament für eine offenen wissenschaftlichen Handelns. In den konkreten Dimensionen und Zielen [siehe Einheit 5.4 Ziele] zeigt sich, wie diese Werte praktisch umgesetzt und wirksam werden.
+Die Grundprinzipien [siehe Einheit 5.2 Prinzipien] von Open Science bilden das ethische Fundament für eine offenen wissenschaftlichen Handelns. 
 
-**Die Praktiken für Open Science sind** 
+In den konkreten Dimensionen (siehe und Zielen [siehe Einheit 5.4 Ziele] zeigt sich, wie diese Werte praktisch umgesetzt und wirksam werden.
+
+### Aufgabe
+
+Frame auf Miroboard 
+
+Begriffsalat: Erklärungen den Begriffen zuordnen 
+
+Plenum oder Kleingruppe? 
+
+Zeitbedarf: ca. 7 Min. im Plenum
+
+### Die Praktiken für Open Science sind...
 
 * Open Access: Forschungsergebnisse öffentlich, unbeschränkt und kostenfrei zugänglich machen 
 * Open Data: Forschungsdaten (wenn möglich) offen nach FAIR-Prinzipien (Findable, Accessible, Interoperable, Reusable) zugänglich machen 
@@ -45,7 +57,21 @@ Die Grundprinzipien [siehe Einheit 5.2 Prinzipien] von Open Science bilden das e
 * Citizen Science (Bürgerwissenschaft): Beteiligung von Bürger:innen an wissenschaftlicher Forschung (z. B. bei Datenerhebung, Auswertung oder Kommunikation) 
 
 
-### Beispiele für Austauschformate rund um Open Science
+### Beispiele aus wissenschaftlichen Universitätssammlungen
+
+# Open Science Praktiken in wissenschaftlichen Universitätssammlungen
+| Open Science Praxis       | Beispielhafte Universitätssammlung                                         | Beschreibung                                                                                      |
+|---------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| **Open Access**           | Universität Hamburg – Campusmuseum                                         | Wissenschaftliche Publikationen über Sammlungen frei zugänglich im Repositorium der UHH         |
+| **Open Data**             | Universität Göttingen – Ethnografische Sammlung                            | Forschungsdaten zu Objekten über [sammlungen.uni-goettingen.de](https://sammlungen.uni-goettingen.de) zugänglich |
+| **Open Methodology**      | HU Berlin – Hermann von Helmholtz-Zentrum für Kulturtechnik (HZK)          | Vermittlung sammlungsbezogener Forschungsmethoden, dokumentiert über Ausstellungen & Lehrformate |
+| **Open Source**           | Universität Jena – Digitale Sammlungsplattform (mit DSpace)                | Nutzung quelloffener Repositoriumsoftware zur digitalen Sammlungspflege                          |
+| **Open Educational Resources (OER)** | FAU Erlangen-Nürnberg – Anatomische Sammlung                    | Sammlung als Grundlage für frei zugängliche digitale Lehrmaterialien im Medizinstudium           |
+| **Open Peer Review**      | (Beispielhaft: Journale mit Museumsbezug)                                  | Offene Begutachtung z. B. bei *Journal of Museum Education* oder *Curator: The Museum Journal*   |
+| **Citizen Science**       | „MuseumsLab“ (HU Berlin, Uni Hamburg u. a.); Liebesbriefarchiv (Univ. Koblenz)| Beteiligung von Bürger:innen an Provenienzforschung & Digitalisierung von Objekten; Transkription und Annotation|                |
+
+
+### Beispiele für Austauschformate 
 
 **[Podcast der ZBW](https://podcast.zbw.eu/fos/)**
 ![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/future_is_open_science.png)<!--width="50%"-->
@@ -57,11 +83,6 @@ Die Grundprinzipien [siehe Einheit 5.2 Prinzipien] von Open Science bilden das e
 **[Barcamp Open Science](https://www.barcamp-open-science.eu/)**
 
 ![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OSBarcamp.png)<!--width="50%"-->
-
-
-
-#### Aufgabe
-
 
 
 -----------
