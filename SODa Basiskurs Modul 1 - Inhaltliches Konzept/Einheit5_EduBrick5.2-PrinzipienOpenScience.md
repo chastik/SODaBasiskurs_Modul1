@@ -38,8 +38,11 @@ Open Science folgt den "Prinzipien guter wissenschaftlicher Praxis (GWP) [siehe 
 
 ### Aufgabe
 Frame auf Miroboard 
+
 Begriffsalat: Erklärungen den Begriffen zuordnen
-Kleingruppe á 5 Personne
+
+Kleingruppe á 5 Personen
+
 Zeit: 3 Min
 
 
