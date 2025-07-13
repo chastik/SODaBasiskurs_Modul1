@@ -1,4 +1,4 @@
-<!--
+um<!--
 
 author: Canan Hastik 
 author: 
@@ -40,11 +40,11 @@ Open Science folgt den "Prinzipien guter wissenschaftlicher Praxis (GWP) [siehe 
 
 Frames pro Gruppe auf Miroboard
 
-Drehen und Wenden: Begriffe und Erklärungen zuordnen
+Chatsturm
 
-Kleingruppen á 5 Personen
+Plenum 
 
-Zeitbedarf: ca. 3 Min.
+Zeitbedarf: ca. 1 Min.
 
 
 ### Die wichtigsten Prinzipien sind...
