@@ -37,13 +37,14 @@ Open Science folgt den "Prinzipien guter wissenschaftlicher Praxis (GWP) [siehe 
 2021 veröffentlicht die UNESCO eine Empfehlung zu Open Science [3] als erste globale Norm für eine offene Wissenschaft. Sie definiert Prinzipien, Werte und Maßnahmen, um den offenen Zugang zu wissenschaftlichem Wissen weltweit zu fördern – gerecht, inklusiv, kooperativ.
 
 ### Aufgabe
-Frame auf Miroboard 
 
-Begriffsalat: Erklärungen den Begriffen zuordnen
+Frames pro Gruppe auf Miroboard
 
-Kleingruppe á 5 Personen
+Drehen und Wenden: Begriffe und Erklärungen zuordnen
 
-Zeit: 3 Min
+Kleingruppen á 5 Personen
+
+Zeitbedarf: ca. 3 Min.
 
 
 ### Die wichtigsten Prinzipien sind...
