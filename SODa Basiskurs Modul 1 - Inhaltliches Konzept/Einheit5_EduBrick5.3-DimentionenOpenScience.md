@@ -73,18 +73,19 @@ Zeitbedarf: ca. 3 Min.
   
 ### Beispiele für Austauschformate 
 
-**[Newsletter]()**
-
+**[Open Science Magazin](https://open-science-future.zbw.eu/)**
+![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OSmagazin.png)<!--width="50%"-->
 
 **[Open Economics Guide](https://www.zbw.eu/de/services/open-science)**
 ![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OEGuide.png)<!--width="50%"-->
 
-**[Open Science Conference](https://www.open-science-conference.eu/)**
+**[Open Sciecne Podcast](https://podcast.zbw.eu/fos/)**
+![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/future_is_open_science.png)<!--width="50%"-->
 
+**[Open Science Conference](https://www.open-science-conference.eu/)**
 ![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OSconference.png)<!--width="50%"-->
 
 **[Barcamp Open Science](https://www.barcamp-open-science.eu/)**
-
 ![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OSBarcamp.png)<!--width="50%"-->
 
 
