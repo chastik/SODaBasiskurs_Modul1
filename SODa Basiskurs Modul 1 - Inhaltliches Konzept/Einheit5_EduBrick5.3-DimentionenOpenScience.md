@@ -34,7 +34,7 @@ comment:  WissKi SODA OERs
 
 Die Grundprinzipien [siehe Einheit 5.2 Prinzipien] von Open Science bilden das ethische Fundament für eine offenen wissenschaftlichen Handelns. 
 
-In den konkreten Dimensionen (siehe und Zielen [siehe Einheit 5.4 Ziele] zeigt sich, wie diese Werte praktisch umgesetzt und wirksam werden.
+In den konkreten Dimensionen und Zielen [siehe Einheit 5.4 Ziele] zeigt sich, wie diese Werte praktisch umgesetzt und wirksam werden.
 
 ### Aufgabe
 
@@ -46,7 +46,7 @@ Plenum oder Kleingruppe?
 
 Zeitbedarf: ca. 7 Min. im Plenum
 
-### Die Praktiken für Open Science sind...
+### Die Praktiken für Open Science sind... [1] [2]
 
 * Open Access: Forschungsergebnisse öffentlich, unbeschränkt und kostenfrei zugänglich machen 
 * Open Data: Forschungsdaten (wenn möglich) offen nach FAIR-Prinzipien (Findable, Accessible, Interoperable, Reusable) zugänglich machen 
@@ -88,11 +88,7 @@ Zeitbedarf: ca. 7 Min. im Plenum
 -----------
 Quellenangaben
 
-[1]  Leibniz-Gemeinschaft. (o. J.). Open Science. In Forschung. Abgerufen am 11. Juli 2025, von https://www.leibniz-gemeinschaft.de/forschung/open-science
-leibniz-gemeinschaft.de
+[1]  Leibniz‑Gemeinschaft. (2022, 24. November). Leitbild Open Science: Ein Leitbild für offene Forschung [PDF]. Abgerufen am 13. Juli 2025, von https://www.leibniz-gemeinschaft.de/fileadmin/user_upload/Bilder_und_Downloads/Forschung/Open_Science/Leitbild_Open_Science.pdf
 
-[2] Nielsen, M. (2011, November 13). Open Science [Video]. YouTube. https://www.youtube.com/watch?v=DnWocYKqvhw
-
-[3] UNESCO. (2021). UNESCO Recommendation on Open Science. Paris: United Nations Educational, Scientific and Cultural Organization. Abgerufen am 11. Juli 2025, von https://unesdoc.unesco.org/ark:/48223/pf0000379949
-
+[2] Universität Stuttgart. (o. J.). Open Educational Resources (OER) – OER & Open Science. In Open Educational Resources. Universitätsbibliothek Stuttgart. Abgerufen am 13. Juli 2025, von https://www.ub.uni‑stuttgart.de/forschen‑publizieren/open‑educational‑resources/OER01_OpenScience/
 
