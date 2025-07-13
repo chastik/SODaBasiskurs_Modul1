@@ -39,8 +39,8 @@ Open Science folgt den "Prinzipien guter wissenschaftlicher Praxis (GWP) [siehe 
 ### Aufgabe
 Frame auf Miroboard 
 Begriffsalat: Erklärungen den Begriffen zuordnen
-Plenum oder Kleingruppe?
-Es geht auf Zeit: 2-3 Min
+Kleingruppe á 5 Personne
+Zeit: 3 Min
 
 
 ### Die wichtigsten Prinzipien sind...
