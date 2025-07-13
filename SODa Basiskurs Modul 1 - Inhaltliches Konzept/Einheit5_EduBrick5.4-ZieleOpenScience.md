@@ -37,15 +37,15 @@ In den konkreten Dimensionen [siehe Einheit 5.3 Dimensionen] und Zielen zeigt si
 
 ### Aufgabe 
 
-Frame auf Miroboard
+Fortsetzung Frames auf Miroboard
 
-Ziele zu Ergbnis aus [Einheit5_EduBrickxxxx]
+Drehen und Wenden: Ziele zu Ergbnissen aus EduBrick 5.3 zuordnen
 
-Plenum oder Kleingruppe?
+Kleingruppe á 3-5 Personen in Breakout Räumen
 
-Zeitbedarf: ca. X Min. im Plenum
+Zeitbedarf: ca. 3 Min.
 
-### Die wichtigsten Ziele sind... 
+### Die wichtigsten Ziele sind... [1]
 
 * Open Access: breite Sichtbarkeit, Nachvollziehbarkeit und gerechter Zugang zu Wissen
 * Open Data: ermöglicht Nachnutzung, Nachvollziehbarkeit und Reproduzierbarkeit
@@ -59,9 +59,4 @@ Zeitbedarf: ca. X Min. im Plenum
 -----------
 Quellenangaben
 
-[1]  Leibniz-Gemeinschaft. (o. J.). Open Science. In Forschung. Abgerufen am 11. Juli 2025, von https://www.leibniz-gemeinschaft.de/forschung/open-science
-leibniz-gemeinschaft.de
-
-[2] Nielsen, M. (2011, November 13). Open Science [Video]. YouTube. https://www.youtube.com/watch?v=DnWocYKqvhw
-
-[3] UNESCO. (2021). UNESCO Recommendation on Open Science. Paris: United Nations Educational, Scientific and Cultural Organization. Abgerufen am 11. Juli 2025, von https://unesdoc.unesco.org/ark:/48223/pf0000379949
+[1] UNESCO. (2021). UNESCO Recommendation on Open Science. Paris: United Nations Educational, Scientific and Cultural Organization. Abgerufen am 11. Juli 2025, von https://unesdoc.unesco.org/ark:/48223/pf0000379949
