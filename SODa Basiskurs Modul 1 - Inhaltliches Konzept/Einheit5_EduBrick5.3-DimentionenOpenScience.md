@@ -34,7 +34,7 @@ comment:  WissKi SODA OERs
 
 Die Grundprinzipien [siehe Einheit 5.2 Prinzipien] von Open Science bilden das ethische Fundament für eine offenen wissenschaftlichen Handelns. 
 
-In den konkreten Dimensionen und Zielen [siehe Einheit 5.4 Ziele] zeigt sich, wie diese Werte praktisch umgesetzt und wirksam werden.
+In den konkreten Dimensionen zeigt sich, wie diese Werte praktisch umgesetzt werden.
 
 ### Aufgabe
 
