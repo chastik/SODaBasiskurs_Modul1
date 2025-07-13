@@ -31,26 +31,22 @@ comment:  WissKi SODA OERs
 
 ## 5.5. Relevanz von Open Science
 
+Open Science ist nicht nur eine wissenschaftliche Praxis, sondern eine strategische Antwort auf die gesellschaftlichen, ethischen und globalen Anforderungen an Forschung im 21. Jahrhundert.
 
-**Die wichtigste** 
+Open Science ist wichtig zur...
 
-* ....
-
-### Beispiele
-
-#### Aufgabe
-
+* Stärkung von Transparenz und Nachvollziehbarkeit: offene Methoden, Daten und Publikationen ermöglichen Reproduzierbarkeit und verhindern Fehlinterpretationen oder Manipulation.
+* Förderung wissenschaftlicher Qualität und Effizienz: offene Daten und Methoden beschleunigen den Wissensaustausch, reduzieren Redundanz und stärken kollaborative Forschung.
+* Demokratisierung von Wissen: Open Access und OER ermöglichen weltweit den Zugang zu wissenschaftlichen Ergebnissen – auch außerhalb von Forschungseinrichtungen.
+* Stärkung gesellschaftlicher Teilhabe und Wirkung: Open Science schafft Schnittstellen zwischen Wissenschaft und Gesellschaft (z. B. Citizen Science, evidenzbasierte Politikberatung).
+* Förderung globaler Kooperation und Inklusion: Open Science kann globale Ungleichheiten in der Forschung (z. B. Zugang, Sichtbarkeit) abbauen.
+* Erreichung der UN-Nachhaltigkeitsziele (SDGs): Durch offene Zugänge zu Wissen und Daten kann Wissenschaft gezielt zur Lösung globaler Herausforderungen beitragen.
 
 
 -----------
 Quellenangaben
 
-[1]  Leibniz-Gemeinschaft. (o. J.). Open Science. In Forschung. Abgerufen am 11. Juli 2025, von https://www.leibniz-gemeinschaft.de/forschung/open-science
-leibniz-gemeinschaft.de
-
-[2] Nielsen, M. (2011, November 13). Open Science [Video]. YouTube. https://www.youtube.com/watch?v=DnWocYKqvhw
-
-[3] UNESCO. (2021). UNESCO Recommendation on Open Science. Paris: United Nations Educational, Scientific and Cultural Organization. Abgerufen am 11. Juli 2025, von https://unesdoc.unesco.org/ark:/48223/pf0000379949
+[1]  UNESCO. (2021). UNESCO Recommendation on Open Science. Paris: United Nations Educational, Scientific and Cultural Organization. Abgerufen am 11. Juli 2025, von https://unesdoc.unesco.org/ark:/48223/pf0000379949
 
 
 
