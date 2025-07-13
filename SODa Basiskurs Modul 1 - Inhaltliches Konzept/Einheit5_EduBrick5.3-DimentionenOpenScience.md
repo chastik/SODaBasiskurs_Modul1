@@ -42,7 +42,7 @@ Frames auf Miroboard
 
 Drehen und Wenden: Begriffe und Erklärungen zuordnen 
 
-Kleingruppe á 3-5 Personen
+Kleingruppe á 3-5 Personen in Breakout Räumen
 
 Zeitbedarf: ca. 3 Min.
 
