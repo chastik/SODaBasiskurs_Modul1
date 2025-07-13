@@ -38,13 +38,13 @@ In den konkreten Dimensionen und Zielen [siehe Einheit 5.4 Ziele] zeigt sich, wi
 
 ### Aufgabe
 
-Frame auf Miroboard 
+Frames auf Miroboard 
 
-Begriffsalat: Erklärungen den Begriffen zuordnen 
+Drehen und Wenden: Begriffe und Erklärungen zuordnen 
 
-Plenum oder Kleingruppe? 
+Kleingruppe á 3-5 Personen
 
-Zeitbedarf: ca. 7 Min. im Plenum
+Zeitbedarf: ca. 3 Min.
 
 ### Die Praktiken für Open Science sind... [1] [2]
 
@@ -73,8 +73,11 @@ Zeitbedarf: ca. 7 Min. im Plenum
   
 ### Beispiele für Austauschformate 
 
-**[Podcast der ZBW](https://podcast.zbw.eu/fos/)**
-![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/future_is_open_science.png)<!--width="50%"-->
+**[Newsletter]()**
+
+
+**[Open Economics Guide](https://www.zbw.eu/de/services/open-science)**
+![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OEGuide.png)<!--width="50%"-->
 
 **[Open Science Conference](https://www.open-science-conference.eu/)**
 
