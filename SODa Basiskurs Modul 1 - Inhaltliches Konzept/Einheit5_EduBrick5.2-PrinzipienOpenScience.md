@@ -38,7 +38,7 @@ Open Science folgt den "Prinzipien guter wissenschaftlicher Praxis (GWP) [siehe 
 
 ### Aufgabe
 
-Frames pro Gruppe auf Miroboard
+Gemeinsames Sammeln der Prinzipien im Chat 
 
 Chatsturm
 
