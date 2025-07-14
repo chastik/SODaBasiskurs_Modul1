@@ -54,4 +54,4 @@ aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema �
 |----------|------|---------|-------|-------------|----------|
 | 0.1 Begrüßung & Ablauf | Orientierung geben | Input via Folie | ca. 1 Min | Begrüßungsfolie | Namen der Lehrenden und grobe Kursstruktur benennen |
 | 0.2 Gewitter-Chat | Soziales Kennenlernen | Chat (alle gleichzeitig) | ca. 2 Min | Zoom-Chat | Fragen: Name, Institution, Funktion, Sammlungsbezug |
-| 0.3 Mentimeter-Umfrage | Vorwissen & Kontext sichtbar machen | Mentimeter | ca. 2 Min | Mentimeter vorbereiten | Hinweis: „Fragen doppeln sich teilweise mit Chat – das ist so gewollt (sozial + evaluativ)“ |
+| 0.3 Mentimeter-Umfrage | Vorwissen & Kontext sichtbar machen | Mentimeter | ca. 2 Min | Mentimeter vorbereiten | Hinweis: „Fragen doppeln sich teilweise mit Chat – das ist so gewollt (sozial + Zielgruppenerhebung)“ |
