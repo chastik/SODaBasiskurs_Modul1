@@ -44,6 +44,6 @@ Keine Voraussetzungen nötig.
 **Didaktische Methoden in Einheit 0 für Online Workshop und Plenum**
 | Baustein | Ziel | Methode | Dauer | Materialien | Hinweise |
 |----------|------|---------|-------|-------------|----------|
-| 0.1 Begrüßung & Ablauf | Orientierung geben | Input via Folie | ca. 1 Min | Begrüßungsfolie | Namen der Lehrenden und grobe Kursstruktur benennen |
-| 0.2 Gewitter-Chat | Soziales Kennenlernen | Chat (alle gleichzeitig) | ca. 2 Min | Zoom-Chat | Fragen: Name, Institution, Funktion, Sammlungsbezug |
-| 0.3 Mentimeter-Umfrage | Vorwissen & Kontext sichtbar machen | Mentimeter | ca. 2 Min | Mentimeter vorbereiten | Hinweis: „Fragen doppeln sich teilweise mit Chat – das ist so gewollt (sozial + Zielgruppenerhebung)“ |
+| 0.1 Ankommen, Netiquette, Überblick | Orientierung geben | Input via Folie | ca. 1 Min | Begrüßungsfolie | Namen der Lehrenden und grobe Kursstruktur benennen |
+| 0.2 Kennenlernen und Vernetzung | Soziales Kennenlernen | Chat (alle gleichzeitig) | ca. 2 Min | Zoom-Chat | Fragen: Name, Institution, Funktion, Sammlungsbezug |
+| 0.3 Vorwissen und Kontexte* | Vorwissen & Kontext sichtbar machen | Mentimeter | ca. 2 Min | Mentimeter vorbereiten | Hinweis: „Fragen doppeln sich teilweise mit Chat – das ist so gewollt (sozial + Zielgruppenerhebung)“ |
