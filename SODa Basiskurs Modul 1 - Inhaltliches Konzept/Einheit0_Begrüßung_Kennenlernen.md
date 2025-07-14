@@ -33,20 +33,26 @@ comment:  WissKi SODA OERs
 
 ---
 
-## Forschungsdaten-Policies 
+## Willkommen zu SODa Modul 1
 
-- **Verbindliche Orientierung**: Forschungsdaten-Policies bieten klaren Regeln für den Umgang mit Forschungsdaten und fördern so die Einhaltung der guten wissenschaftlichen Praxis 
+Herzlich willkommen zur ersten Einheit unseres SODa-Basiskurses!  
+Bevor wir in die Inhalte einsteigen, nehmen wir uns ein paar Minuten Zeit zum Ankommen, Kennenlernen und zur Orientierung.
 
-- **Strategische Steuerung**: Sie unterstützen Hochschulen bei der Entwicklung und Umsetzung institutioneller FDM-Strategien 
+## Was erwartet Sie/Euch in dieser Einheit?
 
-- **Rechtssicherheit**: Durch die Klärung von Zuständigkeiten und rechtlichen Rahmenbedingungen schaffen sie Sicherheit für Forschende und Institutionen
+0.1. **Ankommen, Netiquette, Überblick**: Die Workshopleiterinnen stellen sich vor und geben einen kurzen Einblick in den Kursablauf heute.
 
-- **Nachhaltigkeit und Sichtbarkeit**: Forschungsdaten-Policies fördern die langfristige Archivierung und Nachnutzung von Forschungsdaten 
+0.2. **Kennenlernen und Vernetzung**: Ihr lernt Euch untereinander kennen. Der "Gewitter-Chat" gibt uns einen ersten Einblick in die Vielfalt der Gruppe. 
+
+0.3. **Vorwissen und Kontexte**: Durch die Klärung von Zuständigkeiten und rechtlichen Rahmenbedingungen schaffen sie Sicherheit für Forschende und Institutionen
 
 
-### Definition
 
-„Unter Forschungsdatenpolicies werden Richtlinien verstanden, die für alle Mitarbeiterinnen und Mitarbeiter einer Institution (z. B. Hochschulinstitut) festschreiben, wie Forschungsdatenmanagement angegangen werden soll. Solche begleitenden Regelwerke (engl. policies) existieren nicht nur für wissenschaftliche Institutionen sondern auch für Förderorganisationen und sind mittlerweile eine wichtige Orientierungshilfe für den Umgang mit Forschungsdaten.“ 
+## 0.1. **Ankommen, Netiquette, Überblick**
+
+
+<img width="454" height="413" alt="grafik" src="https://github.com/user-attachments/assets/da0fbaa3-acc2-4e57-82bc-0a0039029a56" />
+
 
 -----------
 Quellenangabe
