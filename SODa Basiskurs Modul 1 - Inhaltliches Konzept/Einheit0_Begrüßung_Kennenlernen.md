@@ -50,14 +50,15 @@ Bevor wir in die Inhalte einsteigen, nehmen wir uns ein paar Minuten Zeit zum An
 
 ## 0.1. **Ankommen, Netiquette, Überblick**
 
-
+### 0.1. Netiquette**
 <img width="454" height="413" alt="grafik" src="https://github.com/user-attachments/assets/da0fbaa3-acc2-4e57-82bc-0a0039029a56" />
 
 
 -----------
-Quellenangabe
+### 0.1. Überblick**
+<img width="777" height="418" alt="grafik" src="https://github.com/user-attachments/assets/54c84c45-600b-447c-82dc-825cf381353c" />
 
-(https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/)
+
 
 #### Beispiel Univ. Mannheim
 
