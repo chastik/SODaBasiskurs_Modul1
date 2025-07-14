@@ -40,14 +40,6 @@ Keine Voraussetzungen nötig.
 
 **Einheit 0 adressiert keine formalen LZM-Lernziele, dient aber als methodischer und sozialer Einstieg** [1]
 
-aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)“
-
-1.1. Lernende können den Begriff Forschungsdaten erläutern . (01\_001\_0007)
-
-1.2. Lernende können Beispiele für Forschungsdaten benennen. (01\_001\_0008)
-
-1.x. Beispiele in wissenschaftlichen Universitätssammlungen (klären)
-
 
 **Didaktische Methoden in Einheit 0 für Online Workshop und Plenum**
 | Baustein | Ziel | Methode | Dauer | Materialien | Hinweise |
