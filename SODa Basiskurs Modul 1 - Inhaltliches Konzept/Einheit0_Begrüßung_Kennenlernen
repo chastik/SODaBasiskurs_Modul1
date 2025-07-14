@@ -1,17 +1,22 @@
 <!--
 
-author: Canan Hastik 
 author: Rebekka Reichert 
+orcid:
+*author: 
+orcid:
 email:    
 version:  v1
 language: DE
-lizenz: cc by
+*lizenz: cc by
+*lizenzlink:
+*persistenter OER link:
 modultitel: Modul 1, Teil 1: Sammlungs- und Objektdaten als Forschungsdaten managen
-einheitstitel: Forschungsdaten-Policies
+einheitstitel: Begrüßung, Kennenlernen
+einheit: 0
 lernziele:
-* die WL, sich untereinander und den Ablaufplan kennenlernen (neu)
-* ihr Vorwissen erläutern (neu)
-
+Lernende lernen die WL, sich untereinander und den Ablaufplan kennenlernen (neu)
+Lernende können ihr Vorwissen erläutern (neu)
+gestaltungsprinzip:
 
 icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
 link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/soda.css
@@ -24,33 +29,9 @@ comment:  WissKi SODA OERs
 
 **Modul 1, Teil 1: Sammlungs- und Objektdaten als Forschungsdaten managen**
 
-**Thema: Forschungsdaten-Policies**
-
-**13. Juni 2025, 14:00 - 15:30 Uhr**
+**Einheit 0: Begrüßung, Kennenlernen*
 
 ---
-
-Rebekka Reichert 
-
-Fachexpertise Erschließung
-
-SODa, Sammlungen, Objekte, Datenkompetenzen
-
-Humboldt-Universität zu Berlin
-
-
-
-***
-
-
-Canan Hastik 
-
-Fachexpertise Analyse strukturierter Daten und Graphen
-
-SODa, Sammlungen, Objekte, Datenkompetenzen
-
-Interessensgemeinschaft für Semantische Datenverarbeitung e.V.
-
 
 ## Forschungsdaten-Policies 
 
