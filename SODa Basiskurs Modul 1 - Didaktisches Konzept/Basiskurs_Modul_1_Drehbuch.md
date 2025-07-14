@@ -19,7 +19,7 @@ comment:  WissKi SODA OERs
 **Einheit 0 Begrüßung und Kennenlernen** 
 | Einheit          | Baustein         | Lernziel         | Inhaltliches Ziel | Didaktische Methode (Arbeitsform)   | Dauer | Inhalt        | Schritt       | Regieanweisung | Materialien (Werkzeuge)  |
 | ------------     | ------------     | ------------     | ------------      | ------------ | ------------  |  ------------  |  ------------  |------------  |  ------------  |
-| 0.0       |Lernende lernen sich, die WL und den Ablaufplan kennen (neu)| TN kennen den Ablauf und das Ziel des Kurses und bekommen einen ersten Eindruck voneinander| Folien | ca. 5 Minuten   | Inhalt | TN hören zu (einatmen), TN stellen sich vor (ausatmen)    |  WL stellt Organisatorisches vor. | WL stellt Kolleg*in und sich vor, stellt den Ablaufplan vor, leitet Umfrage und Gewitterchat an   | Folien, Mentimeter, Gewitterchat
+| 0.0       |Lernende lernen sich, die WL und den Ablaufplan kennen (neu)| TN kennen den Ablauf und das Ziel des Kurses und bekommen einen ersten Eindruck voneinander| Folien | ca. 5 Minuten   | Inhalt | TN hören zu (einatmen), TN stellen sich vor, TN nehmen an Umfrage teil (ausatmen)    |  WL stellt Organisatorisches vor. | WL stellt Kolleg*in und sich vor, stellt den Ablaufplan vor, leitet Umfrage und Gewitterchat an   | Folien, Mentimeter, Gewitterchat
 
 **Einheit 1 FDM Grundlagen in wiss. Unisammlungen** 
 |  Baustein         | Lernziel         | Inhaltliches Ziel | Didaktische Methode (Arbeitsform)   | Dauer | Inhalt        | Schritt       | Regieanweisung | Materialien (Werkzeuge)  |
