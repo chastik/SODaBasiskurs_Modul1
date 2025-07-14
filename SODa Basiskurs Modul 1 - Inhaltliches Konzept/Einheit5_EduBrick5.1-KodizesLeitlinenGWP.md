@@ -1,20 +1,23 @@
 <!--
 
-author: Canan Hastik 
-author: 
+*author: Canan Hastik 
+orcid:
+*author: 
+orcid:
 email:    
 version:  v1
 language: DE
-lizenz: cc by
-lizenzlink:
-persistenter OER link:
+*lizenz: cc by
+*lizenzlink:
+*persistenter OER link:
 
-modultitel: Modul 1, Teil 1: Sammlungs- und Objektdaten als Forschungsdaten managen
-modul:
-einheitstitel: Open Science in wissenschaftlichen Universitätssammlungen
+*modultitel: Modul 1, Teil 1: Sammlungs- und Objektdaten als Forschungsdaten managen
+modul: 1
+*einheitstitel: Open Science in wissenschaftlichen Universitätssammlungen
 eineit: 5
 lernziel: Lernende können Kodizes und Leitlinen zur Guten Wissenschaftlichen Praxis benennen. (LZ-ID 05_011_1031)
 zielgruppe:
+gestaltungsprinzip:
 
 icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
 link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/soda.css
