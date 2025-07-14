@@ -64,9 +64,15 @@ Zum Einstieg machen wir eine kurze, gleichzeitige Chat-Runde.
 **Fragen:**  
 - Wie ist Dein Name?  
 - An welcher Institution arbeitest Du?  
-- Welche Funktion hast Du dort (z.B. Sammlungsleiter*in) 
+- Welche Funktion hast Du dort (z.B. Sammlungsleiter*in)?
 - Mit welchen Sammlungen arbeitest Du?
 
-Bitte bereiten Deine Antwort kurz vor und sende Sie erst in 2 Minuten ab, sobald wir das Startsignal geben. So entsteht unser gemeinsamer „Gewitter-Chat“.
+Bitte bereite Deine Antwort kurz vor und sende Sie erst in 2 Minuten ab, sobald wir das Startsignal geben. So entsteht unser gemeinsamer „Gewitter-Chat“.
 
+-----------
+### 0.3. **Vorwissen und Kontexte**
+Für die Weiterentwicklung des Moduls 1 und die Konzeption der kommenden Module möchten wir kurz mehr über Dein Vorwissen und Deine Arbeit im Sammlungskontext erfahren.
 
+Keine Sorge, Eure Antworten werden nur anonymisiert angezeigt und ausgewertet.
+
+Hier geht es zur Umfrage: https://www.mentimeter.com/app/presentation/aluihmh3apkfw2cp3gzby85ypszi331i/edit?question=sq81v57xe3bs
