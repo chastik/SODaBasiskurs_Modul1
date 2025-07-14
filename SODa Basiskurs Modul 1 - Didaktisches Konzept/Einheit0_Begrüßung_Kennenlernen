@@ -35,10 +35,10 @@ Keine Voraussetzungen nötig.
 
 **In Einheit 0 können Teilnehmende…**
 
-- den Begriff Forschungsdaten erläutern.
-- Beispiele für Forschungsdaten in wiss. Universitätssammlungen benennen.
+- die WL, sich untereinander und den Ablaufplan kennenlernen (neu)
+- ihr Vorwissen erläutern (neu)
 
-**Einheit 1 adressiert Lernziele der LZM** [1]
+**Einheit 0 adressiert keine formalen LZM-Lernziele, dient aber als methodischer und sozialer Einstieg** [1]
 
 aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)“
 
@@ -49,7 +49,9 @@ aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema �
 1.x. Beispiele in wissenschaftlichen Universitätssammlungen (klären)
 
 
-**Didaktische Methoden in Einheit 1 für Online Workshop und Plenum**
-
-- zu 1.1. Input (ca. xx Min.)
-- zu 1.2. Mentimeterumfrage (Word Cloud) (ca. xx Min.)
+**Didaktische Methoden in Einheit 0 für Online Workshop und Plenum**
+| Baustein | Ziel | Methode | Dauer | Materialien | Hinweise |
+|----------|------|---------|-------|-------------|----------|
+| 0.1 Begrüßung & Ablauf | Orientierung geben | Input via Folie | ca. 1 Min | Begrüßungsfolie | Namen der Lehrenden und grobe Kursstruktur benennen |
+| 0.2 Gewitter-Chat | Soziales Kennenlernen | Chat (alle gleichzeitig) | ca. 2 Min | Zoom-Chat | Fragen: Name, Institution, Funktion, Sammlungsbezug |
+| 0.3 Mentimeter-Umfrage | Vorwissen & Kontext sichtbar machen | Mentimeter | ca. 2 Min | Mentimeter vorbereiten | Hinweis: „Fragen doppeln sich teilweise mit Chat – das ist so gewollt (sozial + evaluativ)“ |
