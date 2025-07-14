@@ -53,13 +53,11 @@ Bevor wir in die Inhalte einsteigen, nehmen wir uns ein paar Minuten Zeit zum An
 ### 0.1. **Netiquette**
 <img width="454" height="413" alt="grafik" src="https://github.com/user-attachments/assets/da0fbaa3-acc2-4e57-82bc-0a0039029a56" />
 
-
------------
 ### 0.1. **Überblick**
 <img width="777" height="418" alt="grafik" src="https://github.com/user-attachments/assets/54c84c45-600b-447c-82dc-825cf381353c" />
 
 -----------
-### 0.2. **Kennenlernen und Vernetzung**
+## 0.2. **Kennenlernen und Vernetzung**
 Zum Einstieg machen wir eine kurze, gleichzeitige Chat-Runde.  
 **Fragen:**  
 - Wie ist Dein Name?  
@@ -70,7 +68,7 @@ Zum Einstieg machen wir eine kurze, gleichzeitige Chat-Runde.
 Bitte bereite Deine Antwort kurz vor und sende Sie erst in 2 Minuten ab, sobald wir das Startsignal geben. So entsteht unser gemeinsamer „Gewitter-Chat“.
 
 -----------
-### 0.3. **Vorwissen und Kontexte**
+## 0.3. **Vorwissen und Kontexte**
 Für die Weiterentwicklung des Moduls 1 und die Konzeption der kommenden Module möchten wir kurz mehr über Dein Vorwissen und Deine Arbeit im Sammlungskontext erfahren.
 
 Keine Sorge, Eure Antworten werden nur anonymisiert angezeigt und ausgewertet.
