@@ -73,4 +73,7 @@ Für die Weiterentwicklung des Moduls 1 und die Konzeption der kommenden Module 
 
 Keine Sorge, Eure Antworten werden nur anonymisiert angezeigt und ausgewertet.
 
+<img width="132" height="131" alt="grafik" src="https://github.com/user-attachments/assets/d9cc891a-b4e6-421d-bb85-2d94d6b64355" />
+
+
 Hier geht es zur Umfrage: https://www.mentimeter.com/app/presentation/aluihmh3apkfw2cp3gzby85ypszi331i/edit?question=sq81v57xe3bs
