@@ -59,7 +59,7 @@ Bevor wir in die Inhalte einsteigen, nehmen wir uns ein paar Minuten Zeit zum An
 <img width="777" height="418" alt="grafik" src="https://github.com/user-attachments/assets/54c84c45-600b-447c-82dc-825cf381353c" />
 
 -----------
-## 0.2. **Kennenlernen und Vernetzung**
+### 0.2. **Kennenlernen und Vernetzung**
 Zum Einstieg machen wir eine kurze, gleichzeitige Chat-Runde.  
 **Fragen:**  
 - Wie ist Dein Name?  
