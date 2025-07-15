@@ -25,7 +25,7 @@ comment:  WissKi SODA OERs
 |  Baustein         | Lernziel         | Inhaltliches Ziel | Didaktische Methode (Arbeitsform)   | Dauer | Inhalt        | Schritt       | Regieanweisung | Materialien (Werkzeuge)  |
 |  ------------     | ------------     | ------------      | ------------ | ------------  |  ------------  |  ------------  |------------  |  ------------  |
 |  1.1. Begriff Forschungsdaten        |Lernende können den Begriff Forschungsdaten erläutern. (01\_001\_0007)| TN können den Begriff Forschungsdaten erläutern.| Folien | ca. Minuten   | Inhalt |  TN hören zu (einatmen)    |  WL stellt wesentliche Definitionen vor. | Folien vorbereiten    | 
-| 1.2. Beispiele zu Forschungsdaten        |Lernende können Beispiele für Sammlungs- und Forschungsdaten benennen. (in Anlehnung an 01_001_0008)| TN können den Begriff Forschungsdaten erläutern.| Umfrage (Mentimeter)  | ca. Minuten   | Inhalt |   TN agieren (ausatmen)    |  WL präsentiert die Umfrage| Mentimeterumfrage vorbereiten    | 
+| 1.2. Beispiele zu Forschungsdaten        |Lernende können Beispiele für Sammlungs- und Forschungsdaten benennen. (in Anlehnung an 01_001_0008)| TN können den Begriff Forschungsdaten erläutern.| Zuruf  | ca. Minuten   | Inhalt |   TN agieren (ausatmen)    |  WL präsentiert die Umfrage| Zuruf und Folien vorbereiten    | 
 
 **Einheit 2 Sammlungsbegriff, Aufgaben und Merkmale von wissenschaftlichen Universitätssammlungen** 
 | Baustein         | Lernziel         | Inhaltliches Ziel | Didaktische Methode (Arbeitsform)   | Dauer | Inhalt        | Schritt       | Regieanweisung |  Materialien (Werkzeuge)  |
