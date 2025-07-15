@@ -42,7 +42,7 @@ Bevor wir in die Inhalte einsteigen, nehmen wir uns ein paar Minuten Zeit zum An
 
 0.1. **Ankommen, Netiquette, Überblick**: Die Workshopleiterinnen stellen sich vor und geben einen kurzen Einblick in den Kursablauf heute.
 
-0.2. **Kennenlernen und Vernetzung**: Ihr lernt Euch untereinander kennen. Der "Gewitter-Chat" gibt uns einen ersten Einblick in die Vielfalt der Gruppe. 
+0.2. **Kennenlernen und Vernetzung**: Ihr lernt Euch untereinander kennen. Der "Hashtag-Chat" gibt uns einen ersten Einblick in die Vielfalt der Gruppe. 
 
 0.3. **Vorwissen und Kontexte**: Durch die Klärung von Zuständigkeiten und rechtlichen Rahmenbedingungen schaffen sie Sicherheit für Forschende und Institutionen
 
@@ -59,7 +59,7 @@ Bevor wir in die Inhalte einsteigen, nehmen wir uns ein paar Minuten Zeit zum An
 
 -----------
 ## 0.2. **Kennenlernen und Vernetzung**
-Zum Einstieg machen wir eine kurze, gleichzeitige Chat-Runde. Beschreibe Deine Arbeit in drei Stichworten oder Hashtags z.B. #Universitätssammlung #Biologie #Digitalisierung 
+Zum Einstieg machen wir eine kurze Chat-Runde. Beschreibe Deine Arbeit in drei Stichworten oder Hashtags z.B. #Universitätssammlung #Biologie #Digitalisierung 
 
 Deine Begriffe können sich auf die Art der Sammlung, Deine Rolle, Dein aktuelles Projekt oder Deine Perspektive auf das Thema beziehen. 
 
