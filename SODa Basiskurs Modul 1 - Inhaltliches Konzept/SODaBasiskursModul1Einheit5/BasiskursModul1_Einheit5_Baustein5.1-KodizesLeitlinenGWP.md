@@ -37,9 +37,6 @@ icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/
 
 # SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen
 
-![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OSmagazin.png)<!--width="50%"-->
-
-
 **Modul 1 (Teil 1): Sammlungs- und Objektdaten als Forschungsdaten managen**
 
 **Einheit 5: Open Science in wissenschaftlichen Universitätssammlungen**
