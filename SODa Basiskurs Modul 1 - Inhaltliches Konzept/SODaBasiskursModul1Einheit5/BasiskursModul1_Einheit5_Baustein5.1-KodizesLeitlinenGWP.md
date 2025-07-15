@@ -28,8 +28,8 @@ dateiformat: .md
 dauer: 
 größe:
 software: Web
-icon:     https://github.com/chastik/SODa-Basiskurs/blob/4524aacb75196febcda5565dca54d654e75bf540/img/SODa-Logo_full.svg
-link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/soda.css
+icon:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/SODa-Logo_full.svg
+link:    https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/soda.css
 
 
 
