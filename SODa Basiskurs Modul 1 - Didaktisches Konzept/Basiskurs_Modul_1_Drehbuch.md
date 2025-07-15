@@ -17,9 +17,9 @@ comment:  WissKi SODA OERs
 *Modul 1 – Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen – Drehbuch*
 
 **Einheit 0 Begrüßung und Kennenlernen** 
-| Einheit          | Baustein         | Lernziel         | Inhaltliches Ziel | Didaktische Methode (Arbeitsform)   | Dauer | Inhalt        | Schritt       | Regieanweisung | Materialien (Werkzeuge)  |
-| ------------     | ------------     | ------------     | ------------      | ------------ | ------------  |  ------------  |  ------------  |------------  |  ------------  |
-| 0.0.       |Lernende lernen die WL, sich untereinander und den Ablaufplan kennen (neu) Lernende erläutern in FDM-Vorwissen (neu)| TN kennen den Ablauf und das Ziel des Kurses und bekommen einen ersten Eindruck voneinander| Folien | ca. 5 Minuten   | Inhalt | TN hören zu (einatmen), TN stellen sich vor, TN nehmen an Umfrage teil (ausatmen)    |  WL stellt Organisatorisches vor. | WL stellt Kolleg*in und sich vor, stellt den Ablaufplan vor, leitet Umfrage und Hashtag-Chat-Runde an   | Folien, Mentimeter, Gewitterchat
+| Einheit          | Baustein         | Lernziel         |  Didaktische Methode (Arbeitsform)   | Dauer | Inhalt        | Schritt       | Regieanweisung | Materialien (Werkzeuge)  |
+| ------------     | ------------     | ------------     |  ------------ | ------------  |  ------------  |  ------------  |------------  |  ------------  |
+| 0.0.       |Lernende lernen die WL, sich untereinander und den Ablaufplan kennen (neu) <br> Lernende erläutern in FDM-Vorwissen (neu)| TN kennen den Ablauf und das Ziel des Kurses und bekommen einen ersten Eindruck voneinander| Folien | ca. 5 Minuten   | Inhalt | TN hören zu (einatmen), TN stellen sich vor, TN nehmen an Umfrage teil (ausatmen)    |  WL stellt Organisatorisches vor. | WL stellt Kolleg*in und sich vor, stellt den Ablaufplan vor, leitet Umfrage und Hashtag-Chat-Runde an   | Folien, Mentimeter, Gewitterchat
 
 **Einheit 1 FDM Grundlagen in wiss. Unisammlungen** 
 |  Baustein         | Lernziel         | Inhaltliches Ziel | Didaktische Methode (Arbeitsform)   | Dauer | Inhalt        | Schritt       | Regieanweisung | Materialien (Werkzeuge)  |
