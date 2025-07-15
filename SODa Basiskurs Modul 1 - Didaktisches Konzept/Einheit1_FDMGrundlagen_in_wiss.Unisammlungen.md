@@ -39,6 +39,7 @@ Keine Voraussetzungen nötig.
 aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema „Grundbegriffe und Bedeutung des Forschungsdatenmanagements (FDM)“
 
 1.1. Lernende können den Begriff Forschungsdaten erläutern. (01\_001\_0007)
+
 1.2. Lernende können Beispiele für Forschungsdaten und Sammlungsdaten benennen. (in Anlehnung an 01\_001\_0008)
 
 
