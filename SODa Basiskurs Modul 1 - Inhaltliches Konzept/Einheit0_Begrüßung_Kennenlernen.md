@@ -59,14 +59,9 @@ Bevor wir in die Inhalte einsteigen, nehmen wir uns ein paar Minuten Zeit zum An
 
 -----------
 ## 0.2. **Kennenlernen und Vernetzung**
-Zum Einstieg machen wir eine kurze, gleichzeitige Chat-Runde.  
-**Fragen:**  
-- Wie ist Dein Name?  
-- An welcher Institution arbeitest Du?  
-- Welche Funktion hast Du dort (z.B. Sammlungsleiter*in)?
-- Mit welchen Sammlungen arbeitest Du?
+Zum Einstieg machen wir eine kurze, gleichzeitige Chat-Runde. Beschreibe Deine Arbeit in drei Stichworten oder Hashtags z.B. #Universitätssammlung #Biologie #Digitalisierung 
 
-Bitte bereite Deine Antwort kurz vor und sende Sie erst in 2 Minuten ab, sobald wir das Startsignal geben. So entsteht unser gemeinsamer „Gewitter-Chat“.
+Deine Begriffe können sich auf die Art der Sammlung, Deine Rolle, Dein aktuelles Projekt oder Deine Perspektive auf das Thema beziehen. 
 
 -----------
 ## 0.3. **Vorwissen und Kontexte**
