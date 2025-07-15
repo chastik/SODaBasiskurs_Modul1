@@ -54,7 +54,8 @@ Bevor wir in die Inhalte einsteigen, nehmen wir uns ein paar Minuten Zeit zum An
 <img width="454" height="413" alt="grafik" src="https://github.com/user-attachments/assets/da0fbaa3-acc2-4e57-82bc-0a0039029a56" />
 
 ### 0.1. **Überblick**
-<img width="777" height="418" alt="grafik" src="https://github.com/user-attachments/assets/54c84c45-600b-447c-82dc-825cf381353c" />
+<img width="776" height="448" alt="grafik" src="https://github.com/user-attachments/assets/569c44f8-d8e4-4a6e-abd9-213d3be74ee6" />
+
 
 -----------
 ## 0.2. **Kennenlernen und Vernetzung**
