@@ -30,7 +30,7 @@ größe:
 software: Web
 icon:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/main/img/SODa-Logo_full.svg
 link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/main/soda.css
-
+icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
 
 
 -->
