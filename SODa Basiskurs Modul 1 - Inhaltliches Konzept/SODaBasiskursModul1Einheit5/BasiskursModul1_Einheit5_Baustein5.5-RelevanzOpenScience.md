@@ -27,34 +27,30 @@ comment:  WissKi SODA OERs
 
 **Lernbaustein/EduBrick: 5.5. Relevanz von Open Science**
 
-**5.5. Lernende können die Relevanz von Open Science für Wissenschaft und Gesellschaft benennen. (LZ-ID 01_08_0142)**
+**5.5. Lernende können die Relevanz von Open Science für Wissenschaft und Gesellschaft benennen. (LZ-ID 01\_08\_0142)**
 
 
-## 5.5. Relevanz von Open Science
+## 5.5. Relevanz von Open Science [1]
 
+Open Science ist nicht nur eine wissenschaftliche Praxis, sondern eine strategische Antwort auf die gesellschaftlichen, ethischen und globalen Anforderungen an Forschung im 21. Jahrhundert.
 
-**Die wichtigsten Prinzipien sind** 
+Open Science ist wichtig zur...
 
-# Relevanz von Open Science
+* Stärkung von Transparenz und Nachvollziehbarkeit: offene Methoden, Daten und Publikationen ermöglichen Reproduzierbarkeit und verhindern Fehlinterpretationen oder Manipulation.
+* Förderung wissenschaftlicher Qualität und Effizienz: offene Daten und Methoden beschleunigen den Wissensaustausch, reduzieren Redundanz und stärken kollaborative Forschung.
+* Demokratisierung von Wissen: Open Access und OER ermöglichen weltweit den Zugang zu wissenschaftlichen Ergebnissen – auch außerhalb von Forschungseinrichtungen.
+* Stärkung gesellschaftlicher Teilhabe und Wirkung: Open Science schafft Schnittstellen zwischen Wissenschaft und Gesellschaft (z. B. Citizen Science, evidenzbasierte Politikberatung).
+* Förderung globaler Kooperation und Inklusion: Open Science kann globale Ungleichheiten in der Forschung (z. B. Zugang, Sichtbarkeit) abbauen.
+* Erreichung der UN-Nachhaltigkeitsziele (SDGs): Durch offene Zugänge zu Wissen und Daten kann Wissenschaft gezielt zur Lösung globaler Herausforderungen beitragen.
 
-| Bereich                     | Beschreibung                                                                                 |
-|----------------------------|----------------------------------------------------------------------------------------------|
-| **Prinzipien**             | Transparenz, Reproduzierbarkeit, Offenheit, Partizipation, Gerechtigkeit                    |
-| **Praktiken / Dimensionen**| Open Access, Open Data, Open Methodology, Open Source, OER, Citizen Science                 |
-| **Wissenschaft**           | • Höhere Qualität durch Nachvollziehbarkeit<br>• Schnellere Innovation<br>• Forschungsethik |
-| **Gesellschaft**           | • Demokratisierung von Wissen<br>• Vertrauen durch Transparenz<br>• Beteiligung durch Citizen Science |
-| **Bildung**                | • Freier Zugang zu Lehrmaterialien (OER)<br>• Förderung digitaler Kompetenzen<br>• Einbindung in GWP |
+### Relevanz von Open Science
 
-
+![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/schwenk.jpg)<!--width="100%"--> ****
   
-### Beispiele
-
-
-#### Aufgabe
 
 
 
 -----------
 Quellenangaben
 
-[] 
+[1] UNESCO. (2021). UNESCO Recommendation on Open Science. Paris: United Nations Educational, Scientific and Cultural Organization. Abgerufen am 11. Juli 2025, von https://unesdoc.unesco.org/ark:/48223/pf0000379949
