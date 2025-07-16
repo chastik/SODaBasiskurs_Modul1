@@ -68,7 +68,7 @@ Ein gutes FDM spart langfristig Zeit und Ressourcen, verhindert Datenverlust und
 - Berücksichtigung rechtlicher Aspekte (z. B. Urheberrecht, Datenschutz)  
   → Die in der Scary Tale erwähnten versteigerten Objekte mit Sammlungsstempel werfen möglicherweise juristische Fragen auf. Ein durchdachtes FDM kann zur Klärung von Eigentumsrechten beitragen und rechtliche Risiken mindern.
 
-- Wissenserhalt – unabhängig von einzelnen Personen oder Projekten  
+- Wissenserhalt unabhängig von einzelnen Personen oder Projekten  
   → Mit dem Ausscheiden des Vorgängers gingen wichtige Informationen verloren. Ein professionelles FDM stellt sicher, dass Daten personenunabhängig zugänglich und verständlich bleiben, auch bei Personalwechseln [2]. 
 
 
