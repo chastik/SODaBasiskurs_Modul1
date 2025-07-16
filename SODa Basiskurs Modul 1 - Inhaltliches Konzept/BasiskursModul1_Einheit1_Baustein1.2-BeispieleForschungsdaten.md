@@ -44,7 +44,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 **EduBrick: 1.2. Beispiele für Forschungsdaten**
 
-**Lernziel: 1.1. Lernende können Beispiele für Sammlungs- und Forschungsdaten benennen. (in Anlehnung an LZ-ID 01_001_0008) **
+**Lernziel: 1.2. Lernende können Beispiele für Sammlungs- und Forschungsdaten benennen. (in Anlehnung an LZ-ID 01_001_0008)**
 
 
 ## 1.2. Beispiele für Forschungsdaten
