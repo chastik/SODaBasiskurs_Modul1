@@ -25,7 +25,7 @@ comment:  WissKi SODA OERs
 
 **Einheit 5: Open Science in wissenschaftlichen Universitätssammlungen**
 
-**EduBrick: 5.5. Relevanz von Open Science**
+**Lernbaustein/EduBrick: 5.5. Relevanz von Open Science**
 
 **Lernziel: 5.5. Lernende können die Relevanz von Open Science für Wissenschaft und Gesellschaft benennen. (LZ-ID 01_08_0142)**
 
