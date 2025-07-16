@@ -65,8 +65,21 @@ Bevor wir in die Inhalte einsteigen, nehmen wir uns ein paar Minuten Zeit zum An
 <img width="6853" height="7149" alt="grafik" src="https://github.com/user-attachments/assets/c7260f4a-8c8f-4ed4-b43a-58a043ff0b47" />
 
 
-### **Überblick**
-<img width="776" height="448" alt="grafik" src="https://github.com/user-attachments/assets/569c44f8-d8e4-4a6e-abd9-213d3be74ee6" />
+### **Ablauf**
+| Zeit              | Programmpunkt                                                                                      |
+|-------------------|----------------------------------------------------------------------------------------------------|
+| 13:00             | Begrüßung und Kennenlernen                                                                         |
+| 13:05             | Grundlagen: Forschungsdaten, Forschungsdatenmanagement, Merkmale und Funktionen von Universitätssammlungen |
+| 13:25             | Kontaktstellen                                                                                     |
+| 13:35             | Forschungsdatenpolicies                                                                            |
+| 13:50–14:00       | **PAUSE**                                                                                           |
+| 14:00             | Einführung in den Forschungsdatenlebenszyklus am Beispiel einer Universitätssammlung              |
+| 14:15             | FAIR-Prinzipien                                                                                    |
+| 14:25             | Open Science im Sammlungskontext                                                                   |
+| 14:35             | DMP                                                                                                |
+| 14:50             | Verabschiedung                                                                                     |
+| 15:00             | **Ende**                                                                                           |
+
 
 
 -----------
