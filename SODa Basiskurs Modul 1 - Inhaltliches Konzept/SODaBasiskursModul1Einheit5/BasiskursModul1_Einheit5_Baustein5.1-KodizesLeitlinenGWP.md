@@ -43,7 +43,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 **Einheit 5: Open Science in wissenschaftlichen Universitätssammlungen**
 
-**EduBrick: 5.1. Kodizes und Leitlinen zur Guten Wissenschaftlichen Praxis**
+**Lernbaustein/EduBrick: 5.1. Kodizes und Leitlinen zur Guten Wissenschaftlichen Praxis**
 
 **Lernziel: 5.1. Lernende können Kodizes und Leitlinen zur Guten Wissenschaftlichen Praxis benennen. (LZ-ID 05_011_1031)**
 
