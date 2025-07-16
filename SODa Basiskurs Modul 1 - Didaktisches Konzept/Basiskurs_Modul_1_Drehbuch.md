@@ -93,7 +93,7 @@ comment:  WissKi SODA OERs
 
 
 
-**Einheit 8 – FAIR-Prinzipien in wiss. Universitätssammlungen | 8.1–8.4**
+**Einheit 8 – FAIR-Prinzipien in wiss. Universitätssammlungen **
 
 | Einheit | Baustein                                  | Lernziel                                                                 | Didaktische Methode (Arbeitsform) | Dauer        | Inhalt  | Schritt                   | Regieanweisung        | Materialien (Werkzeuge)      |
 |---------|--------------------------------------------|--------------------------------------------------------------------------|-----------------------------------|--------------|---------|---------------------------|------------------------|-------------------------------|
