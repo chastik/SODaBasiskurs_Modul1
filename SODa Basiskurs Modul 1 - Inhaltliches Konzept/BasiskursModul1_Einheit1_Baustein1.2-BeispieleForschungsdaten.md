@@ -77,7 +77,7 @@ Forschungsdaten zeichnen sich dadurch aus, dass sie im Rahmen wissenschaftlicher
 
 
 ## 1.2.3 Beispiele für sammlungsspezifische Forschungsdaten: Zuruf
-Wir haben gerade gesehen, wie vielfältig Forschungsdaten sein können und dass auch  Sammlungsdaten Forschungsdaten sind. Bevor wir weitermachen, würde mich interessieren: Welche Daten begegnen Ihnen in Ihrer eigenen Arbeit? Ganz egal, ob Bilder, Listen, Tabellen oder Sensorwerte. 
+Forschungsdaten sind vielfältig und auch Sammlungsdaten sind Forschungsdaten. Welche Daten begegnen Euch in Eurer eigenen Arbeit? Ganz egal, ob Bilder, Listen, Tabellen oder Sensorwerte. 
 
 -----------
 Quellenangaben
