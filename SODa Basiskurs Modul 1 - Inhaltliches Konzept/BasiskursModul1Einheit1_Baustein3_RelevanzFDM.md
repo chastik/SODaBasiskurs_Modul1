@@ -12,11 +12,11 @@ beschreibung:
 format: SODaBasiskurs Workshop 
 modultitel: Sammlungs- und Objektdaten als Forschungsdaten managen
 modul: Modul 1
-einheitstitel: Beispiele für Forschungsdaten
-einheit: Einheit 1
-lernziel: 
-LZ-ID: LZ-ID_01_001_008
-baustein: Baustein1.2
+einheitstitel: Relevanz von FDM
+einheit: Einheit 3
+lernziel: Lernende können die Relevanz von Forschungsdatenmanagement (FDM) für Forschung, Gesellschaft und die Sammlungsarbeit benennen
+LZ-ID: In Anlehnung an LZ-ID_01_001_001
+baustein: Baustein1.3
 zielgruppe: https://zenodo.org/records/15574575
 gestaltungsprinzip: Problemorientiertes Lernen und Peer Learning
 keywords: ???
@@ -42,6 +42,6 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 **Einheit 1: FDM Grundlagen in wissenschaftlichen Universitätssammlungen**
 
-**EduBrick: 1.2. Beispiele für Forschungsdaten**
+**EduBrick: 1.3. Relevanz von FDM**
 
-**Lernziel: 1.2. Lernende können Beispiele für Sammlungs- und Forschungsdaten benennen. (in Anlehnung an LZ-ID 01_001_0008)**
+**Lernziel: 1.3. Lernende können die Relevanz von Forschungsdatenmanagement (FDM) für Forschung, Gesellschaft und die Sammlungsarbeit benennen. (in Anlehnung an LZ-ID 01_001_0001)**
