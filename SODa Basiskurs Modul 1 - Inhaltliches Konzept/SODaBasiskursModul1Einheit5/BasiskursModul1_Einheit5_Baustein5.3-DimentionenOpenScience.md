@@ -70,23 +70,36 @@ Zeitbedarf: ca. 3 Min.
 | **Open Peer Review**      | (Beispielhaft: Journale mit Museumsbezug)                                  | Offene Begutachtung z. B. bei *Journal of Museum Education* oder *Curator: The Museum Journal*   |
 | **Citizen Science**       | HU Berlin, Uni Hamburg u. a. - [MuseumsLab(https://www.museumfuernaturkunde.berlin/de/museum/heute/das-museum/themuseumslab); Universität Koblenz - [Liebesbriefarchiv]([Liebesbriefarchiv](https://liebesbriefarchiv.de/))| Beteiligung von Bürger:innen an Provenienzforschung & Digitalisierung von Objekten; Transkription und Annotation|                |
 
-  
-### Beispiele für Austauschformate 
+### Weitere Beispiele
 
-**[Open Science Magazin](https://open-science-future.zbw.eu/)**
-![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OSmagazin.png)<!--width="50%"-->
 
-**[Open Economics Guide](https://www.zbw.eu/de/services/open-science)**
-![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OEGuide.png)<!--width="50%"-->
-
-**[Open Sciecne Podcast](https://podcast.zbw.eu/fos/)**
-![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/future_is_open_science.png)<!--width="50%"-->
-
-**[Open Science Conference](https://www.open-science-conference.eu/)**
-![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OSconference.png)<!--width="50%"-->
-
-**[Barcamp Open Science](https://www.barcamp-open-science.eu/)**
-![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OSBarcamp.png)<!--width="50%"-->
+**1. Open Access**
+* Deutschland: Open Access LMU – Institutionelles Repositorium der Universität München mit Beratung und Infrastruktur
+* International: PubMed Central – Offene Plattform für biomedizinische Forschung der US National Institutes of Health
+     
+**2. Open Data**
+* Deutschland: GESIS Datenarchiv – Archiv für sozialwissenschaftliche Daten mit offenem Zugang
+* International: Zenodo – Offenes Repositorium für Daten und Publikationen, betrieben von CERN und OpenAIRE
+     
+**3. Open Methodology**
+* Deutschland: OpenMethods – Plattform für methodischen Austausch in den Geisteswissenschaften
+* International: Protocol Exchange – Sammlung von Methodenprotokollen aus der internationalen Forschung
+     
+**4. Open Source / Open Code**
+* Deutschland: Software Heritage @ MPI Saarbrücken – Beitrag zum internationalen Software-Archivierungsprojekt
+* International: R Project – Freie Programmiersprache und Umgebung für Statistik und Datenanalyse
+     
+**5. Open Peer Review**
+* Deutschland: Pilotprojekte z. B. bei der Gesellschaft für Informatik (GI) – Experimente mit offenen Begutachtungsprozessen
+* International: F1000Research – Wissenschaftsplattform mit offenem Peer Review und veröffentlichten Gutachten
+     
+**6. Open Educational Resources (OER)**
+* Deutschland: OERhörnchen – Suchportal und Community-Plattform für freie Bildungsmaterialien
+* International: OpenStax – Offene Hochschullehrbücher, lizensiert und frei verfügbar
+     
+**7. Citizen Science**
+* Deutschland: Bürger schaffen Wissen – Nationale Plattform für Citizen-Science-Projekte
+* International: Zooniverse – Weltweit genutzte Plattform für bürgerwissenschaftliche Forschung (Astronomie, Biologie, Geschichte etc.)
 
 
 -----------
