@@ -47,9 +47,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 **Lernziel: 1.2. Lernende können Beispiele für Sammlungs- und Forschungsdaten benennen. (in Anlehnung an LZ-ID 01_001_0008)**
 
 
-## 1.2. Beispiele für Forschungsdaten
-
-## 1.2.1 Beispiele für Forschungsdaten
+## 1.2.1 Beispiele für generische Forschungsdaten
 Forschungsdaten entstehen in vielen Formen und in ganz unterschiedlichen Disziplinen.  
 Sie können entweder direkt im Forschungsprozess erhoben oder aus vorhandenen Quellen abgeleitet werden.
 
@@ -76,8 +74,8 @@ Beispiele für Forschungsdaten sind:
 Forschungsdaten zeichnen sich dadurch aus, dass sie im Rahmen wissenschaftlicher Tätigkeiten entstehen, systematisch dokumentiert und analysiert werden und entweder Grundlage oder Ergebnis von Forschung sind. Auch Sammlungsdaten sind Forschungsdaten. Dazu zählen zum Beispiel Kontextinformationen zu Fundort und Zeitpunkt, digitale Reproduktionen, Analyseergebnisse oder strukturierte Metadaten. Anhand des gezeigten Herbarbelegs wird deutlich, dass solche Daten nicht nur für die interne Erschließung relevant sind, sondern auch eine zentrale Grundlage für Forschung bilden. Sie ermöglichen zum Beispiel die botanische Bestimmung von Pflanzenarten und ihrer Merkmale, die Rekonstruktion historischer Sammlungsnetzwerke sowie die Analyse von Biodiversitätsveränderungen über lange Zeiträume hinweg. 
 
 
-## 1.2.3 Beispiele für sammlungsspezifische Forschungsdaten: Zuruf
-Forschungsdaten sind vielfältig und auch Sammlungsdaten sind Forschungsdaten. Welche Daten begegnen Euch in Eurer eigenen Arbeit? Ganz egal, ob Bilder, Listen, Tabellen oder Sensorwerte. 
+## Zuruf
+Welche Forschungs- oder Sammlungsdaten begegnen Euch in Eurer eigenen Arbeit? Ganz egal, ob Bilder, Listen, Tabellen oder Sensorwerte. 
 
 -----------
 Quellenangaben
