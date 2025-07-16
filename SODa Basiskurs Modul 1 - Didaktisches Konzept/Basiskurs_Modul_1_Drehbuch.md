@@ -93,7 +93,7 @@ comment:  WissKi SODA OERs
 | 7.6     | Vorlagen und Repositorien        | Lernende können ein geeignetes Repository mit DMP-Vorlagen benennen. <br>(neu)             | Folien                            | ca. Minuten  | Inhalt  | TN hören zu (einatmen) | WL stellt vor.          | Folien vorbereiten           |
 
 
-**Einheit 8 – FAIR-Prinzipien in universitären Sammlungen | 8.1–8.4**
+**Einheit 8 – FAIR-Prinzipien in wiss. Universitätssammlungen | 8.1–8.4**
 
 | Einheit | Baustein                                  | Lernziel                                                                 | Didaktische Methode (Arbeitsform) | Dauer        | Inhalt  | Schritt                   | Regieanweisung        | Materialien (Werkzeuge)      |
 |---------|--------------------------------------------|--------------------------------------------------------------------------|-----------------------------------|--------------|---------|---------------------------|------------------------|-------------------------------|
