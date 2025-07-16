@@ -41,7 +41,7 @@ comment:  WissKi SODA OERs
 | 2.2 Sammlungsfunktion | Lernende können wesentliche Funktionen von Sammlungen benennen. (neu) | Vortrag mit Folien   | ca. Minuten                       | Sammlungsfunktionen | TN hören zu (einatmen) | WL stellt wesentliche Funktionen vor | Folien vorbereiten             | –                       |
 
 
-**Einheit 3 Kontaktstellen für wissenschaftlichen Universitätssammlungen** 
+**Einheit 3 Kontaktstellen für wiss. Universitätssammlungen** 
 
 | Einheit              | Baustein                                                                                                                                | Lernziel           | Didaktische Methode (Arbeitsform) | Dauer                       | Inhalt                 | Schritt                                  | Regieanweisung     | Materialien (Werkzeuge) |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------------- | --------------------------- | ---------------------- | ---------------------------------------- | ------------------ | ----------------------- |
@@ -51,7 +51,7 @@ comment:  WissKi SODA OERs
 
 
 
-**Einheit 4 Forschungsdaten Policies für wissenschaftliche Universitätssammlungen** 
+**Einheit 4 Forschungsdaten-Policies für wiss. Universitätssammlungen** 
 
 | Einheit                                 | Baustein                                                                                               | Lernziel                   | Didaktische Methode (Arbeitsform) | Dauer                               | Inhalt                 | Schritt                      | Regieanweisung                              | Materialien (Werkzeuge) |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------- | --------------------------------- | ----------------------------------- | ---------------------- | ---------------------------- | ------------------------------------------- | ----------------------- |
@@ -81,7 +81,7 @@ comment:  WissKi SODA OERs
 | 6.4     | Maßnahmen entlang des FDM-Zyklus      | Lernende können FDM-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus erläutern. <br>(LZ-ID 01_004_0083) | Arbeit mit dem Miroboard          | ca. Minuten  | Inhalt  | TN agieren (ausatmen)   | WL leitet zur nächsten Aufgabe über | Miroboard, ggf. Input vorbereiten  |
 
 
-**Einheit 7 – Datenmanagementplan (DMP) für wissenschaftliche Universitätssammlungen**
+**Einheit 7 – Datenmanagementplan (DMP) für wiss. Universitätssammlungen**
 
 | Einheit | Baustein                          | Lernziel                                                                                   | Didaktische Methode (Arbeitsform) | Dauer        | Inhalt  | Schritt                 | Regieanweisung         | Materialien (Werkzeuge)     |
 |---------|-----------------------------------|--------------------------------------------------------------------------------------------|-----------------------------------|--------------|---------|-------------------------|-------------------------|------------------------------|
