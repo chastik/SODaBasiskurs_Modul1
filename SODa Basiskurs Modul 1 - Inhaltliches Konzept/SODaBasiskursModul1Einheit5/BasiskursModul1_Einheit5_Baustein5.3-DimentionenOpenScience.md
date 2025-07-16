@@ -27,7 +27,7 @@ comment:  WissKi SODA OERs
 
 **Lernbaustein/EduBrick: 5.3. Dimensionen (Praktiken) von Open Science**
 
-**5.3. Lernende können die verschiedenen Dimensionen von Open Science benennen. (LZ-ID 01_08_0140)**
+**5.3. Lernende können die verschiedenen Dimensionen von Open Science benennen. (LZ-ID 01\_08\_0140)**
 
 
 ## 5.3. Dimensionen (Praktiken) von Open Science
@@ -38,11 +38,11 @@ In den konkreten Dimensionen zeigt sich, wie diese Werte praktisch umgesetzt wer
 
 ### Aufgabe
 
-Frames auf Miroboard 
+Frame auf Miroboard 
 
 Drehen und Wenden: Begriffe und Erklärungen zuordnen 
 
-Kleingruppe á 3-5 Personen in Breakout Räumen
+Plenum
 
 Zeitbedarf: ca. 3 Min.
 
