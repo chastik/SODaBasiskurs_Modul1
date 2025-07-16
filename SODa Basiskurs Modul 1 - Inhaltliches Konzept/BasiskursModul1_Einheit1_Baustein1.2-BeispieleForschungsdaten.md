@@ -47,7 +47,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 **Lernziel: 1.1. Lernende können Beispiele für Sammlungs- und Forschungsdaten benennen. (in Anlehnung an LZ-ID 01_001_0008) **
 
 
-## 1.2. Beispiele für Forschungsdaetn
+## 1.2. Beispiele für Forschungsdaten
 
 | Datentyp                               | Beispielhafte Information (Herbarbeleg)                                                                                           |
 |----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
