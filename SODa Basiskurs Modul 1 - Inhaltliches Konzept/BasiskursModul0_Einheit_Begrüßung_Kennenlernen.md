@@ -60,7 +60,7 @@ Bevor wir in die Inhalte einsteigen, nehmen wir uns ein paar Minuten Zeit zum An
 
 -----------
 ## 0.2. **Kennenlernen und Vernetzung**
-Zum Einstieg machen wir eine kurze Chat-Runde. Beschreibe Deine Arbeit in drei Stichworten oder Hashtags z.B. #Universitätssammlung #Biologie #Digitalisierung 
+Zum Einstieg machen wir eine kurze Chat-Runde. Beschreibe Deine sammlungsbezogenen Arbeitsalltag in drei Stichworten oder Hashtags z.B. #Zoologie #ObjektLehre #Digitalisierung 
 
 Deine Begriffe können sich auf die Art der Sammlung, Deine Rolle, Dein aktuelles Projekt oder Deine Perspektive auf das Thema beziehen. 
 
