@@ -59,7 +59,7 @@ Ein gutes FDM spart langfristig Zeit und Ressourcen, verhindert Datenverlust und
 - Dokumentation von Daten und Auszeichnung mit Metadaten  
   → In der Scary Tale fehlen zentrale Kontextinformationen zu Objekten. Eine systematische Metadatenpflege würde sicherstellen, dass Herkunft, Zustand, Nutzung und Bearbeitungsverlauf der Objekte dauerhaft nachvollziehbar sind.
 
-- Langzeitarchivierung, Backup  und Zugangsregelung
+- Langzeitarchivierung, Backup  und Zugangsregelung <br>
   → Der Zugriff auf alte Exceldateien ist nicht mehr möglich. Mit einem geeigneten Archivierungs- und Backupkonzept könnten diese Daten erhalten bleiben, auch wenn Geräte oder Dateiformate sich ändern. Eine klare Zugangsregelung stellt sicher, dass Erschließungsdaten personenunabhängig zugänglich sind.  
 
 - Festlegen von Dateibenennungs- und Ablagestrukturen  
