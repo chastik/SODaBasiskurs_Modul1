@@ -53,7 +53,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 |----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | Erhebungs- und Kontextdaten            | Fundort: Nähe Herrnhut, Sachsen-Anhalt<br>Sammeldatum: 1766<br>Sammler: Johann Jakob Bossart<br>Standortbedingungen: Trockenrasen |
 | Objektdaten               | Objektart: Herbarbeleg<br>Pflanzenart: Pulsatilla vulgaris (Gewöhnliche Küchenschelle)<br>Material: Papier, Pflanzenmaterial     |
-| Herkunfts- und Sammlungsgeschichte     | Teilsammlung: Herrnhuter Herbarbelege<br>Übergreifende Sammlung: Herbarium Dresdense Institution: Technische Universität Dresden                            |
+| Herkunfts- und Sammlungsgeschichte     | Teilsammlung: Herrnhuter Herbarbelege<br>Übergreifende Sammlung: Herbarium Dresdense<br>Institution: Technische Universität Dresden                            |
 | Erschließungs- und Digitalisierungsdaten | Digitalisat vorhanden (Scan 600 dpi, TIFF)<br>Metadaten: XML nach Dublin Core<br>Erschließungssoftware: WissKI                   |
 | Forschungs- und Analyseergebnisse      | Projekt: „Naturforschung und protestantische Mission“<br>Analyse: Netzwerkanalyse historischer Sammlerbeziehungen                 |
 | Konservierungs- und Zustandsdaten      | Zustand: Fragil, leichte Papierbräunung<br>Maßnahmen: Lagerung in säurefreier Hülle, Digitalisierung zur Bestandserhaltung         |
