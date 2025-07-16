@@ -90,7 +90,7 @@ comment:  WissKi SODA OERs
 | 7.3     | Nutzen von DMP                   | Lernende können den Nutzen eines Datenmanagementplans erläutern. <br>(LZ-ID 01\_006\_0096)   | Folien                            | ca. Minuten  | Inhalt  | TN hören zu (einatmen) | WL stellt vor.          | Folien vorbereiten           |
 | 7.4     | Bestandteile von DMP             | Lernende können die Bestandteile eines Datenmanagementplans benennen. <br>(LZ-ID 01\_006\_0092) | Folien                         | ca. Minuten  | Inhalt  | TN hören zu (einatmen) | WL stellt vor.          | Folien vorbereiten           |
 | 7.5     | Software für DMP                 | Lernende können geeignete Software zum Erstellen von DMP benennen. <br>(LZ-ID 01\_006\_0102) | Folien                            | ca. Minuten  | Inhalt  | TN hören zu (einatmen) | WL stellt vor.          | Folien vorbereiten           |
-| 7.6     | Vorlagen und Repositorien        | Lernende können ein geeignetes Repository mit DMP-Vorlagen benennen. <br>(neu)             | Folien                            | ca. Minuten  | Inhalt  | TN hören zu (einatmen) | WL stellt vor.          | Folien vorbereiten           |
+
 
 
 **Einheit 8 – FAIR-Prinzipien in wiss. Universitätssammlungen | 8.1–8.4**
