@@ -49,7 +49,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 ## 1.2. Beispiele für Forschungsdaten
 
-| Datentyp                               | Beispielhafte Information (Herbarbeleg)                                                                                           |
+| Datenart                               | Beispielhafte Information (Herbarbeleg)                                                                                           |
 |----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | Erhebungs- und Kontextdaten            | Fundort: Nähe Herrnhut, Sachsen-Anhalt<br>Sammeldatum: 1766<br>Sammler: Johann Jakob Bossart<br>Standortbedingungen: Trockenrasen |
 | Objektbezogene Merkmale                | Objektart: Herbarbeleg<br>Pflanzenart: Pulsatilla vulgaris (Gewöhnliche Küchenschelle)<br>Material: Papier, Pflanzenmaterial     |
