@@ -25,7 +25,7 @@ comment:  WissKi SODA OERs
 
 **Einheit 5: Open Science in wissenschaftlichen Universitätssammlungen**
 
-**EduBrick: 5.4. Ziele von Open Science**
+**Lernbaustein/EduBrick: 5.4. Ziele von Open Science**
 
 **Lernziel: 5.4. Lernende können Ziele von Open Science benennen. (LZ-ID 01_08_0138)**
 
