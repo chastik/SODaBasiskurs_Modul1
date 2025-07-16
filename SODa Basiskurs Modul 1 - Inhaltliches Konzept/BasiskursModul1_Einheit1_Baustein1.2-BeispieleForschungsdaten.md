@@ -61,9 +61,6 @@ Beispiele für Forschungsdaten sind:
 - Bilder von Gewebeproben aus der Medizin,
 - Umfragedaten zur Mediennutzung.
 
-Forschungs- und Sammlungsdaten sind vielfältig.  
-Sie machen Informationen zu den Objekten sichtbar, dokumentieren zum Beispiel deren Kontext, Zustand, Erschließung und Nutzung und machen sie damit zugänglich.
-
 ## 1.2.2 Beispiele für sammlungsspezifische Forschungsdaten
 
 | Forschungsdatenart                              | Am Beispiel eines Herbarbelegs                                                                                           |
