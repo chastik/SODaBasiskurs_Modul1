@@ -47,11 +47,29 @@ Open Science ist wichtig zur...
 
 ![](https://github.com/chastik/Beratung_Dateityp_Bild/blob/main/RelevanzOS.jpg)<!--width="100%"--> ****
   
-## Open-Science-Praxistipps [2]
+## Open Science-Praxistipps [2]
 
 * [Tipps für den Forschungsalltag](https://open-science-future.zbw.eu/wp-content/uploads/2021/09/os-magazin-print_teil1.pdf)
 * [Tipps für die Wissenschaftskommunikation mit Social Media](https://open-science-future.zbw.eu/wp-content/uploads/2021/09/os-magazin-print_teil2.pdf)
 * [Worksheets](https://open-science-future.zbw.eu/wp-content/uploads/2021/09/os-magazin-print_teil3.pdf)
+
+## Open Science-Austauschformate [2]
+
+**[Open Science Magazin](https://open-science-future.zbw.eu/)**
+![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OSmagazin.png)<!--width="50%"-->
+
+**[Open Economics Guide](https://www.zbw.eu/de/services/open-science)**
+![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OEGuide.png)<!--width="50%"-->
+
+**[Open Sciecne Podcast](https://podcast.zbw.eu/fos/)**
+![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/future_is_open_science.png)<!--width="50%"-->
+
+**[Open Science Conference](https://www.open-science-conference.eu/)**
+![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OSconference.png)<!--width="50%"-->
+
+**[Barcamp Open Science](https://www.barcamp-open-science.eu/)**
+![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OSBarcamp.png)<!--width="50%"-->
+
 
 -----------
 Quellenangaben
