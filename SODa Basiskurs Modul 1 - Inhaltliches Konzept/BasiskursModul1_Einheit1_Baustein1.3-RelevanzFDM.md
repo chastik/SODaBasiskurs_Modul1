@@ -51,7 +51,7 @@ Wir knüpfen an die Scary Tale vom Kursbeginn an: Verloren gegangene Information
 
 Forschungsdatenmanagement umfasst alle organisatorischen und technischen Maßnahmen, die den Umgang mit Daten im Forschungsprozess systematisch struktrieren. Ziel des Forschungsdatenmanagments ist es, Daten "langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten" [1]. 
 
-Das Forschungsdatenmanagement begleitet im Idealfall den gesamten Lebenszyklus von Daten, der ausführlich Thema in Einheit 6 sein wird: Von der Planung über die Erhebung, Speicherung und ANalyse von Daten hin zur Archivierung, Publikation und Nachnutzung. 
+Das Forschungsdatenmanagement begleitet im Idealfall den gesamten Lebenszyklus von Daten, der ausführlich Thema in Einheit 6 sein wird: Von der Planung über die Erhebung, Speicherung und Analyse von Daten hin zur Archivierung, Publikation und Nachnutzung. 
 
 ## 1.3.2 Relevanz von Forschungsdatenmanagement
 Ein gutes FDM spart langfristig Zeit und Ressourcen, verhindert Datenverlust und erleichtert die Zusammenarbeit. Gerade im Kontext von Universitätssammlungen sind folgende Maßnahmen besonders entscheidend:
