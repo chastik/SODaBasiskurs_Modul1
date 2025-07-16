@@ -12,10 +12,10 @@ beschreibung:
 format: SODaBasiskurs Workshop 
 modultitel: Sammlungs- und Objektdaten als Forschungsdaten managen
 modul: Modul 1
-einheitstitel: 
+einheitstitel: Begriff "Forschungsdaten"
 eiheit: Einheit 1
 lernziel: 
-LZ-ID: LZ-ID_05_011_1031
+LZ-ID: LZ-ID_01_001_007
 baustein: Baustein1.1
 zielgruppe: https://zenodo.org/records/15574575
 gestaltungsprinzip: Problemorientiertes Lernen und Peer Learning
