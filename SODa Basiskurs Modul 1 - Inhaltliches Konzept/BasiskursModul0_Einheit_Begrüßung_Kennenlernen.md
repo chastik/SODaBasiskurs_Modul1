@@ -66,19 +66,20 @@ Bevor wir in die Inhalte einsteigen, nehmen wir uns ein paar Minuten Zeit zum An
 
 
 ### **Ablauf**
-| Zeit              | Programmpunkt                                                                                      |
-|-------------------|----------------------------------------------------------------------------------------------------|
-| 13:00             | Begrüßung und Kennenlernen                                                                         |
-| 13:05             | Grundlagen: Forschungsdaten, Forschungsdatenmanagement, Merkmale und Funktionen von Universitätssammlungen |
-| 13:25             | Kontaktstellen                                                                                     |
-| 13:35             | Forschungsdatenpolicies                                                                            |
-| 13:50–14:00       | **PAUSE**                                                                                           |
-| 14:00             | Einführung in den Forschungsdatenlebenszyklus am Beispiel einer Universitätssammlung              |
-| 14:15             | FAIR-Prinzipien                                                                                    |
-| 14:25             | Open Science im Sammlungskontext                                                                   |
-| 14:35             | DMP                                                                                                |
-| 14:50             | Verabschiedung                                                                                     |
-| 15:00             | **Ende**                                                                                           |
+| Zeit         | Programmpunkt                                                             |
+|--------------|---------------------------------------------------------------------------|
+| 13:00        | Einheit 0 – Begrüßung und Kennenlernen                                    |
+| 13:05        | Einheit 1 – FDM-Grundlagen in wiss. Universitätssammlungen               |
+| 13:25        | Einheit 2 – Sammlungsbegriff, Aufgaben und Merkmale  wiss. Universitätssammlungen                    |
+| 13:35        | Einheit 3 – Kontaktstellen für wiss. Universitätssammlungen              |
+| 13:45        | Einheit 4 – Forschungsdaten-Policies                                      |
+| 13:50–14:00  | **PAUSE**                                                                 |
+| 14:00        | Einheit 5 – Open Science im Sammlungskontext                              |
+| 14:20        | Einheit 6 – Forschungsdatenlebenszyklus                                  |
+| 14:35        | Einheit 7 – DMP für wiss. Universitätssammlungen                         |
+| 14:50        | Einheit 8 – FAIR-Prinzipien in wiss. Universitätssammlungen              |
+| 15:00        | Verabschiedung                                                            |
+
 
 
 
