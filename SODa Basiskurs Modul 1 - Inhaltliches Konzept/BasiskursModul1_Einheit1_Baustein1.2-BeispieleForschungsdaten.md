@@ -52,7 +52,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 | Forschungsdatenart                              | Am Beispiel eines Herbarbelegs                                                                                           |
 |----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | Herkunfts- und Sammlungsgeschichte     | Teilsammlung: Herrnhuter Herbarbelege<br>Übergreifende Sammlung: Herbarium Dresdense<br>Institution: Technische Universität Dresden |
-| Erhebungs- und Kontextdaten            | Fundort: Nähe Barby, Sachsen-Anhalt („Im Busche bey Friderikenberg“)<br>Sammeldatum: ca. 1766<br>Sammler: vermutlich Herrnhuter Brüdergemeine<br>Standortbedingungen: Trockenrasen |
+| Erhebungs- und Kontextdaten            | Fundort: Nähe Barby, Sachsen-Anhalt („Im Busche bey Friderikenberg“)<br>Sammeldatum: ca. 1766<br>Sammler: Herrnhuter Brüdergemeine<br>Standortbedingungen: Trockenrasen |
 | Objektdaten                            | Objektart: Herbarbeleg<br>Pflanzenart: *Pulsatilla vulgaris* (Gewöhnliche Küchenschelle)<br>Material: Papier, getrocknete Pflanze |
 | Konservierungs- und Zustandsdaten      | Zustand: Fragil, leichte Papierbräunung<br>Maßnahmen: Lagerung in säurefreier Hülle, Digitalisierung zur Bestandserhaltung         |
 | Erschließungs- und Digitalisierungsdaten | Digitalisat vorhanden<br>Metadaten nach Dublin Core<br>Erschlossen im Projekt „Naturforschung und protestantische Mission“ mit WissKI |
