@@ -38,11 +38,11 @@ In den konkreten Dimensionen zeigt sich, wie diese Werte praktisch umgesetzt wer
 
 ### Aufgabe
 
-Frame auf Miroboard 
+4 Frames auf Miroboard 
 
 Drehen und Wenden: Begriffe und Erklärungen zuordnen 
 
-Plenum
+Kleingruppen á 3-5 Personen pro Frame.
 
 Zeitbedarf: ca. 3 Min.
 
