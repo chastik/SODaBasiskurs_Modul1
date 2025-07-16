@@ -42,7 +42,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 **Einheit 1: FDM Grundlagen in wissenschaftlichen Universitätssammlungen**
 
-**EduBrick: 1.2. Beispiele für Forschungsdaten"**
+**EduBrick: 1.2. Beispiele für Forschungsdaten**
 
 **Lernziel: 1.1. Lernende können Beispiele für Sammlungs- und Forschungsdaten benennen. (in Anlehnung an LZ-ID 01_001_0008) **
 
@@ -73,8 +73,11 @@ Beispiele für Forschungsdaten sind:
 | Forschungs- und Analyseergebnisse      | Analyse im Kontext wissenschaftlicher Netzwerke der Herrnhuter Brüdergemeine<br>Interdisziplinäre Auswertung in Botanik, Wissenschafts- und Religionsgeschichte |
 | Publikations- und Nachnutzungsdaten    | Nutzung: Online verfügbar bei JACQ<br>Lizenz: CC BY 4.0<br>Zugriff über [https://dr.jacq.org/DR024129](https://dr.jacq.org/DR024129) |
 
-Forschungs- und Sammlungsdaten sind vielfältig. Sie machen Informationen zu den Objekten sichtbar, dokumentieren zum Beispiel deren Kontext, Zustand, Erschließung und Nutzung und machen sie damit zugänglich.
+Forschungsdaten zeichnen sich dadurch aus, dass sie im Rahmen wissenschaftlicher Tätigkeiten entstehen, systematisch dokumentiert und analysiert werden und entweder Grundlage oder Ergebnis von Forschung sind. Auch Sammlungsdaten sind Forschungsdaten. Dazu zählen zum Beispiel Kontextinformationen zu Fundort und Zeitpunkt, digitale Reproduktionen, Analyseergebnisse oder strukturierte Metadaten. Anhand des gezeigten Herbarbelegs wird deutlich, dass solche Daten nicht nur für die interne Erschließung relevant sind, sondern auch eine zentrale Grundlage für Forschung bilden. Sie ermöglichen zum Beispiel die botanische Bestimmung von Pflanzenarten und ihrer Merkmale, die Rekonstruktion historischer Sammlungsnetzwerke sowie die Analyse von Biodiversitätsveränderungen über lange Zeiträume hinweg. 
 
+
+## 1.2.3 Beispiele für sammlungsspezifische Forschungsdaten: Zuruf
+Wir haben gerade gesehen, wie vielfältig Forschungsdaten sein können und dass auch  Sammlungsdaten Forschungsdaten sind. Bevor wir weitermachen, würde mich interessieren: Welche Daten begegnen Ihnen in Ihrer eigenen Arbeit? Ganz egal, ob Bilder, Listen, Tabellen oder Sensorwerte. 
 
 -----------
 Quellenangaben
