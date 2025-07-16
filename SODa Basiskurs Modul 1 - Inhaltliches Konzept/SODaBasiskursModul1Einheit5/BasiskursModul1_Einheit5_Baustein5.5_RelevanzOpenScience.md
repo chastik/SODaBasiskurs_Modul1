@@ -42,16 +42,5 @@ Open Science ist wichtig zur...
 * Förderung globaler Kooperation und Inklusion: Open Science kann globale Ungleichheiten in der Forschung (z. B. Zugang, Sichtbarkeit) abbauen.
 * Erreichung der UN-Nachhaltigkeitsziele (SDGs): Durch offene Zugänge zu Wissen und Daten kann Wissenschaft gezielt zur Lösung globaler Herausforderungen beitragen.
 
-## Open-Science-Praxistipps [2]
-
-* [Tipps für den Forschungsalltag](https://open-science-future.zbw.eu/wp-content/uploads/2021/09/os-magazin-print_teil1.pdf)
-* [Tipps für die Wissenschaftskommunikation mit Social Media](https://open-science-future.zbw.eu/wp-content/uploads/2021/09/os-magazin-print_teil2.pdf)
-* [Worksheets](https://open-science-future.zbw.eu/wp-content/uploads/2021/09/os-magazin-print_teil3.pdf)
-
------------
-Quellenangaben
-
-[1]  UNESCO. (2021). UNESCO Recommendation on Open Science. Paris: United Nations Educational, Scientific and Cultural Organization. Abgerufen am 11. Juli 2025, von https://unesdoc.unesco.org/ark:/48223/pf0000379949
-[2] ZBW – Leibniz-Informationszentrum Wirtschaft. (o. D.). In Open Science Future. Abgerufen am 13. Juli 2025, von https://open‑science‑future.zbw.eu/worksheets/
 
 
