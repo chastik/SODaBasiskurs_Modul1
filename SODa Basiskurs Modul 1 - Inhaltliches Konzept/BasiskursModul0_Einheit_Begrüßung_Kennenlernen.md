@@ -51,7 +51,8 @@ Bevor wir in die Inhalte einsteigen, nehmen wir uns ein paar Minuten Zeit zum An
 ## 0.1. **Ankommen, Netiquette, Überblick**
 
 ### 0.1. **Netiquette**
-<img width="454" height="413" alt="grafik" src="https://github.com/user-attachments/assets/da0fbaa3-acc2-4e57-82bc-0a0039029a56" />
+<img width="6853" height="7149" alt="grafik" src="https://github.com/user-attachments/assets/c7260f4a-8c8f-4ed4-b43a-58a043ff0b47" />
+
 
 ### 0.1. **Überblick**
 <img width="776" height="448" alt="grafik" src="https://github.com/user-attachments/assets/569c44f8-d8e4-4a6e-abd9-213d3be74ee6" />
