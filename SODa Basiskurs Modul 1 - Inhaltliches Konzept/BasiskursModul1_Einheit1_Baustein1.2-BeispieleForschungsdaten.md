@@ -49,6 +49,23 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 ## 1.2. Beispiele für Forschungsdaten
 
+## 1.2.1 Beispiele für Forschungsdaten
+Forschungsdaten entstehen in vielen Formen und in ganz unterschiedlichen Disziplinen.  
+Sie können entweder direkt im Forschungsprozess erhoben oder aus vorhandenen Quellen abgeleitet werden.
+
+Beispiele für Forschungsdaten sind:
+- Messwerte aus einem Laborexperiment,
+- Interviews aus einer sozialwissenschaftlichen Studie,
+- Transkriptionen historischer Briefe,
+- GPS-Daten aus einer Feldstudie,
+- Bilder von Gewebeproben aus der Medizin,
+- Umfragedaten zur Mediennutzung.
+
+Forschungs- und Sammlungsdaten sind vielfältig.  
+Sie machen Informationen zu den Objekten sichtbar, dokumentieren zum Beispiel deren Kontext, Zustand, Erschließung und Nutzung und machen sie damit zugänglich.
+
+## 1.2.2 Beispiele für sammlungsspezifische Forschungsdaten
+
 | Forschungsdatenart                              | Am Beispiel eines Herbarbelegs                                                                                           |
 |----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | Herkunfts- und Sammlungsgeschichte     | Teilsammlung: Herrnhuter Herbarbelege<br>Übergreifende Sammlung: Herbarium Dresdense<br>Institution: Technische Universität Dresden |
@@ -59,27 +76,17 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 | Forschungs- und Analyseergebnisse      | Analyse im Kontext wissenschaftlicher Netzwerke der Herrnhuter Brüdergemeine<br>Interdisziplinäre Auswertung in Botanik, Wissenschafts- und Religionsgeschichte |
 | Publikations- und Nachnutzungsdaten    | Nutzung: Online verfügbar bei JACQ<br>Lizenz: CC BY 4.0<br>Zugriff über [https://dr.jacq.org/DR024129](https://dr.jacq.org/DR024129) |
 
+Forschungs- und Sammlungsdaten sind vielfältig. Sie machen Informationen zu den Objekten sichtbar, dokumentieren zum Beispiel deren Kontext, Zustand, Erschließung und Nutzung und machen sie damit zugänglich.
 
-
-
-
-
-
-
-### Beispiele
-
-* Mustersatzung zur Sicherung guter wissenschaftlicher Praxis und zum Umgang mit Verdachtsfällen wissenschaftlichen Fehlverhaltens (HRK, 2022) 
-* Rahmenleitlinie zur Sicherung guter wissenschaftlicher Praxis (GWP) und Verfahren bei wissenschaftlichem Fehlverhalten (von der Helmholtz-Mitgliederversammlung bestätigte und der DFG geprüfte Fassung vom 30.07.2022) (HGDF, 2022)
-* GWP-Satzung der Humboldt-Universität - inoffizielle Lesefassung (HU, 2023)
 
 -----------
 Quellenangaben
 
-[1] forschungsdaten.info. (o. J.). Glossar. Abgerufen am 16. Juli 2025, von https://forschungsdaten.info/praxis-kompakt/glossar/#c269824 
+[1] Wagner, S. (2024): Herbarbeleg Pulsatilla vulgaris. In: Blog Sammeln – Einblicke in die Allianz-II-Sammlungsforschung, Koordinierungsstelle für wissenschaftliche Universitätssammlungen. Abgerufen am 16. Juli 2025 von https://doi.org/10.58079/11nux
 
-[2] Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5). Zenodo. https://doi.org/10.5281/zenodo.10122153
+[2] TU Dresden (2025): Naturforschung und protestantische Mission – Die Pflanzensammlungen der Herrnhuter Brüdergemeine im Herbarium der TU Dresden: Identifizierung und Kontextualisierung mit Methoden der Digital Humanities. https://tu-dresden.de/mn/biologie/botanik/forschung/herrnhut
 
-[3] Deutsche Forschungsgemeinschaft (DFG). (o. J.). Leitlinien zum Umgang mit Forschungsdaten. Abgerufen am 16. Juli 2025, von https://www.dfg.de/download/pdf/foerderung/antragstellung/forschungsdaten/richtlinien_forschungsdaten.pdf
+[3] JACQ Virtual Herbaria: Digitalisat des Herbarbelegs Pulsatilla vulgaris (DR024129). https://dr.jacq.org/DR024129
 
 
 
