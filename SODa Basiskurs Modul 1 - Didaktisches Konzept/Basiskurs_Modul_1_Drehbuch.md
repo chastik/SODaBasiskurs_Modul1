@@ -51,7 +51,7 @@ comment:  WissKi SODA OERs
 
 
 
-**Einheit 4 Forschungsdaten-Policies für wiss. Universitätssammlungen** 
+**Einheit 4 Forschungsdaten-Policies** 
 
 | Einheit                                 | Baustein                                                                                               | Lernziel                   | Didaktische Methode (Arbeitsform) | Dauer                               | Inhalt                 | Schritt                      | Regieanweisung                              | Materialien (Werkzeuge) |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------- | --------------------------------- | ----------------------------------- | ---------------------- | ---------------------------- | ------------------------------------------- | ----------------------- |
