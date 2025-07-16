@@ -24,7 +24,7 @@ comment:  WissKi SODA OERs
 
 # SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen
 
-**Modul 1, Teil 1: Sammlungs- und Objektdaten als Forschungsdaten managen**
+**Modul 1: Sammlungs- und Objektdaten als Forschungsdaten managen**
 
 **Thema: Forschungsdaten-Policies**
 
