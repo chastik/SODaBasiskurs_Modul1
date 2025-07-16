@@ -25,7 +25,7 @@ comment:  WissKi SODA OERs
 
 **Einheit 5: Open Science in wissenschaftlichen Universitätssammlungen**
 
-**EduBrick: 5.3. Dimensionen (Praktiken) von Open Science**
+**Lernbaustein/EduBrick: 5.3. Dimensionen (Praktiken) von Open Science**
 
 **5.3. Lernende können die verschiedenen Dimensionen von Open Science benennen. (LZ-ID 01_08_0140)**
 
