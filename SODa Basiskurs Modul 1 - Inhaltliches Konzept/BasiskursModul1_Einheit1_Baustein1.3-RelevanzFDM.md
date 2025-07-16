@@ -51,25 +51,17 @@ Wir knüpfen an die Scary Tale vom Kursbeginn an: Verloren gegangene Information
 
 Forschungsdatenmanagement umfasst alle organisatorischen und technischen Maßnahmen, die den Umgang mit Daten im Forschungsprozess systematisch struktrieren. Ziel des Forschungsdatenmanagments ist es, Daten "langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten" [1]. 
 
-Das Forschungsdatenmanagement begleitet im Idealfall den gesamten Lebenszyklus von Daten, der ausführlich Thema in Einheit 6 sein wird: Von der Planung über die Erhebung, Speicherung und Analyse von Daten hin zur Archivierung, Publikation und Nachnutzung. 
+FDM beginnt idealerweise bereits in der Planungsphase und begleitet die Erhebung, Dokumentation, Auswertung, Archivierung, Publikation und Nachnutzung von Daten.
 
 ## 1.3.2 Relevanz von Forschungsdatenmanagement
-Ein gutes FDM spart langfristig Zeit und Ressourcen, verhindert Datenverlust und erleichtert die Zusammenarbeit. Gerade im Kontext von Universitätssammlungen sind folgende Maßnahmen besonders entscheidend:
 
-- Dokumentation von Daten und Auszeichnung mit Metadaten  
-  → In der Scary Tale fehlen zentrale Kontextinformationen zu Objekten. Eine systematische Metadatenpflege würde sicherstellen, dass Herkunft, Zustand, Nutzung und Bearbeitungsverlauf der Objekte dauerhaft nachvollziehbar sind.
-
-- Langzeitarchivierung, Backup  und Zugangsregelung <br>
-  → Der Zugriff auf alte Exceldateien ist nicht mehr möglich. Mit einem geeigneten Archivierungs- und Backupkonzept könnten diese Daten erhalten bleiben, auch wenn Geräte oder Dateiformate sich ändern. Eine klare Zugangsregelung stellt sicher, dass Erschließungsdaten personenunabhängig zugänglich sind.  
-
-- Festlegen von Dateibenennungs- und Ablagestrukturen  
-  → Verstreute Notizen und doppelte Dateiversionen machen die Arbeit ineffizient. Eine einheitliche Struktur hätte die Wiederauffindbarkeit und Übergabe an neue Mitarbeitende deutlich erleichtert.
-
-- Berücksichtigung rechtlicher Aspekte (z. B. Urheberrecht, Datenschutz)  
-  → Die in der Scary Tale erwähnten versteigerten Objekte mit Sammlungsstempel werfen möglicherweise juristische Fragen auf. Ein durchdachtes FDM kann zur Klärung von Eigentumsrechten beitragen und rechtliche Risiken mindern.
-
-- Wissenserhalt unabhängig von einzelnen Personen oder Projekten  
-  → Mit dem Ausscheiden des Vorgängers gingen wichtige Informationen verloren. Ein professionelles FDM stellt sicher, dass Daten personenunabhängig zugänglich und verständlich bleiben, auch bei Personalwechseln [2]. 
+Forschungsdatenmanagement 
+- trägt zur Qualitätssicherung und Nachvollziehbarkeit von Forschung bei
+- schützt vor Datenverlust und unklaren Eigentumsverhältnissen
+- erfüllt Anforderungen von Projektförderern
+- schafft Verlässlichkeit bei Projektwechseln und Personalfluktuation [2]
+- sichert den Zugang zu Sammlungs- und Forschungsdaten und damit ihre Nachnutzung
+- berücksichtigt ethische Aspekte z.B. in Bezug auf Objekte, die aus Unrechtskontexten stammen 
 
 
 -----------
