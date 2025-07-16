@@ -57,17 +57,6 @@ Auch die DFG nennt konkret: „Messdaten, Laborwerte, audiovisuelle Informatione
 
 Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate und ihre Erschließungdaten (Metadaten) sind Forschungsdaten. 
 
-
-
-
-
-
-### Beispiele
-
-* Mustersatzung zur Sicherung guter wissenschaftlicher Praxis und zum Umgang mit Verdachtsfällen wissenschaftlichen Fehlverhaltens (HRK, 2022) 
-* Rahmenleitlinie zur Sicherung guter wissenschaftlicher Praxis (GWP) und Verfahren bei wissenschaftlichem Fehlverhalten (von der Helmholtz-Mitgliederversammlung bestätigte und der DFG geprüfte Fassung vom 30.07.2022) (HGDF, 2022)
-* GWP-Satzung der Humboldt-Universität - inoffizielle Lesefassung (HU, 2023)
-
 -----------
 Quellenangaben
 
