@@ -34,7 +34,7 @@ icon: https://github.com/chastik/SODa-Basiskurs/blob/main/img/SODa-Logo_full.svg
 
 link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/main/soda.css
 
-
+--> 
 
 # SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen
 
