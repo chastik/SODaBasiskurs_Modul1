@@ -45,7 +45,7 @@ Open Science ist wichtig zur...
 
 ### Relevanz von Open Science
 
-![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/schwenk.jpg)<!--width="100%"--> ****
+![](https://github.com/chastik/Beratung_Dateityp_Bild/blob/main/RelevanzOS.jpg)<!--width="100%"--> ****
   
 
 
