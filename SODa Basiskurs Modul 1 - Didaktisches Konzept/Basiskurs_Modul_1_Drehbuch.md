@@ -33,7 +33,7 @@ comment:  WissKi SODA OERs
 
 
 
-**Einheit 2 Sammlungsbegriff, Aufgaben und Merkmale von wissenschaftlichen Universitätssammlungen** 
+**Einheit 2 Sammlungsbegriff, Aufgaben und Merkmale von wiss. Universitätssammlungen** 
 
 | Einheit               | Baustein                                                              | Lernziel             | Didaktische Methode (Arbeitsform) | Dauer               | Inhalt                 | Schritt                              | Regieanweisung                 | Materialien (Werkzeuge) |
 | --------------------- | --------------------------------------------------------------------- | -------------------- | --------------------------------- | ------------------- | ---------------------- | ------------------------------------ | ------------------------------ | ----------------------- |
