@@ -27,7 +27,7 @@ comment:  WissKi SODA OERs
 
 **Lernbaustein/EduBrick: 5.4. Ziele von Open Science**
 
-**Lernziel: 5.4. Lernende können Ziele von Open Science benennen. (LZ-ID 01_08_0138)**
+**Lernziel: 5.4. Lernende können Ziele von Open Science benennen. (LZ-ID 01\_08\_0138)**
 
 
 ## 5.4. Ziele von Open Science
