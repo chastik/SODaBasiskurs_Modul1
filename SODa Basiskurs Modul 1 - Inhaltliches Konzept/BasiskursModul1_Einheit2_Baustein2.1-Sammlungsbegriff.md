@@ -74,7 +74,7 @@ Diese Aufgaben sind in der Praxis oft eng miteinander verbunden. Die folgenden B
 | **Sammeln**   | Aufbau und Pflege eines Objektbestands                                 | Eiersammlung Max Schönwetter, MLU Halle: Jahrzehntelanger Aufbau, heute national wertvolles Kulturgut [4]   |
 | **Bewahren**  | Konservierung, Schutz vor Zerstörung oder Zerfall                                                    | Eiersammlung Max Schönwetter [8]                                     |
 | **Forschen**  | Nutzung der Objekte und Kontexte als Quellen wissenschaftlicher Erkenntnis                          | Herbarbelege der Herrnhuter Brüdergemeine, TU Dresden: historische Netzwerke, Standortanalysen [5][6][7]    |
-| **Vermitteln**| Objekte als Anschauungsmaterial oder Erzählanlass in Lehre und Öffentlichkeitsarbeit                | Osterführungen, Online-Posts zur Eiersammlung; didaktischer Einsatz von Lehrsammlungen [9] [10]                 |
+| **Vermitteln**| Objekte als Anschauungsmaterial oder Erzählanlass in Lehre und Öffentlichkeitsarbeit                | Osterführungen, Online-Posts zur Eiersammlung; didaktischer Einsatz in der Lehre [9] [10]                 |
 | **Ausstellen**| Sichtbarmachung in physischen oder digitalen Räumen                                                 | Digitale Ausstellung der Abguss-Sammlung Antiker Plastik, FU Berlin: Studierende bereiteten hochwertige Fotografien eines Ariadne-Abgusses mit kontextuellen und provenienzbezogenen Informationen für das Web auf [11] |
 
 
