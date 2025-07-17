@@ -61,7 +61,6 @@ Beispiele für Forschungsdaten sind:
 
 ## 1.2.2 Beispiele für sammlungsspezifische Forschungsdaten
 
-| Forschungsdatenart                              | Am Beispiel eines Herbarbelegs                                                                                           |
 | Datenart                           | Beispiel: Herbarbeleg TU Dresden                                                   | Forschungsbezug                                                                                  |
 |-----------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Herkunfts- und Sammlungsgeschichte | Teilsammlung: Herrnhuter Herbarbelege<br>Sammlung: Herbarium Dresdense              | Rekonstruktion historischer Sammlungsnetzwerke, Provenienzforschung                             |
