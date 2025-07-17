@@ -8,14 +8,16 @@
 
 **Einheit 7 – Datenmanagementplan (DMP) für wiss. Universitätssammlungen**
 
-**Lernbaustein/EduBrick: 7.1. Anforderungen zur Förderung**
+**Lernbaustein/EduBrick: 7.2. Anforderungen zur Förderung**
 
 **Lernende können die Anforderungen verschiedener Förderinstitutionen bzgl. DMP benennen. (LZ-ID 01\_006\_0098)**
 
 
-## 7.1. Überblick über die Anforderungen verschiedener Förderorganisationen an Datenmanagementpläne (DMP)
+## 7.2. Überblick über die Anforderungen verschiedener Förderorganisationen an Datenmanagementpläne (DMP)
 
-Die folgende Tabelle gibt einen Überblick über die Anforderungen verschiedener Förderorganisationen an Datenmanagementpläne (DMP) bzw. Angaben zum Umgang mit Forschungsdaten. 
+Datenmanagementpläne (DMP) gehören zunehmend zu den Anforderungen von nationalen und internationalen Forschungsförderorganisationen oder sind bereits verpflichtend.
+
+Die nachfolgende Tabelle bietet einen Überblick über die Anforderungen verschiedener Förderinstitutionen in Bezug auf Datenmanagementpläne bzw. den Umgang mit Forschungsdaten.
 
 
 | Förderer       | Forderung                              | Abgabe bei Antrag | Inhalt                                                   | Updates                                                |
