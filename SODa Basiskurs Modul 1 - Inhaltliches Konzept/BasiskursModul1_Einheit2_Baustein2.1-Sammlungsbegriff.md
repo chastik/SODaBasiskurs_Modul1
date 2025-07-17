@@ -71,9 +71,9 @@ Diese Aufgaben sind in der Praxis oft eng miteinander verbunden. Die folgenden B
 
  Aufgabe     | Beschreibung                                                                                         | Beispiel                                                                                                       |
 |--------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| **Sammeln**   | Aufbau und Pflege eines Objektbestands                                 | *Eiersammlung Max Schönwetter*, MLU Halle: Jahrzehntelanger Aufbau, heute national wertvolles Kulturgut [4]   |
-| **Bewahren**  | Konservierung, Schutz vor Zerstörung oder Zerfall                                                    | *Eiersammlung Max Schönwetter* [8]                                     |
-| **Forschen**  | Nutzung der Objekte und Kontexte als Quellen wissenschaftlicher Erkenntnis                          | *Herbarbelege der Herrnhuter Brüdergemeine*, TU Dresden: historische Netzwerke, Standortanalysen [5][6][7]    |
+| **Sammeln**   | Aufbau und Pflege eines Objektbestands                                 | Eiersammlung Max Schönwetter, MLU Halle: Jahrzehntelanger Aufbau, heute national wertvolles Kulturgut [4]   |
+| **Bewahren**  | Konservierung, Schutz vor Zerstörung oder Zerfall                                                    | Eiersammlung Max Schönwetter [8]                                     |
+| **Forschen**  | Nutzung der Objekte und Kontexte als Quellen wissenschaftlicher Erkenntnis                          | Herbarbelege der Herrnhuter Brüdergemeine, TU Dresden: historische Netzwerke, Standortanalysen [5][6][7]    |
 | **Vermitteln**| Objekte als Anschauungsmaterial oder Erzählanlass in Lehre und Öffentlichkeitsarbeit                | Osterführungen, Online-Posts zur Eiersammlung; didaktischer Einsatz von Lehrsammlungen [9] [10]                 |
 | **Ausstellen**| Sichtbarmachung in physischen oder digitalen Räumen                                                 | Ausstellungen der Künstlerbuchsammlung UB Weimar                                                          |
 
