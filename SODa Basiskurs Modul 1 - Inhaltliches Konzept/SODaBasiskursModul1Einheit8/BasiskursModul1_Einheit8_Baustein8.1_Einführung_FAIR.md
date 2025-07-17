@@ -1,24 +1,32 @@
 <!--
 
+author: Canan Hastik 
+author: 
+email:    
+version:  v1
+language: DE
+lizenz: cc by
+modultitel: Modul 1, Teil 1: Sammlungs- und Objektdaten als Forschungsdaten managen
+eineit: 5
+einheitstitel: Open Science in wissenschaftlichen Universitätssammlungen
+lernziele:
+
+icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
+link:     https://raw.githubusercontent.com/chastik/Beratung/refs/heads/main/soda.css
+
+comment:  WissKi SODA OERs
+
 -->
 
 # SODa Basiskurs zu Erschließung und Forschungsdatenmanagement in Universitätssammlungen
 
 **Modul 1: Sammlungs- und Objektdaten als Forschungsdaten managen**
 
-**Einheit 8 –  FAIR-Prinzipien in wiss. Universitätssammlungen**
+**Einheit 6 – Sammlungsbezogener Forschungsdatenlebenszyklus**
 
-**Lernbaustein/EduBrick: 8.1. Einführung in die FAIR Prinzipien**
+**Lernbaustein/EduBrick:: 8.2. Phasen des FDM-Zyklus**
 
-**Teilnehmende können die FAIR-Prinzipien benennen. (LZ-ID 01\_007\_0117)**
-
-
-## 8.1. Einführung in die FAIR Prinzipien
+**Lernende können die Phasen des Forschungsdatenlebenszyklus erläutern. (LZ-ID 01_004_0080)**
 
 
------------
-Quellenangaben
-
-(DFG, 2023) Deutsche Forschungsgemeinschaft (DFG). (2023) Leitlinien zum Umgang mit Forschungsdaten. Bonn. https://www.dfg.de/resource/blob/172112/4ea861510ea369157afb499e96fb359a/leitlinien-forschungsdaten-data.pdf
-
-
+## 8.2. Phasen des FDM-Zyklus

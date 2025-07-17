@@ -24,9 +24,9 @@ comment:  WissKi SODA OERs
 
 **Einheit 8 – FAIR-Prinzipien in wiss. Universitätssammlungen**
 
-**Lernbaustein/EduBrick:: 8.1. Einführung FAIR-Prinzipien**
+**Lernbaustein/EduBrick:: 3. Maßnahmen entlang des FDM-Zyklus**
 
-**Lernende können die FAIR-Prinzipien benennen. (LZ-ID 01\_007\_0117)**
+**Lernende können FDM-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen.(LZ-ID 01\_004\_0082)**
 
 
-## 8.1. Einführung FAIR-Prinzipien
+## 8.3. Maßnahmen entlang des FDM-Zyklus
