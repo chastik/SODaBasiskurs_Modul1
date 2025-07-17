@@ -125,7 +125,8 @@ Ziele:
 - Analyse strukturierter Daten  
 - Infrastrukturentwicklung  
 
-Kontakt: **soda@sammlungen.io**
+**Kontakt: soda@sammlungen.io**
+
 -----------
 Quellenangaben
 
