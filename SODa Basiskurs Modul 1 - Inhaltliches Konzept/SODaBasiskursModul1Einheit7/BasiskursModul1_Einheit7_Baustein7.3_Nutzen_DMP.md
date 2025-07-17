@@ -19,6 +19,19 @@ Je einfacher Forschungsdaten wiederverwendbar sind, desto mehr zahlt sich der Au
 
 Zudem bietet ein DMP nicht nur die Grundlage zur Beantragung notwendiger Ressourcen in Drittmittelprojekten, sondern auch eine klare Roadmap für den Projektverlauf.
 
+###Aufgabe
+
+Fortsetzung Frames auf Miroboard
+
+3 Treffer: TN sammeln Stichworte und Aussagen zu Vorteilen
+und
+3 Treffer: TN sammeln Stichworte und Aussagen zu Nachteilen
+
+Plenum
+
+Zeitbedarf: ca. 3 Min.
+
+### Vor- und Nachteile
 
 | **Vorteile**                                                                                     | **Nachteile**                                                                                      |
 |--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
@@ -30,6 +43,9 @@ Zudem bietet ein DMP nicht nur die Grundlage zur Beantragung notwendiger Ressour
 | Verringert die Gefahr von Datenverlust                                                          |                                                                                                    |
 | Erhöht die Chance, dass Datenträger und Dateiformate nach 10 Jahren noch lesbar sind            |                                                                                                    |
 | Verbesserter Wissenstransfer und Wissensmanagement bei Personalwechsel                          |                                                                                                    |
+
+
+
 
 -----------
 Quellenangaben
