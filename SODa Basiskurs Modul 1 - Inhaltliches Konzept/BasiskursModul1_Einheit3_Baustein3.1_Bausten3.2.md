@@ -84,7 +84,7 @@ Typische Aufgaben:
  
 ---
 
-### **Koordinierungsstelle & Portal Wissenschaftliche Sammlungen**
+### **Koordinierungsstelle & Portal Wissenschaftliche Sammlungen (KUS)**
 
 Die Koordinierungsstelle wissenschaftliche Universitätssammlungen (KUS) an der Humboldt-Universität zu Berlin ist die zentrale Anlaufstelle für Universitätssammlungen im deutschsprachigen Raum. Sie unterstützt insbesondere durch:
 
@@ -105,7 +105,7 @@ Eine zentrale Funktion übernimmt hierbei das 2012 von der KUS gegründete Porta
 
 ---
 
-### **SODa – Sammlungen, Objekte, Datenkompetenzen**
+### **Sammlungen, Objekte, Datenkompetenzen (SODa)**
 
 SODa ist ein Verbundprojekt, das von November 2023 bis November 2026 von dem BMFTR gefördert wird. 
 
