@@ -49,7 +49,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 ### **Vor Ort: Kontaktstellen**
 
-***FDM-Servicestellen, Data Stewards, Bibliotheken***  
+**FDM-Servicestellen, Data Stewards, Bibliotheken**  
 Typische Aufgaben:
 - Beratung zu DMP, FAIR-Prinzipien, Standards
 - Wahl geeigneter Repositorien
