@@ -48,21 +48,28 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 
 ## 2.1. Sammlungsbegriff
-**Wortwolke: Welche Begriffe und Aufgaben verbinden Sie mit dem Wort "Sammlung"?**  
+### **Wortwolke: Welche Begriffe und Aufgaben verbinden Sie mit dem Wort "Sammlung"?**  
 <img width="137" height="141" alt="grafik" src="https://github.com/user-attachments/assets/628ef2fe-0d45-45e3-afb3-44685e9809ff" /> <br>
 https://www.mentimeter.com/app/presentation/alact1mkqiy4s15eu58qgpw56e69jqgk/edit?question=y5rp73cf3mg5 
+
+### **Was genau macht etwas zu einer Sammlung?**
+- Mehr als eine Ansammlung: Gibt es eine erkennbare Ordnung oder Systematik der Objekte?
+- Wissenschaftliche Relevanz: Werden die Objekte zu Lehr-, Forschungs- oder Ausstellungszwecken genutzt?
+- Zuschreibung: Wird die Sammlung als solche behandelt? [1]
+
+### **Ist das eine Sammlung?**
+- Ist ein lokale Ordner einer Professorin der Kunstgeschichte, in dem sie hunderte Ausstellungsbesuche dokuemntiert hat (mit Fotografien, Notizen, digitalisierten Flyern udn Zeitungsausschniten eine Sammlung?
+- Ist eine Sammlung von anatomischen Lehrtafeln aus dem 19. Jahrhundert, die heute in einem ungenutzten Nebenraum eines Medizingebäudes lagern, eine Sammlung?
+- Sind alte Maschinenbauteile, die nirgendwo erfasst werden, aber in der Einführungsvorlesungen als Anschauungsobjekte herumgegeben werden eine Sammlung?
+
+
 
 
 
 -----------
 Quellenangaben
 
-[1] forschungsdaten.info. (o. J.). Glossar. Abgerufen am 16. Juli 2025, von https://forschungsdaten.info/praxis-kompakt/glossar/#c269824 
-
-[2] Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5). Zenodo. https://doi.org/10.5281/zenodo.10122153
-
-[3] Deutsche Forschungsgemeinschaft (DFG). (o. J.). Leitlinien zum Umgang mit Forschungsdaten. Abgerufen am 16. Juli 2025, von https://www.dfg.de/download/pdf/foerderung/antragstellung/forschungsdaten/richtlinien_forschungsdaten.pdf
-
+[1] Oliver Zauzig (22. Dezember 2015): *Sammlungen werden gemacht.* In: Sammeln. Abgerufen am 17. Juli 2025 von https://doi.org/10.58079/tvgg
 
 
 
