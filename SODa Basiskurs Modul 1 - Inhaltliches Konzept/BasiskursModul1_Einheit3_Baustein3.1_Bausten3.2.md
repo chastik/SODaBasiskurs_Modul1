@@ -63,7 +63,7 @@ Typische Aufgaben:
 
 ---
 
-- ### **Landes- und Bundesebene: Wer unterstützt darüber hinaus?**
+### **Landes- und Bundesebene**
 
 **FDM-Landesinitiativen**  
 - koordinieren Aktivitäten im Bundesland
