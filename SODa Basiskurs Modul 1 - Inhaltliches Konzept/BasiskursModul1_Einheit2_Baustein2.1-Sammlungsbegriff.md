@@ -65,7 +65,7 @@ Wissenschaftliche Universitätssammlungen sind Orte der Forschung, Lehre, Vermit
 - bewahren  
 - forschen  
 - interpretieren bzw. vermitteln  
-- ausstellen [2][3]
+- ausstellen [2][3][4]
 
 Diese Aufgaben sind in der Praxis oft eng miteinander verbunden. Die folgenden Beispiele zeigen, wie diese konkret aussehen und welche Herausforderungen sie mit sich bringen.
 
@@ -85,8 +85,12 @@ Quellenangaben
 
 [1] Oliver Zauzig (22. Dezember 2015): *Sammlungen werden gemacht.* In: Sammeln. Abgerufen am 17. Juli 2025 von https://doi.org/10.58079/tvgg
 [2] ICOM Österreich (2022): *ICOM-Museumsdefinition. Offizielle deutsche Übersetzung der neuen Definition für Museen veröffentlicht.* http://icom-oesterreich.at/news/icom-museumsdefinition  
-[3] International Council of Museums (ICOM) (2007): *Museum Definition*, zit. nach Wissenschaftsrat (2011), S. 10  
-[4] Wissenschaftsrat (2011): *Empfehlungen zu wissenschaftlichen Sammlungen als Forschungsinfrastruktur.* https://www.wissenschaftsrat.de/download/archiv/10464-11.html  
+[3] International Council of Museums (ICOM) (2007): *Museum Definition*, zit. nach Wissenschaftsrat (2011), S. 10.  
+[4] Wissenschaftsrat (2011): *Empfehlungen zu wissenschaftlichen Sammlungen als Forschungsinfrastruktur.* https://www.wissenschaftsrat.de/download/archiv/10464-11.html 
+[5] Wagner, S. (2024): *Ein Herbarbeleg der Gewöhnlichen Küchenschelle (Pulsatilla vulgaris).* https://sammeln.hypotheses.org/3006  
+[6] Technische Universität Dresden, Botanischer Garten und Institut für Botanik (o. D.): *Forschungsprojekt: Die Pflanzensammlungen der Herrnhuter Brüdergemeine* https://tu-dresden.de/mn/biologie/botanik/forschung/herrnhut  
+[7] Technische Universität Dresden, Institut für Botanik (o. D.): *Herbarium Dresdense* https://tu-dresden.de/mn/biologie/botanik/botanik/herbarium  
+[8] Zwier, Pim (2021): *O, Collecting Eggs Despite the Times* [Dokumentarfilm]. © Moondocs NL, 76 Min.  
 
 
 
