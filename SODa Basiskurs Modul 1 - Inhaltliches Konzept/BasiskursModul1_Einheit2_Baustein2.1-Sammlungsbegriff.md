@@ -48,19 +48,26 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 
 ## 2.1. Sammlungsbegriff
-### **Wortwolke: Welche Begriffe und Aufgaben verbinden Sie mit dem Wort "Sammlung"?**  
-<img width="137" height="141" alt="grafik" src="https://github.com/user-attachments/assets/628ef2fe-0d45-45e3-afb3-44685e9809ff" /> <br>
-https://www.mentimeter.com/app/presentation/alact1mkqiy4s15eu58qgpw56e69jqgk/edit?question=y5rp73cf3mg5 
+
+### **Ist das eine Sammlung?**
+- Ist ein lokale Ordner einer Professorin der Kunstgeschichte, in dem sie hunderte Ausstellungsbesuche dokumentiert hat (mit Fotografien, Notizen, digitalisierten Flyern und Zeitungsausschniten) eine Sammlung?
+- Ist eine Sammlung von anatomischen Lehrtafeln aus dem 19. Jahrhundert, die heute in einem ungenutzten Nebenraum eines Medizingebäudes lagern, eine Sammlung?
+- Sind alte Maschinenbauteile, die nirgendwo erfasst werden, aber in der Einführungsvorlesungen als Anschauungsobjekte herumgegeben werden eine Sammlung?
 
 ### **Was genau macht etwas zu einer Sammlung?**
 - Mehr als eine Ansammlung: Gibt es eine erkennbare Ordnung oder Systematik der Objekte?
 - Wissenschaftliche Relevanz: Werden die Objekte zu Lehr-, Forschungs- oder Ausstellungszwecken genutzt?
 - Zuschreibung: Wird die Sammlung als solche behandelt? [1]
 
-### **Ist das eine Sammlung?**
-- Ist ein lokale Ordner einer Professorin der Kunstgeschichte, in dem sie hunderte Ausstellungsbesuche dokumentiert hat (mit Fotografien, Notizen, digitalisierten Flyern und Zeitungsausschniten) eine Sammlung?
-- Ist eine Sammlung von anatomischen Lehrtafeln aus dem 19. Jahrhundert, die heute in einem ungenutzten Nebenraum eines Medizingebäudes lagern, eine Sammlung?
-- Sind alte Maschinenbauteile, die nirgendwo erfasst werden, aber in der Einführungsvorlesungen als Anschauungsobjekte herumgegeben werden eine Sammlung?
+Wissenschaftliche Universitätssammlungen sind Orte der Forschung, Lehre, Vermittlung und der Auseinandersetzung mit Geschichte und Verantwortung. Sie erfüllen die zentralen Aufgaben, die auch die ICOM-Definition für Museen beschreibt [2][3][4]:
+
+- sammeln  
+- bewahren  
+- forschen  
+- interpretieren bzw. vermitteln  
+- ausstellen  
+
+Diese Funktionen sind in der Praxis oft eng miteinander verbunden. Die folgenden Beispiele zeigen, wie diese Aufgaben konkret aussehen und welche Herausforderungen sie mit sich bringen.
 
 
 
@@ -70,6 +77,9 @@ https://www.mentimeter.com/app/presentation/alact1mkqiy4s15eu58qgpw56e69jqgk/edi
 Quellenangaben
 
 [1] Oliver Zauzig (22. Dezember 2015): *Sammlungen werden gemacht.* In: Sammeln. Abgerufen am 17. Juli 2025 von https://doi.org/10.58079/tvgg
+[2] ICOM Österreich (2022): *ICOM-Museumsdefinition. Offizielle deutsche Übersetzung der neuen Definition für Museen veröffentlicht.* http://icom-oesterreich.at/news/icom-museumsdefinition  
+[3] International Council of Museums (ICOM) (2007): *Museum Definition*, zit. nach Wissenschaftsrat (2011), S. 10  
+[4] Wissenschaftsrat (2011): *Empfehlungen zu wissenschaftlichen Sammlungen als Forschungsinfrastruktur.* https://www.wissenschaftsrat.de/download/archiv/10464-11.html  
 
 
 
