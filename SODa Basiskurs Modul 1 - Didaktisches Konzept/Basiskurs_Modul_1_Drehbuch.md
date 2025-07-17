@@ -47,7 +47,7 @@ comment:  WissKi SODA OERs
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------------- | --------------------------- | ---------------------- | ---------------------------------------- | ------------------ | ----------------------- |
 | 3.1 Kontaktstellen   | Lernende können Ansprechpersonen für sammlungsbezogenes Forschungsdatenmanagement (FDM) benennen. (in Anlehnung an LZ-ID 01\_009\_0172) | Vortrag mit Folien | ca. Minuten                       | Übersicht zu Kontaktstellen | TN hören zu (einatmen) | WL stellt wesentliche Kontaktstellen vor | Folien vorbereiten | –                       |
 | 3.2 Ansprechpersonen | Lernende können Angebote und Funktionen von Ansprechpersonen im sammlungsbezogenen FDM benennen. (in Anlehnung an LZ-ID 01\_009\_0173)  | Vortrag mit Folien | ca. Minuten                       | Aufgaben und Services       | TN hören zu (einatmen) | WL stellt vor                            | Folien vorbereiten | –                       |
-| 3.3 *\[offen]*       | Lernende können … (neu)                                                                                                                 | Vortrag mit Folien | ca. Minuten                       | …                           | TN hören zu (einatmen) | WL stellt vor                            | Folien vorbereiten | –                       |
+                      |
 
 
 
