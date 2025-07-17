@@ -8,12 +8,12 @@
 
 **Einheit 7 – Datenmanagementplan (DMP) für wiss. Universitätssammlungen**
 
-**Lernbaustein/EduBrick: 7.2. Relevanz von DMP**
+**Lernbaustein/EduBrick: 7.1. Relevanz von DMP**
 
 **Lernende können die Relevanz eines Datenmanagementplans erläutern. (LZ-ID 01\_006\_0094)**
 
 
-## 7.2. Warum sind Datenmanagementplänen (DMP) relevant?
+## 7.1. Warum sind Datenmanagementplänen (DMP) relevant?
 
 "Datenmanagementpläne umfassen alle Informationen, die die Sammlung, Aufbereitung, Speicherung, Archivierung und Veröffentlichung von Forschungsdaten im Rahmen eines Forschungsprojektes hinreichend beschreiben und dokumentieren." (Würz, 2023)
 
