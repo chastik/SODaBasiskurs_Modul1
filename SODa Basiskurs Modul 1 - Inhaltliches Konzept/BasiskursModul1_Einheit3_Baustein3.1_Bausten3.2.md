@@ -67,7 +67,7 @@ Typische Aufgaben:
 
 **FDM-Landesinitiativen**  
 - koordinieren Aktivitäten im Bundesland
-- vernetzten
+- bieten Schulungen und Netzwerke
 
 **Nationale Forschungsdateninfrastruktur (NFDI)**  
 - Fachkonsortien (z. B. NFDI4Culture, NFDI4Objects)
