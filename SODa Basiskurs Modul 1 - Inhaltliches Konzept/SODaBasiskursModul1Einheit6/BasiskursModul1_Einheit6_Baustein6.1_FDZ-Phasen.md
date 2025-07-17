@@ -24,9 +24,18 @@ comment:  WissKi SODA OERs
 
 **Einheit 6 – Sammlungsbezogener Forschungsdatenlebenszyklus**
 
+<<<<<<< HEAD
+**Lernbaustein/EduBrick: 6.1. Phasen des FDM-Zyklus**
+=======
 **Lernbaustein/EduBrick:: 6.2. Phasen des FDM-Zyklus**
+>>>>>>> 6277f293a7a4bec4af9615ec28baba24f4ffbb62
 
 **Lernende können die Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID 01_004_0079)**
 
 
+<<<<<<< HEAD
+## 6.1. Phasen des FDM-Zyklus
+=======
 ## 6.2. Phasen des FDM-Zyklus
+
+>>>>>>> 6277f293a7a4bec4af9615ec28baba24f4ffbb62

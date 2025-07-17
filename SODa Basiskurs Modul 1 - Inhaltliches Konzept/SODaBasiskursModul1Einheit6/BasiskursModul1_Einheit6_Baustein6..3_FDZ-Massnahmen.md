@@ -22,11 +22,11 @@ comment:  WissKi SODA OERs
 
 **Modul 1: Sammlungs- und Objektdaten als Forschungsdaten managen**
 
-**Einheit 8 – FAIR-Prinzipien in wiss. Universitätssammlungen**
+**Einheit 6 – Sammlungsbezogener Forschungsdatenlebenszyklus**
 
-**Lernbaustein/EduBrick:: 3. Maßnahmen entlang des FDM-Zyklus**
+**Lernbaustein/EduBrick:: 6.3 Maßnahmen entlang des FDM-Zyklus**
 
 **Lernende können FDM-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen.(LZ-ID 01\_004\_0082)**
 
 
-## 8.3. Maßnahmen entlang des FDM-Zyklus
+## 6.3. Maßnahmen entlang des FDM-Zyklus
