@@ -77,8 +77,11 @@ Diese Aufgaben sind in der Praxis oft eng miteinander verbunden. Die folgenden B
 | **Vermitteln**| Objekte als Anschauungsmaterial oder Erzählanlass in Lehre und Öffentlichkeitsarbeit                | Osterführungen, Online-Posts zur Eiersammlung; didaktischer Einsatz in der Lehre [9] [10]                 |
 | **Ausstellen**| Sichtbarmachung in physischen oder digitalen Räumen                                                 | Digitale Ausstellung der Abguss-Sammlung Antiker Plastik, FU Berlin: Studierende bereiteten hochwertige Fotografien eines Ariadne-Abgusses mit kontextuellen und provenienzbezogenen Informationen für das Web auf [11] |
 
-
-
+### **Ethik und Recht**
+Inklusion und gesellschaftliche Verantwortung sind zentrale Aspekte aktueller Sammlungsarbeit – das betont auch die jüngere Definition des International Council of Museums (ICOM) [2]:
+- Was darf gesammelt werden und unter welchen Bedingungen?
+- Wem gehören die Objekte, insbesondere wenn sie in einem Unrechtskontext erworben wurden?
+- Wie gehen wir mit Digitalisaten um, nachdem wir sensible Objekte restituiert haben?
 
 -----------
 Quellenangaben
