@@ -46,8 +46,6 @@ aus Cluster 1 „Grundlegende und übergreifende Konzepte des FDM“ zum Thema �
 
 7.5  Lernende können geeignete Software zum Erstellen von Datenmanagmentplänen benennen. (LZ-ID 01\_006\_0102)
 
-7.6  Lernende können ein geeignetes Repository mit Vorlagen benennen. (neu)
-
 
 **Didaktische Methoden in Einheit 7 für Online Workshop und Plenum**
 
