@@ -49,6 +49,8 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 ## 2.1. Sammlungsbegriff
 **Wortwolke: Welche Begriffe verbinden Sie mit dem Wort "Sammlung"?**  
+<img width="137" height="141" alt="grafik" src="https://github.com/user-attachments/assets/628ef2fe-0d45-45e3-afb3-44685e9809ff" />
+https://www.mentimeter.com/app/presentation/alact1mkqiy4s15eu58qgpw56e69jqgk/edit?question=y5rp73cf3mg5 
 
 
 
