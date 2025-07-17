@@ -50,8 +50,8 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 ## 2.1. Sammlungsbegriff
 
 ### **Sind die nachfolgende Beispiele Sammlungen?**
-- Ist ein lokal gespeicherter Ordner einer Professorin der Kunstgeschichte, in dem sie hunderte Ausstellungsbesuche dokumentiert hat (mit Fotografien, Notizen, digitalisierten Flyern und Zeitungsausschniten) eine Sammlung?
-- Ist eine Sammlung von anatomischen Lehrtafeln aus dem 19. Jahrhundert, die heute in einem ungenutzten Nebenraum eines Medizingebäudes lagern, eine Sammlung?
+- Ist ein lokal gespeicherter Ordner einer Professorin der Kunstgeschichte, in dem sie hunderte Ausstellungsbesuche dokumentiert hat (mit Fotografien, Notizen, digitalisierten Flyern und Zeitungsausschniten), eine Sammlung?
+- Sind umfangreiche anatomischen Lehrtafeln aus dem 19. Jahrhundert, die heute in einem ungenutzten Nebenraum eines Medizingebäudes lagern, eine Sammlung?
 - Sind alte Maschinenbauteile, die nirgendwo erfasst werden, aber in der Einführungsvorlesungen als Anschauungsobjekte herumgegeben werden eine Sammlung?
 
 ### **Was genau macht etwas zu einer Sammlung?**
