@@ -40,31 +40,50 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 **Modul 1: Sammlungs- und Objektdaten als Forschungsdaten managen**
 
-**Einheit 1: FDN Grundlagen in wissenschaftlichen Universitätssammlungen**
+**Einheit 3: Kontaktstellen für wissenschaftliche Universitätssammlungenn**
 
-**EduBrick: 1.1. Begriff "Forschungsdaten"**
+**EduBrick: 3.1. Begriff Kontaktstellen und 3.2 Ansprechpersonen**
 
-**Lernziel: 1.1. Lernende können den Begriff „Forschungsdaten“ erläutern. (LZ-ID 01_001_0007)**
+**Lernziel: Lernende können Ansprechpersonen für sammlungsbezogenes Forschungsdatenmanagement (FDM) benennen. (in Anlehnung an LZ-ID 01_009_0172) und Lernende können Angebote und Funktionen von Ansprechpersonen im sammlungsbezogenen FDM benennen. (in Anlehnung an LZ-ID 01_009_0173)**
 
 
-## 1.1. Begriff „Forschungsdaten“
+### **Vor Ort: Kontaktstellen**
 
-„Forschungsdaten sind (digitale) Daten, die während wissenschaftlicher Tätigkeit (z. B. durch Messungen, Befragungen, Quellenarbeit) entstehen. Sie bilden eine Grundlage wissenschaftlicher Arbeit und dokumentieren deren Ergebnisse“ [1].
+***FDM-Servicestellen, Data Stewards, Bibliotheken***  
+Typische Aufgaben:
+- Beratung zu DMP, FAIR-Prinzipien, Standards
+- Wahl geeigneter Repositorien
+- Publikation und Lizenzierung
+- Langzeitarchivierung
 
-Nach Definition von forschungsdaten.info sind also alle Daten Forschungsdaten, die im Rahmen einer wissenschaftlichen Tätigkeit entstehen. Sie können sowohl Ausgangspunkt als auch Ergebnis eines Forschungsprozesses sein [2].
+**Zentrale IT / Rechenzentrum**  
+- Speicherlösungen
+- Datenbanken
+- Technische Infrastruktur und Sicherheit
 
-Auch die DFG nennt konkret: „Messdaten, Laborwerte, audiovisuelle Informationen, Texte, Surveydaten, Objekte aus Sammlungen oder Proben, die in der wissenschaftlichen Arbeit entstehen, entwickelt oder ausgewertet werden“ – all das zählt zu Forschungsdaten [3].
+---
 
-Damit ist klar: Auch Objekte aus Universitätssammlungen oder deren Digitalisate und ihre Erschließungdaten (Metadaten) sind Forschungsdaten. 
+- ### **Landes- und Bundesebene: Wer unterstützt darüber hinaus?**
 
+**FDM-Landesinitiativen**  
+- koordinieren Aktivitäten im Bundesland
+- vernetzten
+
+**Nationale Forschungsdateninfrastruktur (NFDI)**  
+- Fachkonsortien (z. B. NFDI4Culture, NFDI4Objects)
+- Community Cluster u. a. zu Provenienz, Sammlungsmanagement  
+→ [https://www.nfdi4objects.net/portal/ccs/](https://www.nfdi4objects.net/portal/ccs/)
+
+**Gesellschaft für Universitäre Sammlungen (GfU)**  
+- DACH-weite Interessenvertretung  
+- AGs zu Sammlungserhalt, Objektlehre, Partizipation
+- 16. Jahrestagung in Berlin, 9. bis 11. Oktober 2025: Ist Sammeln noch zeitgemäß? https://gesellschaft-universitaetssammlungen.de/tagungen/
+ 
+---
 -----------
 Quellenangaben
 
-[1] forschungsdaten.info. (o. J.). Glossar. Abgerufen am 16. Juli 2025, von https://forschungsdaten.info/praxis-kompakt/glossar/#c269824 
-
-[2] Biernacka, K., Dockhorn, R., Engelhardt, C., Helbig, K., Jacob, J., Kalová, T., Karsten, A., Meier, K., Mühlichen, A., Neumann, J., Petersen, B., Slowig, B., Trautwein-Bruns, U., Wilbrandt, J., & Wiljes, C. (2023). Train-the-Trainer-Konzept zum Thema Forschungsdatenmanagement (Version 5). Zenodo. https://doi.org/10.5281/zenodo.10122153
-
-[3] Deutsche Forschungsgemeinschaft (DFG). (o. J.). Leitlinien zum Umgang mit Forschungsdaten. Abgerufen am 16. Juli 2025, von https://www.dfg.de/download/pdf/foerderung/antragstellung/forschungsdaten/richtlinien_forschungsdaten.pdf
+[1] 
 
 
 
