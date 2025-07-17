@@ -72,8 +72,9 @@ Beispiele für Forschungsdaten sind:
 | Forschungs- und Analyseergebnisse | Interdisziplinäre Auswertung in Botanik, Wissenschafts- und Religionsgeschichte     | Wissenschaftsgeschichte, Netzwerkforschung, interdisziplinäre Forschung                         |
 | Publikations- und Nachnutzungsdaten | DOI vorhanden, online bei JACQ, Lizenz: CC BY 4.0                                 | Langfristige Referenzierbarkeit, ermöglicht Nachnutzung der Daten                |
 
+Forschungsdaten entstehen im Rahmen wissenschaftlicher Tätigkeiten, werden systematisch dokumentiert und analysiert und dienen als Grundlage oder Ergebnis von Forschung. Auch Sammlungsdaten erfüllen diese Kriterien: Sie dokumentieren die Herkunft und den Kontext von Objekten, bilden den Zustand und die Materialität ab, werden digitalisiert, erschlossen und wissenschaftlich ausgewertet.
 
-Forschungsdaten zeichnen sich dadurch aus, dass sie im Rahmen wissenschaftlicher Tätigkeiten entstehen, systematisch dokumentiert und analysiert werden und entweder Grundlage oder Ergebnis von Forschung sind. Auch Sammlungsdaten sind Forschungsdaten. Dazu zählen zum Beispiel Kontextinformationen zu Fundort und Zeitpunkt, digitale Reproduktionen, Analyseergebnisse oder strukturierte Metadaten. Anhand des gezeigten Herbarbelegs wird deutlich, dass solche Daten nicht nur für die interne Erschließung relevant sind, sondern auch eine zentrale Grundlage für Forschung bilden. Sie ermöglichen zum Beispiel die botanische Bestimmung von Pflanzenarten und ihrer Merkmale, die Rekonstruktion historischer Sammlungsnetzwerke sowie die Analyse von Biodiversitätsveränderungen über lange Zeiträume hinweg. 
+Am Beispiel des Herbarbelegs wird deutlich, wie vielfältig diese Daten sein können und wie sie zur Forschung beitragen: Von der botanischen Bestimmung von Arten über die Rekonstruktion historischer Sammlungsnetzwerke bis zur Analyse von Biodiversitätsveränderungen über lange Zeiträume. Forschungsdatenmanagement sorgt dafür, dass solche Daten langfristig sichtbar, nachvollziehbar und nachnutzbar bleiben.
 
 
 ## Zuruf
