@@ -1,4 +1,4 @@
-<!--
+<img width="547" height="73" alt="grafik" src="https://github.com/user-attachments/assets/8a48a2c6-ea49-4422-a24a-9272dc6b6eaf" /><!--
 *titel:
 *author:in/urheber:in: Rebekka Reichert
 orcid: https://orcid.org/0009-0006-8283-3234
@@ -83,6 +83,49 @@ Typische Aufgaben:
 - 16. Jahrestagung in Berlin, 9. bis 11. Oktober 2025: Ist Sammeln noch zeitgemäß? https://gesellschaft-universitaetssammlungen.de/tagungen/
  
 ---
+
+### **Koordinierungsstelle & Portal Wissenschaftliche Sammlungen**
+
+Die Koordinierungsstelle wissenschaftliche Universitätssammlungen (KUS) an der Humboldt-Universität zu Berlin ist die zentrale Anlaufstelle für Universitätssammlungen im deutschsprachigen Raum. Sie unterstützt insbesondere durch:
+
+- Sichtbarmachung, Zugänglichkeit und Nutzung wissenschaftlicher Sammlungen
+- Förderung von Sammlungen als Ressourcen für Forschung, Lehre und Wissenstransfer
+- Vernetzung der Sammlungen untereinander
+
+#### Portal Wissenschaftliche Sammlungen  
+Eine zentrale Funktion übernimmt hierbei das 2012 von der KUS gegründete Portal Wissenschaftliche Sammlungen: 
+[https://portal.wissenschaftliche-sammlungen.de](https://portal.wissenschaftliche-sammlungen.de)
+
+- Zentrale Rechercheplattform für Universitätssammlungen in Deutschland
+- Über 1.200 Sammlunge mit Angaben zu Bestand, Nutzung, Ansprechpartner:in, Standort, Aktivitäten
+- Technisch vernetzbar (API), offen zugänglich, CC-lizenziert
+- Kooperative Datenpflege in Zusammenarbeit mit den Sammlungen
+
+**Aktualisierungs- und Ergänzungswünsche sind jederzeit willkommen. Kontakt: support@wissenschaftliche-sammlungen.de**
+
+---
+
+### **SODa – Sammlungen, Objekte, Datenkompetenzen**
+
+SODa ist ein Verbundprojekt, das von November 2023 bis November 2026 von dem BMFTR gefördert wird. 
+
+Ziele: 
+- Unterstützung der Digitalisierung wissenschaftlicher Sammlungen
+- Aufbau von Kompetenzen für datenbasierte Sammlungs- und Objektforschung
+- Interdisziplinäre Vernetzung und Beratung
+
+#### Fachexpertisen im SODa-Team:
+
+- Erschließung und FDM  
+- Digitale Provenienzforschung  
+- Ethik und Recht  
+- Restaurierungs- und Konservierungsdokumentation  
+- 2D und maschinelles Lernen  
+- 3D und Objektvisualisierung  
+- Analyse strukturierter Daten  
+- Infrastrukturentwicklung  
+
+Kontakt: **soda@sammlungen.io**
 -----------
 Quellenangaben
 
