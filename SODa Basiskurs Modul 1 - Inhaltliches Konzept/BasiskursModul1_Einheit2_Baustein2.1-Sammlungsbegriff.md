@@ -93,7 +93,7 @@ Quellenangaben
 [8] Zwier, Pim (2021): *O, Collecting Eggs Despite the Times* [Dokumentarfilm]. © Moondocs NL, 76 Min.  
 [9] Martin-Luther-Universität Halle-Wittenberg (o. D.): *Warum hat die Uni Halle eine riesige Eiersammlung?* https://de.linkedin.com/posts/unihalle_warum-hat-die-uni-halle-eine-riesige-eiersammlung  
 [10] Pressemitteilung der Martin-Luther-Universität Halle-Wittenberg (2021): *Oster-Rundgang. Führung durch die Eier-Sammlung von Max Schönwetter* https://pressemitteilungen.pr.uni-halle.de/?modus=pmanzeige&pm_id=2855  
-
+[11] Institut für Klassische Archäologie der Freien Universität Berlin (o. D.): Eine schlafende Ariadne in Berlin. Sieben Fragen und ein roter Faden, https://ariadne.bua-dns.de/ (abgerufen am 17. Juli 2025).
 
 
 
