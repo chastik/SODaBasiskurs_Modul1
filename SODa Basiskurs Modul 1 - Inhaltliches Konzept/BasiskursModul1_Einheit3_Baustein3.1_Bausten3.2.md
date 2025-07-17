@@ -61,6 +61,9 @@ Typische Aufgaben:
 - Datenbanken
 - Technische Infrastruktur und Sicherheit
 
+**Sammlungskolleg(innen), Sammlungsleitung**
+- Vernetzung und Austausch
+
 ---
 
 ### **Landes- und Bundesebene**
