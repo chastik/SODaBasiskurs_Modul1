@@ -36,12 +36,12 @@ Diese Anforderungen ersetzen einen formalen Datenmanagementplan (DMP) nicht, ver
 
 Die DFG verpflichtet Antragstellende dazu, sich bereits in der Projektplanungsphase mit dem Forschungsdatenmanagement auseinanderzusetzen. Auf den Seiten 19–20 der Leitlinien wird betont, dass im Antrag darzulegen ist:
 
-* Welche Daten entstehen und analysiert werden
-* Welche Datentypen vorliegen
-* Welche disziplinspezifischen Standards eingehalten werden (z. B. Formate, Metadatenstandards)
-* Wie die langfristige Sicherung und ggf. Nachnutzung der Daten gewährleistet wird
-* Wie die Bereitstellung der Daten geplant ist (z. B. Repositorien)
-* Welche rechtlichen Rahmenbedingungen zu berücksichtigen sind, insbesondere im Hinblick auf Datenschutz, Urheber- oder Verwertungsrechte
+* **Welche Daten entstehen und analysiert werden**
+* **Welche Datentypen vorliegen**
+* **Welche disziplinspezifischen Standards eingehalten werden (z. B. Formate, Metadatenstandards)**
+* **Wie die langfristige Sicherung und ggf. Nachnutzung der Daten gewährleistet wird**
+* **Wie die Bereitstellung der Daten geplant ist (z. B. Repositorien)**
+* **Welche rechtlichen Rahmenbedingungen zu berücksichtigen sind, insbesondere im Hinblick auf Datenschutz, Urheber- oder Verwertungsrechte**
 
 Diese Angaben sind im Antrag verbindlich anzugeben – ein formaler DMP, wie er etwa von der EU verlangt wird, ist bei der DFG jedoch (noch) nicht verpflichtend.
 
