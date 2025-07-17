@@ -17,7 +17,7 @@
 
 ### Aufgabe
 
-Arbeiten auf dem Miroboard
+Arbeiten weiter auf dem Miroboard
 
 Inventur: Welche Elemente hat ein DMP?
 
