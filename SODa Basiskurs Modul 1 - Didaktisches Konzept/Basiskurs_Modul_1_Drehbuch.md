@@ -38,7 +38,7 @@ comment:  WissKi SODA OERs
 | Einheit               | Baustein                                                              | Lernziel             | Didaktische Methode (Arbeitsform) | Dauer               | Inhalt                 | Schritt                              | Regieanweisung                 | Materialien (Werkzeuge) |
 | --------------------- | --------------------------------------------------------------------- | -------------------- | --------------------------------- | ------------------- | ---------------------- | ------------------------------------ | ------------------------------ | ----------------------- |
 | 2.1 Sammlungsbegriff  | Lernende können den Sammlungsbegriff diskutieren. (neu)               | Umfrage (Mentimeter) | ca. Minuten                       | Begriffsverständnis | TN agieren (ausatmen)  | WL präsentiert Umfrage               | Mentimeter-Umfrage vorbereiten | –                       |
-| 2.2 Sammlungsfunktion | Lernende können wesentliche Funktionen von Sammlungen benennen. (neu) | Vortrag mit Folien   | ca. Minuten                       | Sammlungsfunktionen | TN hören zu (einatmen) | WL stellt wesentliche Funktionen vor | Folien vorbereiten             | –                       |
+| 2.2 Sammlungsfunktionen und -aufgaben | Lernende können wesentliche Aufgaben und Funktionen von Sammlungen benennen. (neu) | Vortrag mit Folien   | ca. Minuten                       | Sammlungsfunktionen | TN hören zu (einatmen) | WL stellt wesentliche Funktionen vor | Folien vorbereiten             | –                       |
 
 
 **Einheit 3 Kontaktstellen für wiss. Universitätssammlungen** 
