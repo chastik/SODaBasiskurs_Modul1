@@ -69,13 +69,13 @@ Wissenschaftliche Universitätssammlungen sind Orte der Forschung, Lehre, Vermit
 
 Diese Aufgaben sind in der Praxis oft eng miteinander verbunden. Die folgenden Beispiele zeigen, wie diese konkret aussehen und welche Herausforderungen sie mit sich bringen.
 
- Funktion     | Beschreibung                                                                                         | Beispiel                                                                                                       |
+ Aufgabe     | Beschreibung                                                                                         | Beispiel                                                                                                       |
 |--------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| **Sammeln**   | Aufbau und Pflege eines Objektbestands, häufig über lange Zeiträume                                  | *Eiersammlung Max Schönwetter*, MLU Halle: Jahrzehntelanger Aufbau, heute national wertvolles Kulturgut [4]   |
-| **Bewahren**  | Konservierung, Schutz vor Zerstörung oder Zerfall                                                    | Lichtempfindliche Eier in Halle, Digitalisierungsprojekt TU Dresden [5][6]                                     |
+| **Sammeln**   | Aufbau und Pflege eines Objektbestands                                 | *Eiersammlung Max Schönwetter*, MLU Halle: Jahrzehntelanger Aufbau, heute national wertvolles Kulturgut [4]   |
+| **Bewahren**  | Konservierung, Schutz vor Zerstörung oder Zerfall                                                    | Lichtempfindliche Eier in Halle [8]                                     |
 | **Forschen**  | Nutzung der Objekte und Kontexte als Quellen wissenschaftlicher Erkenntnis                          | *Herbarbelege der Herrnhuter Brüdergemeine*, TU Dresden: historische Netzwerke, Standortanalysen [5][6][7]    |
-| **Vermitteln**| Objekte als Anschauungsmaterial oder Erzählanlass in Lehre und Öffentlichkeitsarbeit                | Osterführungen, Online-Posts zur Eiersammlung; didaktischer Einsatz von Lehrsammlungen [4][8]                 |
-| **Ausstellen**| Sichtbarmachung in physischen oder digitalen Räumen                                                 | Ausstellungen der Künstlerbuchsammlung UB Weimar [8]                                                          |
+| **Vermitteln**| Objekte als Anschauungsmaterial oder Erzählanlass in Lehre und Öffentlichkeitsarbeit                | Osterführungen, Online-Posts zur Eiersammlung; didaktischer Einsatz von Lehrsammlungen [8]                 |
+| **Ausstellen**| Sichtbarmachung in physischen oder digitalen Räumen                                                 | Ausstellungen der Künstlerbuchsammlung UB Weimar                                                          |
 
 
 
