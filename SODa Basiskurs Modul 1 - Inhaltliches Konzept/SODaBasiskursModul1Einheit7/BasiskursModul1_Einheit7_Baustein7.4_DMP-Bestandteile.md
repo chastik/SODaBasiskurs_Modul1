@@ -15,7 +15,21 @@
 
 ## 7.4. Bestandteile von Datenmanagementplänen (DMP)
 
-Dies sind Kern­elemente eines Daten­managementplans (DMP) laut *forschungsdaten.info*:
+### Aufgabe
+
+Arbeiten auf dem Miroboard
+
+Inventur: Welche Elemente hat ein DMP?
+
+Plenum
+
+Zeitbedarf: ca. 3 Min.
+
+
+
+### Kern­elemente sind...
+
+Dies sind die Kernlemente eines Daten­managementplans (DMP) laut *forschungsdaten.info*:
 
 * Überblick
   
@@ -55,8 +69,6 @@ Dies sind Kern­elemente eines Daten­managementplans (DMP) laut *forschungsdate
 * Ressourcen
   
   * Geschätzte Kosten für Personal, Metadatenerstellung, Archivierung etc.
-
-
 
 
 ### Beispiele
