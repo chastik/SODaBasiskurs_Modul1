@@ -1,4 +1,4 @@
-<img width="547" height="73" alt="grafik" src="https://github.com/user-attachments/assets/8a48a2c6-ea49-4422-a24a-9272dc6b6eaf" /><!--
+<!--
 *titel:
 *author:in/urheber:in: Rebekka Reichert
 orcid: https://orcid.org/0009-0006-8283-3234
