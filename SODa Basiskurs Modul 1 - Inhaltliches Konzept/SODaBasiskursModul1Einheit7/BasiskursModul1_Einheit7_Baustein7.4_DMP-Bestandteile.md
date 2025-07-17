@@ -29,8 +29,12 @@ Dies sind Kern­elemente eines Daten­managementplans (DMP) laut *forschungsdate
   
   * Art und Menge der Daten, voraussichtliche Formate, Generierung, Dokumentation und Reproduzierbarkeit
 
-Workflow
-    – Datenverwaltung inklusive Speicherung, Dateibenennung, Versionierung, Synchronisation und kollaboratives Arbeiten
+* Workflow
+  
+  * Datenverwaltung inklusive Speicherung
+  * Dateibenennung, Versionierung
+  * Synchronisation
+  * kollaboratives Arbeiten
 
 * Ingestplan
 
