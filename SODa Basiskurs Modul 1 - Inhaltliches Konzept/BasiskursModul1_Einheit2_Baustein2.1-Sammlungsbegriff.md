@@ -12,11 +12,11 @@ beschreibung:
 format: SODaBasiskurs Workshop 
 modultitel: Sammlungs- und Objektdaten als Forschungsdaten managen
 modul: Modul 1
-einheitstitel: Begriff "Forschungsdaten"
-eiheit: Einheit 1
-lernziel: 
-LZ-ID: LZ-ID_01_001_007
-baustein: Baustein1.1
+einheitstitel: Sammlungsbegriff
+eiheit: Einheit 2
+lernziel: Lernende können den Sammlungsbegriff diskutieren. (neu)
+LZ-ID: (neu)
+baustein: Baustein2.1
 zielgruppe: https://zenodo.org/records/15574575
 gestaltungsprinzip: Problemorientiertes Lernen und Peer Learning
 keywords: ???
@@ -40,14 +40,14 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 **Modul 1: Sammlungs- und Objektdaten als Forschungsdaten managen**
 
-**Einheit 1: FDN Grundlagen in wissenschaftlichen Universitätssammlungen**
+**Einheit 2: Sammlungsbegriff, Aufgaben und Merkmale von wissenschaftlichen Universitätssammlungen**
 
-**EduBrick: 1.1. Begriff "Forschungsdaten"**
+**EduBrick: 2.1. Sammlungsbegriff**
 
-**Lernziel: 1.1. Lernende können den Begriff „Forschungsdaten“ erläutern. (LZ-ID 01_001_0007)**
+**Lernziel: 2.1. Lernende können den Sammlungsbegriff diskutieren. (neu)**
 
 
-## 1.1. Begriff „Forschungsdaten“
+## 2.1. Begriff „Forschungsdaten“
 
 „Forschungsdaten sind (digitale) Daten, die während wissenschaftlicher Tätigkeit (z. B. durch Messungen, Befragungen, Quellenarbeit) entstehen. Sie bilden eine Grundlage wissenschaftlicher Arbeit und dokumentieren deren Ergebnisse“ [1].
 
