@@ -62,14 +62,16 @@ Beispiele für Forschungsdaten sind:
 ## 1.2.2 Beispiele für sammlungsspezifische Forschungsdaten
 
 | Forschungsdatenart                              | Am Beispiel eines Herbarbelegs                                                                                           |
-|----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| Herkunfts- und Sammlungsgeschichte     | Teilsammlung: Herrnhuter Herbarbelege<br>Übergreifende Sammlung: Herbarium Dresdense<br>Institution: Technische Universität Dresden |
-| Erhebungs- und Kontextdaten            | Fundort: Nähe Barby, Sachsen-Anhalt („Im Busche bey Friderikenberg“)<br>Sammeldatum: ca. 1766<br>Sammler: Herrnhuter Brüdergemeine<br>Standortbedingungen: Trockenrasen |
-| Objektdaten                            | Objektart: Herbarbeleg<br>Pflanzenart: *Pulsatilla vulgaris* (Gewöhnliche Küchenschelle)<br>Material: Papier, getrocknete Pflanze |
-| Konservierungs- und Zustandsdaten      | Zustand: Fragil, leichte Papierbräunung<br>Maßnahmen: Lagerung in säurefreier Hülle, Digitalisierung zur Bestandserhaltung         |
-| Erschließungs- und Digitalisierungsdaten | Digitalisat vorhanden<br>Metadaten nach Dublin Core<br>Erschlossen im Projekt „Naturforschung und protestantische Mission“ mit WissKI |
-| Forschungs- und Analyseergebnisse      | Analyse im Kontext wissenschaftlicher Netzwerke der Herrnhuter Brüdergemeine<br>Interdisziplinäre Auswertung in Botanik, Wissenschafts- und Religionsgeschichte |
-| Publikations- und Nachnutzungsdaten    | Nutzung: Online verfügbar bei JACQ<br>Lizenz: CC BY 4.0<br>Zugriff über [https://dr.jacq.org/DR024129](https://dr.jacq.org/DR024129) |
+| Datenart                           | Beispiel: Herbarbeleg TU Dresden                                                   | Forschungsbezug                                                                                  |
+|-----------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Herkunfts- und Sammlungsgeschichte | Teilsammlung: Herrnhuter Herbarbelege<br>Sammlung: Herbarium Dresdense              | Rekonstruktion historischer Sammlungsnetzwerke, Provenienzforschung                             |
+| Erhebungs- und Kontextdaten       | Fundort: Nähe Barby, ca. 1766, Standort: Trockenrasen                               | Vergleich historischer Biodiversität, Rekonstruktion ökologischer Bedingungen                   |
+| Objektdaten                       | *Pulsatilla vulgaris*, Papier, getrocknete Pflanze                                  | Botanische Bestimmung, Taxonomie, morphologische Merkmalsanalyse                                |
+| Konservierungs- und Zustandsdaten | Zustand: Fragil, Digitalisierung zur Bestandserhaltung                              | Vergleich von Erhaltungszuständen, Konservierungsstrategien, Materialstudien                    |
+| Erschließungs- und Digitalisierungsdaten | Metadaten nach Dublin Core, erschlossen mit WissKI                           | Sichtbarkeit und Nachnutzung, strukturierte Datenanalyse, digitale Sammlungsforschung          |
+| Forschungs- und Analyseergebnisse | Interdisziplinäre Auswertung in Botanik, Wissenschafts- und Religionsgeschichte     | Wissenschaftsgeschichte, Netzwerkforschung, interdisziplinäre Forschung                         |
+| Publikations- und Nachnutzungsdaten | DOI vorhanden, online bei JACQ, Lizenz: CC BY 4.0                                 | Langfristige Referenzierbarkeit, Sichtbarkeit, Zitation in zukünftiger Forschung                |
+
 
 Forschungsdaten zeichnen sich dadurch aus, dass sie im Rahmen wissenschaftlicher Tätigkeiten entstehen, systematisch dokumentiert und analysiert werden und entweder Grundlage oder Ergebnis von Forschung sind. Auch Sammlungsdaten sind Forschungsdaten. Dazu zählen zum Beispiel Kontextinformationen zu Fundort und Zeitpunkt, digitale Reproduktionen, Analyseergebnisse oder strukturierte Metadaten. Anhand des gezeigten Herbarbelegs wird deutlich, dass solche Daten nicht nur für die interne Erschließung relevant sind, sondern auch eine zentrale Grundlage für Forschung bilden. Sie ermöglichen zum Beispiel die botanische Bestimmung von Pflanzenarten und ihrer Merkmale, die Rekonstruktion historischer Sammlungsnetzwerke sowie die Analyse von Biodiversitätsveränderungen über lange Zeiträume hinweg. 
 
