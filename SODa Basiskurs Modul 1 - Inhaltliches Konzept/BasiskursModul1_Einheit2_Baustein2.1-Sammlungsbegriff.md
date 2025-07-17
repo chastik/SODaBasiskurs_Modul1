@@ -59,16 +59,23 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 - Wissenschaftliche Relevanz: Werden die Objekte zu Lehr-, Forschungs- oder Ausstellungszwecken genutzt?
 - Zuschreibung: Wird die Sammlung als solche behandelt? [1]
 
-Wissenschaftliche Universitätssammlungen sind Orte der Forschung, Lehre, Vermittlung und der Auseinandersetzung mit Geschichte und Verantwortung. Sie erfüllen die zentralen Aufgaben, die auch die ICOM-Definition für Museen beschreibt [2][3][4]:
+Wissenschaftliche Universitätssammlungen sind Orte der Forschung, Lehre, Vermittlung und der Auseinandersetzung mit Geschichte und Verantwortung. Sie erfüllen die zentralen Aufgaben, die auch die ICOM-Definition für Museen beschreibt:
 
 - sammeln  
 - bewahren  
 - forschen  
 - interpretieren bzw. vermitteln  
-- ausstellen  
+- ausstellen [2][3]
 
-Diese Funktionen sind in der Praxis oft eng miteinander verbunden. Die folgenden Beispiele zeigen, wie diese Aufgaben konkret aussehen und welche Herausforderungen sie mit sich bringen.
+Diese Aufgaben sind in der Praxis oft eng miteinander verbunden. Die folgenden Beispiele zeigen, wie diese konkret aussehen und welche Herausforderungen sie mit sich bringen.
 
+ Funktion     | Beschreibung                                                                                         | Beispiel                                                                                                       |
+|--------------|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| **Sammeln**   | Aufbau und Pflege eines Objektbestands, häufig über lange Zeiträume                                  | *Eiersammlung Max Schönwetter*, MLU Halle: Jahrzehntelanger Aufbau, heute national wertvolles Kulturgut [4]   |
+| **Bewahren**  | Konservierung, Schutz vor Zerstörung oder Zerfall                                                    | Lichtempfindliche Eier in Halle, Digitalisierungsprojekt TU Dresden [5][6]                                     |
+| **Forschen**  | Nutzung der Objekte und Kontexte als Quellen wissenschaftlicher Erkenntnis                          | *Herbarbelege der Herrnhuter Brüdergemeine*, TU Dresden: historische Netzwerke, Standortanalysen [5][6][7]    |
+| **Vermitteln**| Objekte als Anschauungsmaterial oder Erzählanlass in Lehre und Öffentlichkeitsarbeit                | Osterführungen, Online-Posts zur Eiersammlung; didaktischer Einsatz von Lehrsammlungen [4][8]                 |
+| **Ausstellen**| Sichtbarmachung in physischen oder digitalen Räumen                                                 | Ausstellungen der Künstlerbuchsammlung UB Weimar [8]                                                          |
 
 
 
