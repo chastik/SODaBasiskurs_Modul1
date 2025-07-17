@@ -58,7 +58,7 @@ https://www.mentimeter.com/app/presentation/alact1mkqiy4s15eu58qgpw56e69jqgk/edi
 - Zuschreibung: Wird die Sammlung als solche behandelt? [1]
 
 ### **Ist das eine Sammlung?**
-- Ist ein lokale Ordner einer Professorin der Kunstgeschichte, in dem sie hunderte Ausstellungsbesuche dokuemntiert hat (mit Fotografien, Notizen, digitalisierten Flyern udn Zeitungsausschniten eine Sammlung?
+- Ist ein lokale Ordner einer Professorin der Kunstgeschichte, in dem sie hunderte Ausstellungsbesuche dokumentiert hat (mit Fotografien, Notizen, digitalisierten Flyern und Zeitungsausschniten) eine Sammlung?
 - Ist eine Sammlung von anatomischen Lehrtafeln aus dem 19. Jahrhundert, die heute in einem ungenutzten Nebenraum eines Medizingebäudes lagern, eine Sammlung?
 - Sind alte Maschinenbauteile, die nirgendwo erfasst werden, aber in der Einführungsvorlesungen als Anschauungsobjekte herumgegeben werden eine Sammlung?
 
