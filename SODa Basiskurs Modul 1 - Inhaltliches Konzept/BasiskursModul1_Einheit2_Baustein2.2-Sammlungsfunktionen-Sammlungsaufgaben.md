@@ -70,8 +70,8 @@ Inklusion und gesellschaftliche Verantwortung sind zentrale Aspekte aktueller Sa
 **Quellenangaben**
 
 [1] ICOM Österreich (2022): *ICOM-Museumsdefinition. Offizielle deutsche Übersetzung der neuen Definition für Museen veröffentlicht.* http://icom-oesterreich.at/news/icom-museumsdefinition  
-[2] International Council of Museums (ICOM) (2007): *Museum Definition*, zit. nach Wissenschaftsrat (2011), S. 10.  
-[3] Wissenschaftsrat (2011): *Empfehlungen zu wissenschaftlichen Sammlungen als Forschungsinfrastruktur.* https://www.wissenschaftsrat.de/download/archiv/10464-11.html  
+[2] International Council of Museums (ICOM) (2007): *Museum Definition*
+[3] Wissenschaftsrat (2011): *Empfehlungen zu wissenschaftlichen Sammlungen als Forschungsinfrastruktur.*, zit. nach Wissenschaftsrat (2011), S. 10.  https://www.wissenschaftsrat.de/download/archiv/10464-11.html  
 [4] Wagner, S. (2024): *Ein Herbarbeleg der Gewöhnlichen Küchenschelle (Pulsatilla vulgaris).* https://sammeln.hypotheses.org/3006  
 [5] Technische Universität Dresden, Botanischer Garten und Institut für Botanik (o. D.): *Forschungsprojekt: Die Pflanzensammlungen der Herrnhuter Brüdergemeine* https://tu-dresden.de/mn/biologie/botanik/forschung/herrnhut  
 [6] Technische Universität Dresden, Institut für Botanik (o. D.): *Herbarium Dresdense* https://tu-dresden.de/mn/biologie/botanik/botanik/herbarium  
