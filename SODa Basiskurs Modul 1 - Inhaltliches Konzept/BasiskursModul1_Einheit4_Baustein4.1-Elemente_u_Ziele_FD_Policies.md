@@ -95,9 +95,13 @@ Deutsches Archäologisches Institut (DAI), Data Policy: Legt spezifische Vorgabe
 *Beispiel:* Konrket hält das DAI u.a. fest: „Die Wissenschaftlerinnen und Wissenschaftler […] setzen die FAIR-Prinzipien um und tragen für die Einhaltung der Empfehlungen der Deutschen Forschungsgemeinschaft (DFG) zur Sicherung guter wissenschaftlicher Praxis Sorge, [… Sie] verstärken ihre Bemühungen für eine Publikation aktueller und historischer Forschungsdaten" [7]
 
 #### 4. **Förderinstitutionen**
-Fördermittelgebende Einrichtungen machen FDM-Standards zur Auflage.
+Fördermittelgebende Einrichtungen machen FDM-Standards zunehmend zur Voraussetzung für die Förderung von Forschungsvorhaben. Dabei spielen institutionelle Leitlinien und disziplinspezifische Anforderungen eine zentrale Rolle.
 
-*Beispiel:* DFG-Leitlinien zum Umgang mit Forschungsdaten.
+**Beispiel: DFG – Leitlinien zum Umgang mit Forschungsdaten**
+
+„Die langfristige Sicherung und Bereitstellung der Forschungsdaten leistet einen Beitrag zur Nachvollziehbarkeit und Qualität der wissenschaftlichen Arbeit und eröffnet wichtige Anschlussmöglichkeiten für die weitere Forschung.“
+
+Die DFG fordert Antragstellende auf, bereits bei Projektbeginn Konzepte zur Datenerhebung, -nutzung und -archivierung zu formulieren. Zudem betont sie die Bedeutung der disziplinspezifischen Entwicklung von Standards und erkennt die Aufbereitung und Bereitstellung von Forschungsdaten als wissenschaftliche Leistung an. [8]
 
 #### 5. **Zeitschriften- und Verlags-Policies**
 Viele Fachzeitschriften verlangen die Veröffentlichung zugrundeliegender Forschungsdaten (Data Availability Statement).
@@ -236,17 +240,22 @@ Quellenangabe
 [1] (T2T 5 S. 33)
 
 [2] https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/
-(https://www.usgs.gov/scientific-collections/usgs-policy-scientific-working-collections)
+(https://www.usgs.gov/scientific-collections/usgs-policy-scientific-working-collections) (Abgerufen am 18. Juli 2025)
 
-[3] Policy der Uni Mannheim S. 3: https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/forschung/Forschungsdaten-Policy.pdf
+[3] Policy der Uni Mannheim S. 3: https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/forschung/Forschungsdaten-Policy.pdf (Abgerufen am 18. Juli 2025)
 
-[4] Forschungsdatenpolicy der Uni Wien https://rdm.univie.ac.at/de/fdm-policy-und-faq/
+[4] Forschungsdatenpolicy der Uni Wien https://rdm.univie.ac.at/de/fdm-policy-und-faq/ (Abgerufen am 18. Juli 2025)
 
-[5] https://www.forschungsdaten.org/index.php/Data_Policies#DFG:_Empfehlungen_zur_Sicherung_guter_wissenschaftlicher_Praxis](https://www.forschungsdaten.org/index.php/Data_Policies#DFG:_Empfehlungen_zur_Sicherung_guter_wissenschaftlicher_Praxis
+[5] https://www.forschungsdaten.org/index.php/Data_Policies#DFG:_Empfehlungen_zur_Sicherung_guter_wissenschaftlicher_Praxis](https://www.forschungsdaten.org/index.php/Data_Policies#DFG:_Empfehlungen_zur_Sicherung_guter_wissenschaftlicher_Praxis (Abgerufen am 18. Juli 2025)
 
-[6] https://www.dfg.de/resource/blob/172112/4ea861510ea369157afb499e96fb359a/leitlinien-forschungsdaten-data.pdf
+[6] https://www.dfg.de/resource/blob/172112/4ea861510ea369157afb499e96fb359a/leitlinien-forschungsdaten-data.pdf (Abgerufen am 18. Juli 2025)
 
+[7] Deutsche Forschungsgemeinschaft (DFG): *Leitlinien zum Umgang mit Forschungsdaten*, 30. September 2015.  
+https://www.forschungsdaten.org/index.php/Data_Policies#DFG:_Empfehlungen_zur_Sicherung_guter_wissenschaftlicher_Praxis  
+(Abgerufen am 18. Juli 2025)
 
+[8] Deutsche Forschungsgemeinschaft (DFG): *Leitlinien zum Umgang mit Forschungsdaten*, verabschiedet am 30.09.2015.  
+[https://www.forschungsdaten.org/index.php/Data_Policies#DFG:_Empfehlungen_zur_Sicherung_guter_wissenschaftlicher_Praxis](https://www.forschungsdaten.org/index.php/Data_Policies#DFG:_Empfehlungen_zur_Sicherung_guter_wissenschaftlicher_Praxis) (Abgerufen am 18. Juli 2025)
 
 
 
