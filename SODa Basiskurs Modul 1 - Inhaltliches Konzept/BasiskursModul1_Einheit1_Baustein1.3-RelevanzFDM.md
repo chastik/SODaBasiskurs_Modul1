@@ -47,7 +47,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 **Lernziel: 1.3. Lernende können die Relevanz von Forschungsdatenmanagement (FDM) für Forschung, Gesellschaft und die Sammlungsarbeit benennen. (in Anlehnung an LZ-ID 01_001_0001)**
 
 ## 1.3.1 Was ist Forschungsdatenmanagement?
-Wir knüpfen an die Scary Tale vom Kursbeginn an: Verloren gegangene Informationen, unklare Zuständigkeiten, schwer auffindbare oder gar unzugängliche Daten, die nicht mehr nachvollziehbar oder nutzbar sind. Dieses reale Beispiel zeigt deutlich, dass Forschungsdatenmanagement (FDM) kein "nice to have" ist, sondern eine zentrale Voraussetzung für nachhaltige Wissenschaftliche Arbeit. 
+Wir knüpfen an die Scary Tale vom Kursbeginn an: Verloren gegangene Informationen, unklare Zuständigkeiten, schwer auffindbare oder gar unzugängliche Daten, die nicht mehr nachvollziehbar oder nutzbar sind. Dieses reale Beispiel zeigt deutlich, dass Forschungsdatenmanagement (FDM) kein "nice to have" ist, sondern eine zentrale Voraussetzung für nachhaltige wissenschaftliche Arbeit. 
 
 Forschungsdatenmanagement umfasst alle organisatorischen und technischen Maßnahmen, die den Umgang mit Daten im Forschungsprozess systematisch struktrieren. Ziel des Forschungsdatenmanagments ist es, Daten "langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten" [1]. 
 
