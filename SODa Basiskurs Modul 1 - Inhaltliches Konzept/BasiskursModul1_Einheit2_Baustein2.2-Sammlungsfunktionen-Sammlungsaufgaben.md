@@ -61,7 +61,7 @@ Die folgende Übersicht zeigt konkrete Umsetzungen und Herausforderungen:
 | **Ausstellen**  | Sichtbarmachung in physischen oder digitalen Räumen                                                      | Digitale Ausstellung der Abguss-Sammlung Antiker Plastik, FU Berlin: Ariadne-Abguss kontextualisiert aufbereitet [10] |
 
 ## **Ethik und Recht**
-Inklusion und gesellschaftliche Verantwortung sind zentrale Aspekte aktueller Sammlungsarbeit – das betont auch die jüngere Definition des International Council of Museums (ICOM) [2]:
+Inklusion und gesellschaftliche Verantwortung sind zentrale Aspekte aktueller Sammlungsarbeit, das betont auch die jüngere Definition des International Council of Museums (ICOM) [1]:
 - Was darf gesammelt werden und unter welchen Bedingungen?
 - Wem gehören die Objekte, insbesondere wenn sie in einem Unrechtskontext erworben wurden?
 - Wie gehen wir mit Digitalisaten um, nachdem wir sensible Objekte restituiert haben?
