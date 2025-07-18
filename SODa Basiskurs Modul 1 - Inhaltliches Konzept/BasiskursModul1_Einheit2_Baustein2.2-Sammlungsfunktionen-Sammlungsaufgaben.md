@@ -57,7 +57,7 @@ Die folgende Übersicht zeigt konkrete Umsetzungen und Herausforderungen:
 | **Sammeln**     | Aufbau und Pflege eines Objektbestands                                                                   | Eiersammlung Max Schönwetter, MLU Halle: Jahrzehntelanger Aufbau, heute national wertvolles Kulturgut [3]         |
 | **Bewahren**    | Konservierung, Schutz vor Zerstörung oder Zerfall                                                        | Eiersammlung Max Schönwetter [7]                                                                                   |
 | **Forschen**    | Nutzung der Objekte und Kontexte als Quellen wissenschaftlicher Erkenntnis                              | Herbarbelege der Herrnhuter Brüdergemeine, TU Dresden: historische Netzwerke, Standortanalysen [4][5][6]          |
-| **Vermitteln**  | Objekte als Anschauungsmaterial oder Erzählanlass in Lehre und Öffentlichkeitsarbeit                    | Osterführungen, Online-Posts zur Eiersammlung; didaktischer Einsatz in der Lehre [8][9]                            |
+| **Vermitteln**  | Objekte als Anschauungsmaterial oder Erzählanlass in Lehre und Öffentlichkeitsarbeit                    | Eisersammlung Max Schönwetter: Osterführungen, LinkedIn-Post zur Eiersammlung; didaktischer Einsatz in der Lehre [8][9]                            |
 | **Ausstellen**  | Sichtbarmachung in physischen oder digitalen Räumen                                                      | Digitale Ausstellung der Abguss-Sammlung Antiker Plastik, FU Berlin: Ariadne-Abguss kontextualisiert aufbereitet [10] |
 
 ## **Ethik und Recht**
