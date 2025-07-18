@@ -52,11 +52,11 @@ Am Beispiel der *Scary Tale* wird deutlich, wie FDM konkret helfen kann:
 
 | **Nutzen**                          | **Beispiel**                                                                 |
 |------------------------------------|------------------------------------------------------------------------------|
-| **Dokumentation & Metadatenpflege** | Herkunft, Zustand und Nutzung von Objekten bleiben langfristig nachvollziehbar |
-| **Backup & Langzeitarchivierung**   | Schutz vor Datenverlust bei Hardwareausfall oder veralteten Dateiformaten     |
-| **Zugangs- und Rollenmanagement**   | Mitarbeitende können unabhängig von Personalwechseln kontrolliert auf Daten zugreifen |
-| **Ordnerstruktur & Dateibenennung** | Dateien werden durch konsistente Benennungssysteme schnell wiedergefunden     |
-| **Rechtssicherheit & Verantwortlichkeit** | Eigentumsrechte und problematische Erwerbskontexte können juristisch sauber dokumentiert und bearbeitet werden |
+| Dokumentation und Metadatenpflege | Herkunft, Zustand und Nutzung von Objekten bleiben langfristig nachvollziehbar |
+| Backup und Langzeitarchivierung   | Schutz vor Datenverlust bei Hardwareausfall oder veralteten Dateiformaten     |
+| Zugangs- und Rollenmanagement   | Mitarbeitende können unabhängig von Personalwechseln kontrolliert auf Daten zugreifen |
+| Ordnerstruktur und Dateibenennung | Dateien werden durch konsistente Benennungssysteme schnell wiedergefunden     |
+| Rechtssicherheit und Verantwortlichkeit | Eigentumsrechte und problematische Erwerbskontexte können juristisch sauber dokumentiert und bearbeitet werden |
 
 
 
