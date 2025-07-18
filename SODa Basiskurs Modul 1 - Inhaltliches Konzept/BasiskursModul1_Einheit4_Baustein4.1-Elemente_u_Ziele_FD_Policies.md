@@ -57,15 +57,18 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 - **Nachhaltigkeit und Sichtbarkeit**: Forschungsdaten-Policies fördern die langfristige Archivierung und Nachnutzung von Forschungsdaten 
 
+### Ziele 
+
+* Umgang mit Forschungsdaten zu standardisieren
+* Sicherstellung, dass Forschungsdaten gemäß der GWP behandelt werden
+* Unterstützung der Forschenden bei der Verarbeitung von Forschungsdaten und Umsetzung der Richtlinien zu FDM
+* Minimierung von Risiken bei der Verarbeitung von Forschungsdaten
 
 ### Definition
 
 „Unter Forschungsdatenpolicies werden Richtlinien verstanden, die für alle Mitarbeiterinnen und Mitarbeiter einer Institution (z. B. Hochschulinstitut) festschreiben, wie Forschungsdatenmanagement angegangen werden soll. Solche begleitenden Regelwerke (engl. policies) existieren nicht nur für wissenschaftliche Institutionen sondern auch für Förderorganisationen und sind mittlerweile eine wichtige Orientierungshilfe für den Umgang mit Forschungsdaten.“ 
 
------------
-Quellenangabe
-
-(https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/)
+Quellenangabe [1]
 
 #### Beispiel Univ. Mannheim
 
@@ -104,12 +107,7 @@ Quellenangabe
 (T2T 5 S. 33)
 
 
-### Ziele 
 
-* Umgang mit Forschungsdaten zu standardisieren
-* Sicherstellung, dass Forschungsdaten gemäß der GWP behandelt werden
-* Unterstützung der Forschenden bei der Verarbeitung von Forschungsdaten und Umsetzung der Richtlinien zu FDM
-* Minimierung von Risiken bei der Verarbeitung von Forschungsdaten
 
 #### Beispiel (KI generiert) 
 
@@ -247,6 +245,7 @@ Deutsches Archäologisches Institut (DAI): Data Policy. Online verfügbar unter:
 -----------
 Quellenangabe
 
+[1] https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/
 (https://www.usgs.gov/scientific-collections/usgs-policy-scientific-working-collections)
 
 
