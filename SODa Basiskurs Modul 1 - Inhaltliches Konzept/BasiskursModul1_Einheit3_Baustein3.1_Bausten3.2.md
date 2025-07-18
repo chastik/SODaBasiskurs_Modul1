@@ -69,13 +69,13 @@ Typische Aufgaben:
 ### **Landes- und Bundesebene**
 
 **FDM-Landesinitiativen**  
-- koordinieren Aktivitäten im Bundesland
-- bieten Schulungen und Netzwerke
+- koordinieren kooperativ FDM-Aktivitäten im Bundesland
+- vermitteln instutionsübergreifend Kompetenzen und schaffen gemeinsame Strukturen
+- ergänzen nationale Strukturen wie die NFDI durch bedarfsorientierte Unterstützung vor Ort
 
 **Nationale Forschungsdateninfrastruktur (NFDI)**  
-- Fachkonsortien (z. B. NFDI4Culture, NFDI4Objects)
-- Community Cluster u. a. zu Provenienz, Sammlungsmanagement  
-→ [https://www.nfdi4objects.net/portal/ccs/](https://www.nfdi4objects.net/portal/ccs/)
+- Fachkonsortien, entwicklen Diensts  und Stadnarfds für die Wissenschaft, im Sammlungskontext relevant: u.a. NFDI4Culture, NFDI4Objects
+- Community Cluster, arbeiten zu übergreifenden Themen z.B. Digitales Sammlungsmanagement, Digitale Provenienzforschung: [https://www.nfdi4objects.net/portal/ccs/](https://www.nfdi4objects.net/portal/ccs/)
 
 **Gesellschaft für Universitäre Sammlungen (GfU)**  
 - DACH-weite Interessenvertretung  
