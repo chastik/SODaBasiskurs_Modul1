@@ -237,10 +237,12 @@ Deutsches Archäologisches Institut (DAI): Data Policy. Online verfügbar unter:
 
 -----------
 Quellenangabe
-[1] (T2T 5 S. 33)
+ (T2T 5 S. 33)
 
-[2] https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/
+[1] https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/
 (https://www.usgs.gov/scientific-collections/usgs-policy-scientific-working-collections) (Abgerufen am 18. Juli 2025)
+
+[2] https://www.forschungsdaten.org/index.php/Data_Policies
 
 [3] Policy der Uni Mannheim S. 3: https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/forschung/Forschungsdaten-Policy.pdf (Abgerufen am 18. Juli 2025)
 
