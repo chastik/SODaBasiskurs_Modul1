@@ -71,9 +71,9 @@ Richtlinien für den Umgang mit Forschungsdaten innerhalb einer Universität, Ho
 
 ##### *Beispiele Institutioneller Forschungsdaten-Policies:* 
 
->„Die Universität Mannheim möchte mit dieser Forschungsdaten-Policy den Mitgliedern der Universität **eine Orientierung im Umgang mit Forschungsdaten geben und leistungsfähige Strukturen für das Management von Forschungsdaten etablieren**. Ziel ist ein zukunftsfähiges, institutionelles Forschungsdatenmanagement, das die Mannheimer Fächer effektiv unterstützt und zur nachhaltigen Sichtbarkeit und Exzellenz ihrer Ergebnisse beiträgt.“ [3]
+„Die Universität Mannheim möchte mit dieser Forschungsdaten-Policy den Mitgliedern der Universität **eine Orientierung im Umgang mit Forschungsdaten geben und leistungsfähige Strukturen für das Management von Forschungsdaten etablieren**. Ziel ist ein zukunftsfähiges, institutionelles Forschungsdatenmanagement, das die Mannheimer Fächer effektiv unterstützt und zur nachhaltigen Sichtbarkeit und Exzellenz ihrer Ergebnisse beiträgt.“ [3]
 
->„Diese Policy für Forschungsdatenmanagement hat das Ziel, **Forscher*innen bei der Verarbeitung von Forschungsdaten bestmöglich zu unterstützen und die Risiken bei der Verarbeitung von Forschungsdaten zu reduzieren**.“ [4]
+„Diese Policy für Forschungsdatenmanagement hat das Ziel, **Forscher*innen bei der Verarbeitung von Forschungsdaten bestmöglich zu unterstützen und die Risiken bei der Verarbeitung von Forschungsdaten zu reduzieren**.“ [4]
 
 #### 2. **Interdisziplinläre Policies**
 
@@ -81,8 +81,7 @@ Richtlinien für den Umgang mit Forschungsdaten innerhalb einer Universität, Ho
 
 Die DFG formulierte 1997 in Reaktion auf Fälle wissenschaftlichen Fehlverhaltens 16 Empfehlungen zur Sicherung guter wissenschaftlicher Praxis. Eine zentrale Regel betrifft die **Datenhaltung**:
 
-> „Primärdaten als Grundlagen für Veröffentlichungen sollen auf haltbaren und gesicherten Trägern in der Institution, wo sie entstanden sind, für zehn Jahre aufbewahrt werden.“  
->  [zit. nach 5]
+Primärdaten als Grundlagen für Veröffentlichungen sollen auf haltbaren und gesicherten Trägern in der Institution, wo sie entstanden sind, für zehn Jahre aufbewahrt werden.“ [zit. nach 5]
 
 Seit 1998 ist die Etablierung entsprechender Regeln Voraussetzung für den Erhalt von DFG-Mitteln.  
 2015 ergänzte die DFG diese mit **Leitlinien zum Umgang mit Forschungsdaten**, die die Anerkennung von Datenbereitstellung als wissenschaftliche Leistung fördern und disziplinübergreifend Standards etablieren sollen [5] [6].
