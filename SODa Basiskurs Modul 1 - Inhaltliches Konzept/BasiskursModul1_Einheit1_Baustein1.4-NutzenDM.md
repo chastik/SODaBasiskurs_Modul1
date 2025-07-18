@@ -50,20 +50,14 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 Am Beispiel der *Scary Tale* wird deutlich, wie FDM konkret helfen kann:
 
-- **Dokumentation & Metadatenpflege**  
-  → stellt sicher, dass Herkunft, Zustand und Nutzung der Objekte nachvollziehbar bleiben
+| **Nutzen**                          | **Beispiel**                                                                 |
+|------------------------------------|------------------------------------------------------------------------------|
+| **Dokumentation & Metadatenpflege** | Herkunft, Zustand und Nutzung von Objekten bleiben langfristig nachvollziehbar |
+| **Backup & Langzeitarchivierung**   | Schutz vor Datenverlust bei Hardwareausfall oder veralteten Dateiformaten     |
+| **Zugangs- und Rollenmanagement**   | Mitarbeitende können unabhängig von Personalwechseln kontrolliert auf Daten zugreifen |
+| **Ordnerstruktur & Dateibenennung** | Dateien werden durch konsistente Benennungssysteme schnell wiedergefunden     |
+| **Rechtssicherheit & Verantwortlichkeit** | Eigentumsrechte und problematische Erwerbskontexte können juristisch sauber dokumentiert und bearbeitet werden |
 
-- **Backup & Langzeitarchivierung**  
-  → schützt vor Datenverlust durch Hardwareausfall oder veraltete Dateiformate
-
-- **Zugangs- und Rollenmanagement**  
-  → regelt, wer auf Daten zugreifen kann, unabhängig von Personalwechseln
-
-- **Ordnerstruktur & Dateibenennung**  
-  → sorgt für Wiederauffindbarkeit und Verständlichkeit
-
-- **Rechtssicherheit & Verantwortlichkeit**  
-  → unterstützt bei der Klärung von Eigentumsrechten, z. B. bei problematischen Erwerbskontexten
 
 
 
