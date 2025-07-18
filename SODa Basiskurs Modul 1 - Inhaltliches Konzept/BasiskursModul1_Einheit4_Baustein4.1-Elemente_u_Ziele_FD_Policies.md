@@ -89,7 +89,7 @@ Seit 1998 ist die Etablierung entsprechender Regeln Voraussetzung für den Erhal
 #### 3. **Fachspezifische Policies**
 Policies mit auf Fachcommunitys abgestimmten Standards. 
 
-*Beispiel:* Das Deutsche Archäologische Institut legte 2025 fest: > „Die Wissenschaftlerinnen und Wissenschaftler […] setzen die FAIR-Prinzipien um und tragen für die Einhaltung der Empfehlungen der Deutschen Forschungsgemeinschaft (DFG) zur Sicherung guter wissenschaftlicher Praxis Sorge, […] verstärken ihre Bemühungen für eine Publikation aktueller und historischer Forschungsdaten" [7]
+*Beispiel:* Das Deutsche Archäologische Institut legte 2025 fest: „Die Wissenschaftlerinnen und Wissenschaftler […] setzen die FAIR-Prinzipien um und tragen für die Einhaltung der Empfehlungen der Deutschen Forschungsgemeinschaft (DFG) zur Sicherung guter wissenschaftlicher Praxis Sorge, [… Sie] verstärken ihre Bemühungen für eine Publikation aktueller und historischer Forschungsdaten" [7]
 
 #### 4. **Förderinstitutionen**
 Fördermittelgebende Einrichtungen machen FDM-Standards zur Auflage.
