@@ -71,16 +71,16 @@ Typische Aufgaben:
 **FDM-Landesinitiativen**  
 - koordinieren kooperativ FDM-Aktivitäten im Bundesland
 - vermitteln instutionsübergreifend Kompetenzen und schaffen gemeinsame Strukturen
-- ergänzen nationale Strukturen wie die NFDI durch bedarfsorientierte Unterstützung vor Ort
+- ergänzen nationale Strukturen wie die NFDI durch bedarfsorientierte Unterstützung vor Ort: https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/deutschland/fdm-landesinitiativen-und-regionale-netzwerke/ [1]
 
 **Nationale Forschungsdateninfrastruktur (NFDI)**  
 - Fachkonsortien, entwicklen Diensts  und Standards für die Wissenschaft, haben Helpdesks, im Sammlungskontext relevant: u.a. NFDI4Culture, NFDI4Objects
-- Community Cluster, arbeiten zu übergreifenden Themen z.B. Digitales Sammlungsmanagement, Digitale Provenienzforschung: [https://www.nfdi4objects.net/portal/ccs/](https://www.nfdi4objects.net/portal/ccs/)
+- Community Cluster, arbeiten zu übergreifenden Themen z.B. Digitales Sammlungsmanagement, Digitale Provenienzforschung: [https://www.nfdi4objects.net/portal/ccs/](https://www.nfdi4objects.net/portal/ccs/) [2] [3]
 
 **Gesellschaft für Universitäre Sammlungen (GfU)**  
 - DACH-weite Interessenvertretung  
 - AGs zu Sammlungserhalt, Objektlehre, Partizipation
-- Jahrestagung in Berlin, 9. bis 11. Oktober 2025: Ist Sammeln noch zeitgemäß? https://gesellschaft-universitaetssammlungen.de/tagungen/
+- Jahrestagung in Berlin, 9. bis 11. Oktober 2025: Ist Sammeln noch zeitgemäß? https://gesellschaft-universitaetssammlungen.de/tagungen/ [4]
  
 ---
 
@@ -90,11 +90,11 @@ Die Koordinierungsstelle wissenschaftliche Universitätssammlungen (KUS) an der 
 
 - Sichtbarmachung, Zugänglichkeit und Nutzung wissenschaftlicher Sammlungen
 - Förderung von Sammlungen als Ressourcen für Forschung, Lehre und Wissenstransfer
-- Vernetzung der Sammlungen untereinander
+- Vernetzung der Sammlungen untereinander https://wissenschaftliche-sammlungen.de [5]
 
 #### Portal Wissenschaftliche Sammlungen  
 Eine zentrale Funktion übernimmt hierbei das 2012 von der KUS gegründete Portal Wissenschaftliche Sammlungen: 
-[https://portal.wissenschaftliche-sammlungen.de](https://portal.wissenschaftliche-sammlungen.de)
+[https://portal.wissenschaftliche-sammlungen.de](https://portal.wissenschaftliche-sammlungen.de) [6]
 
 - Zentrale Rechercheplattform für Universitätssammlungen in Deutschland
 - Über 1.200 Sammlunge mit Angaben zu Bestand, Nutzung, Ansprechpartner:in, Standort, Aktivitäten
@@ -114,7 +114,7 @@ Ziele:
 - Aufbau von Kompetenzen für datenbasierte Sammlungs- und Objektforschung
 - Interdisziplinäre Vernetzung und Beratung
 
-#### Fachexpertisen im SODa-Team:
+#### Fachexpertisen im SODa-Team: 
 
 - Erschließung und FDM  
 - Digitale Provenienzforschung  
@@ -123,7 +123,9 @@ Ziele:
 - 2D und maschinelles Lernen  
 - 3D und Objektvisualisierung  
 - Analyse strukturierter Daten  
-- Infrastrukturentwicklung  
+- Infrastrukturentwicklung [7]
+
+https://sammlungen.io/team 
 
 **Kontakt: soda@sammlungen.io**
 
@@ -142,10 +144,12 @@ https://www.nfdi4objects.net/participate/community-cluster/ (abgerufen am 18. Ju
 [4] Gesellschaft für Universitäre Sammlungen: *Gesellschaft für universitäre Sammlungen*, 2023.  
 https://gesellschaft-universitaetssammlungen.de/wp-content/uploads/2023/10/Folder-GfU-Version.pdf (abgerufen am 18. Juli 2025)
 
-[5] Koordinierungsstelle wissenschaftliche Universitätssammlungen:  
+[5] Koordinierungsstelle für wissenschaftliche Universitätssammlungen:  
 https://wissenschaftliche-sammlungen.de (abgerufen am 18. Juli 2025)
 
-[6] SODa Team:  
+[6] Portal der Koordinierungsstelle für wissenschaftliche Universitätssammlungen [https://portal.wissenschaftliche-sammlungen.de](https://portal.wissenschaftliche-sammlungen.de) (abgerufen am 18. Juli 2025)
+
+[7] SODa Team:  
 https://sammlungen.io/team (abgerufen am 18. Juli 2025)
 
 
