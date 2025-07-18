@@ -57,7 +57,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 ### **Was genau macht etwas zu einer Sammlung?**
 - Mehr als eine Ansammlung: Gibt es eine erkennbare Ordnung oder Systematik der Objekte?
 - Wissenschaftliche Relevanz: Werden die Objekte zu Lehr-, Forschungs- oder Ausstellungszwecken genutzt?
-- Zuschreibung: Wird die Sammlung als solche behandelt? [1]
+- Zuschreibung: Wird die Sammlung so genannt und wird Verantwortung für die Sammlung übernommen? [1]
 
 
 -----------
