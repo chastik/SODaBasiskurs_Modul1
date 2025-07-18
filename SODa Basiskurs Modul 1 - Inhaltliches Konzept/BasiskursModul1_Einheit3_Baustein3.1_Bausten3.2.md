@@ -72,6 +72,7 @@ Typische Aufgaben:
 - koordinieren kooperativ FDM-Aktivitäten im Bundesland
 - vermitteln instutionsübergreifend Kompetenzen und schaffen gemeinsame Strukturen
 - ergänzen nationale Strukturen wie die NFDI durch bedarfsorientierte Unterstützung vor Ort: https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/deutschland/fdm-landesinitiativen-und-regionale-netzwerke/ [1]
+https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/deutschland/fdm-landesinitiativen-und-regionale-netzwerke 
 
 **Nationale Forschungsdateninfrastruktur (NFDI)**  
 - Fachkonsortien, entwicklen Diensts  und Standards für die Wissenschaft, haben Helpdesks, im Sammlungskontext relevant: u.a. NFDI4Culture, NFDI4Objects
