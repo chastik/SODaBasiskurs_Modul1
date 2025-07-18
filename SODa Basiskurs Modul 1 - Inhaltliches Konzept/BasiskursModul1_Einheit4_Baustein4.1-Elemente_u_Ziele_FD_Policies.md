@@ -87,9 +87,12 @@ Seit 1998 ist die Etablierung entsprechender Regeln Voraussetzung für den Erhal
 2015 ergänzte die DFG diese mit **Leitlinien zum Umgang mit Forschungsdaten**, die die Anerkennung von Datenbereitstellung als wissenschaftliche Leistung fördern und disziplinübergreifend Standards etablieren sollen [5] [6].
 
 #### 3. **Fachspezifische Policies**
-Policies mit auf Fachcommunitys abgestimmten Standards. 
+Fachspezifische FDM-Policies definieren disziplinspezifische Standards und Anforderungen für den Umgang mit Forschungsdaten, angepasst an Besonderheiten fachlicher Bedarfe wie z.B. ethische Fragen einer Fachcommunity (z. B. Archäologie, Medizin, Biologie).
 
-*Beispiel:* Das Deutsche Archäologische Institut legte 2025 fest: „Die Wissenschaftlerinnen und Wissenschaftler […] setzen die FAIR-Prinzipien um und tragen für die Einhaltung der Empfehlungen der Deutschen Forschungsgemeinschaft (DFG) zur Sicherung guter wissenschaftlicher Praxis Sorge, [… Sie] verstärken ihre Bemühungen für eine Publikation aktueller und historischer Forschungsdaten" [7]
+
+Deutsches Archäologisches Institut (DAI), Data Policy: Legt spezifische Vorgaben für das Forschungsdatenmanagement in der Archäologie fest und ergänzt institutionelle Regeln um fachliche Anforderungen (z. B. Dokumentation von Grabungsdaten, Langzeitarchivierung, FAIR-Prinzipien).
+
+*Beispiel:* Konrket hält das DAI u.a. fest: „Die Wissenschaftlerinnen und Wissenschaftler […] setzen die FAIR-Prinzipien um und tragen für die Einhaltung der Empfehlungen der Deutschen Forschungsgemeinschaft (DFG) zur Sicherung guter wissenschaftlicher Praxis Sorge, [… Sie] verstärken ihre Bemühungen für eine Publikation aktueller und historischer Forschungsdaten" [7]
 
 #### 4. **Förderinstitutionen**
 Fördermittelgebende Einrichtungen machen FDM-Standards zur Auflage.
