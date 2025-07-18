@@ -80,7 +80,7 @@ Typische Aufgaben:
 **Gesellschaft für Universitäre Sammlungen (GfU)**  
 - DACH-weite Interessenvertretung  
 - AGs zu Sammlungserhalt, Objektlehre, Partizipation
-- \16. Jahrestagung in Berlin, 9. bis 11. Oktober 2025: Ist Sammeln noch zeitgemäß? https://gesellschaft-universitaetssammlungen.de/tagungen/
+- `16.` Jahrestagung in Berlin, 9. bis 11. Oktober 2025: Ist Sammeln noch zeitgemäß? https://gesellschaft-universitaetssammlungen.de/tagungen/
  
 ---
 
