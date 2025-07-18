@@ -66,9 +66,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 ### Definition
 
-„Unter Forschungsdatenpolicies werden Richtlinien verstanden, die für alle Mitarbeiterinnen und Mitarbeiter einer Institution (z. B. Hochschulinstitut) festschreiben, wie Forschungsdatenmanagement angegangen werden soll. Solche begleitenden Regelwerke (engl. policies) existieren nicht nur für wissenschaftliche Institutionen sondern auch für Förderorganisationen und sind mittlerweile eine wichtige Orientierungshilfe für den Umgang mit Forschungsdaten.“ 
-
-Quellenangabe [1]
+„Unter Forschungsdatenpolicies werden Richtlinien verstanden, die für alle Mitarbeiterinnen und Mitarbeiter einer Institution (z. B. Hochschulinstitut) festschreiben, wie Forschungsdatenmanagement angegangen werden soll. Solche begleitenden Regelwerke (engl. policies) existieren nicht nur für wissenschaftliche Institutionen sondern auch für Förderorganisationen und sind mittlerweile eine wichtige Orientierungshilfe für den Umgang mit Forschungsdaten.“ [1]
 
 #### Beispiel Univ. Mannheim
 
@@ -95,16 +93,13 @@ Quellenangabe
 
 „Eine Forschungsdaten-Policy enthält Vorgaben zum Umgang mit Forschungsdaten. Es gibt verschiedene Arten von Policies, zum Beispiel:
 
-* Zeitschriften- und Verlags-Policies
 * Institutionelle Policies
 * Projektspezifische Policies
 * Fachspezifische Policies
-* Policies von Forschungsförderern“ 
+* Policies von Förderinstitutionen
+* Zeitschriften- und Verlags-Policies [2]
 
------------
-Quellenangabe
-
-(T2T 5 S. 33)
+-------- 
 
 
 
@@ -247,6 +242,9 @@ Quellenangabe
 
 [1] https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/
 (https://www.usgs.gov/scientific-collections/usgs-policy-scientific-working-collections)
+
+[2] -----------
+Quellenangabe (T2T 5 S. 33)
 
 
 
