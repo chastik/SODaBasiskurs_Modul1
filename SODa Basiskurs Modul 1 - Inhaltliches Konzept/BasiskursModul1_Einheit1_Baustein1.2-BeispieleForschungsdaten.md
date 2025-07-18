@@ -52,12 +52,12 @@ Forschungsdaten entstehen in vielen Formen und in ganz unterschiedlichen Diszipl
 Sie können entweder direkt im Forschungsprozess erhoben oder aus vorhandenen Quellen abgeleitet werden.
 
 Beispiele für Forschungsdaten sind:
-- Messwerte aus einem Laborexperiment,
-- Interviews aus einer sozialwissenschaftlichen Studie,
-- Transkriptionen historischer Briefe,
-- GPS-Daten aus einer Feldstudie,
-- Bilder von Gewebeproben aus der Medizin,
-- Umfragedaten zur Mediennutzung.
+- Messwerte aus einem Laborexperiment
+- Interviews aus einer sozialwissenschaftlichen Studie
+- Transkriptionen historischer Briefe
+- GPS-Daten aus einer Feldstudie
+- Bilder von Gewebeproben aus der Medizin
+- Umfragedaten zur Mediennutzung
 
 ## 1.2.2 Beispiele für sammlungsspezifische Forschungsdaten
 
