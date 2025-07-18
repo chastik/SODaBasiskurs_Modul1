@@ -48,61 +48,62 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 ### Ziele der Forschungsdaten-Policies
 
-* Umgang mit Forschungsdaten standardisieren: Forschungsdaten-Policies bieten klaren Regeln für den Umgang mit Forschungsdaten und fördern so die Einhaltung der guten wissenschaftlichen Praxis 
-* Unterstützung der Forschenden bei der Verarbeitung von Forschungsdaten und Umsetzung der Richtlinien zu FDM
-* Klarheit über Zuständigkeiten, Rechte und Pflichten
-* Minimierung von Risiken bei der Verarbeitung von Forschungsdaten
-* Förderung von Transparenz, Wiederverwendbarkeit und FAIRness
-* Umsetzung institutioneller oder förderpolitischer Anforderungen
+Forschungsdaten-Policies dienen als Orientierungshilfen für den Umgang mit Forschungsdaten in Institutionen. Sie verfolgen folgende Ziele:
+
+- Standardisierung des Umgangs mit Forschungsdaten
+- Förderung guter wissenschaftlicher Praxis
+- Unterstützung von Forschenden bei der Datenverarbeitung
+- Klärung rechtlicher, organisatorischer und technischer Zuständigkeiten
+- Minimierung von Risiken (z. B. Datenverlust, Rechtsverstöße)
+- Sicherstellung von FAIRness (Findable, Accessible, Interoperable, Reusable)
+- Umsetzung von Anforderungen durch Förderer oder Institutionen [1]
 
 ### Definition
 
-„Unter Forschungsdatenpolicies werden Richtlinien verstanden, die für alle Mitarbeiterinnen und Mitarbeiter einer Institution (z. B. Hochschulinstitut) festschreiben, wie Forschungsdatenmanagement angegangen werden soll. Solche begleitenden Regelwerke (engl. policies) existieren nicht nur für wissenschaftliche Institutionen sondern auch für Förderorganisationen und sind mittlerweile eine wichtige Orientierungshilfe für den Umgang mit Forschungsdaten.“ [1]
+„Unter Forschungsdatenpolicies werden Richtlinien verstanden, die für alle Mitarbeiterinnen und Mitarbeiter einer Institution (z. B. Hochschulinstitut) festschreiben, wie Forschungsdatenmanagement angegangen werden soll. Solche begleitenden Regelwerke (engl. policies) existieren nicht nur für wissenschaftliche Institutionen sondern auch für Förderorganisationen und sind mittlerweile eine wichtige Orientierungshilfe für den Umgang mit Forschungsdaten.“ [2]
 
-#### Beispiel Univ. Mannheim
+### Arten von Forschungsdaten-Policies [vgl. 5]
 
-„Die Universität Mannheim möchte mit dieser Forschungsdaten-Policy den Mitgliedern der Universität **eine Orientierung im Umgang mit Forschungsdaten geben und leistungsfähige Strukturen für das Management von Forschungsdaten etablieren**. Ziel ist ein zukunftsfähiges, institutionelles Forschungsdatenmanagement, das die Mannheimer Fächer effektiv unterstützt und zur nachhaltigen Sichtbarkeit und Exzellenz ihrer Ergebnisse beiträgt.“ 
+Forschungsdaten-Policies unterscheiden sich nach Adressaten, Zweck und Kontext:
 
------------
-Quellenangabe
+#### 1. **Institutionelle Forschungsdaten-Policies**
+Richtlinien für den Umgang mit Forschungsdaten innerhalb einer Universität, Hochschule oder Forschungseinrichtung.
 
-(Policy der Uni Mannheim S. 3: https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/forschung/Forschungsdaten-Policy.pdf)
+##### *Beispiele Institutioneller Forschungsdaten-Policies:* 
 
+>„Die Universität Mannheim möchte mit dieser Forschungsdaten-Policy den Mitgliedern der Universität **eine Orientierung im Umgang mit Forschungsdaten geben und leistungsfähige Strukturen für das Management von Forschungsdaten etablieren**. Ziel ist ein zukunftsfähiges, institutionelles Forschungsdatenmanagement, das die Mannheimer Fächer effektiv unterstützt und zur nachhaltigen Sichtbarkeit und Exzellenz ihrer Ergebnisse beiträgt.“ [3]
 
-#### Beispiel Univ. Wien
+>„Diese Policy für Forschungsdatenmanagement hat das Ziel, **Forscher*innen bei der Verarbeitung von Forschungsdaten bestmöglich zu unterstützen und die Risiken bei der Verarbeitung von Forschungsdaten zu reduzieren**.“ [4]
 
-„Diese Policy für Forschungsdatenmanagement hat das Ziel, **Forscher*innen bei der Verarbeitung von Forschungsdaten bestmöglich zu unterstützen und die Risiken bei der Verarbeitung von Forschungsdaten zu reduzieren**.“ 
+#### 2. **Interdisziplinläre Policies**
 
+*Beispiel:*  Beispiel: DFG-Empfehlungen zur Sicherung guter wissenschaftlicher Praxis
 
------------
-Quellenangabe
+Die DFG formulierte 1997 in Reaktion auf Fälle wissenschaftlichen Fehlverhaltens 16 Empfehlungen zur Sicherung guter wissenschaftlicher Praxis. Eine zentrale Regel betrifft die **Datenhaltung**:
 
-(Forschungsdatenpolicy der Uni Wien https://rdm.univie.ac.at/de/fdm-policy-und-faq/)
+> „Primärdaten als Grundlagen für Veröffentlichungen sollen auf haltbaren und gesicherten Trägern in der Institution, wo sie entstanden sind, für zehn Jahre aufbewahrt werden.“  
+>  [zit. nach 5]
 
+Seit 1998 ist die Etablierung entsprechender Regeln Voraussetzung für den Erhalt von DFG-Mitteln.  
+2015 ergänzte die DFG diese mit **Leitlinien zum Umgang mit Forschungsdaten**, die die Anerkennung von Datenbereitstellung als wissenschaftliche Leistung fördern und disziplinübergreifend Standards etablieren sollen [5] [6].
 
-### Arten 
+#### 3. **Fachspezifische Policies**
+Policies mit auf Fachcommunitys abgestimmten Standards. 
 
-„Eine Forschungsdaten-Policy enthält Vorgaben zum Umgang mit Forschungsdaten. Es gibt verschiedene Arten von Policies, zum Beispiel:
+*Beispiel:* Das Deutsche Archäologische Institut legte 2025 fest: > „Die Wissenschaftlerinnen und Wissenschaftler […] setzen die FAIR-Prinzipien um und tragen für die Einhaltung der Empfehlungen der Deutschen Forschungsgemeinschaft (DFG) zur Sicherung guter wissenschaftlicher Praxis Sorge, […] verstärken ihre Bemühungen für eine Publikation aktueller und historischer Forschungsdaten" [7]
 
-* Institutionelle Policies
-* Projektspezifische Policies
-* Fachspezifische Policies
-* Policies von Förderinstitutionen
-* Zeitschriften- und Verlags-Policies [2]
+#### 4. **Förderinstitutionen**
+Fördermittelgebende Einrichtungen machen FDM-Standards zur Auflage.
+
+*Beispiel:* DFG-Leitlinien zum Umgang mit Forschungsdaten.
+
+#### 5. **Zeitschriften- und Verlags-Policies**
+Viele Fachzeitschriften verlangen die Veröffentlichung zugrundeliegender Forschungsdaten (Data Availability Statement).
+
+*Beispiel:* Nature, PLOS, Elsevier Journals.
 
 -------- 
 
-
-
-
-#### Beispiel (KI generiert) 
-
-Forschungsdaten Policies haben das Ziel, **den Umgang mit Forschungsdaten in einer Organisation oder Institution zu regulieren und zu standardisieren. Sie sollen sicherstellen, dass Forschungsdaten verantwortungsvoll und nach den Prinzipien der „guten wissenschaftlichen Praxis“ behandelt werden**. Dazu gehören beispielsweise die Sicherung und Archivierung der Daten, die Veröffentlichung und Nachnutzung, sowie die Einhaltung ethischer und rechtlicher Rahmenbedingungen. 
-
------------
-Quellenangabe
-
-(KI Google - Fragestellung: Was sind die Ziele von Forschungsdatenpolicies? erstellt am 2025.05.28)
 
 
 
@@ -230,12 +231,18 @@ Deutsches Archäologisches Institut (DAI): Data Policy. Online verfügbar unter:
 
 -----------
 Quellenangabe
+[1] (T2T 5 S. 33)
 
-[1] https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/
+[2] https://forschungsdaten.info/themen/ethik-und-gute-wissenschaftliche-praxis/leitlinien-und-policies/
 (https://www.usgs.gov/scientific-collections/usgs-policy-scientific-working-collections)
 
-[2] -----------
-Quellenangabe (T2T 5 S. 33)
+[3] Policy der Uni Mannheim S. 3: https://www.uni-mannheim.de/media/Einrichtungen/Abteilung_Kommunikation/Dokumente/forschung/Forschungsdaten-Policy.pdf
+
+[4] Forschungsdatenpolicy der Uni Wien https://rdm.univie.ac.at/de/fdm-policy-und-faq/
+
+[5] https://www.forschungsdaten.org/index.php/Data_Policies#DFG:_Empfehlungen_zur_Sicherung_guter_wissenschaftlicher_Praxis](https://www.forschungsdaten.org/index.php/Data_Policies#DFG:_Empfehlungen_zur_Sicherung_guter_wissenschaftlicher_Praxis
+
+[6] https://www.dfg.de/resource/blob/172112/4ea861510ea369157afb499e96fb359a/leitlinien-forschungsdaten-data.pdf
 
 
 
