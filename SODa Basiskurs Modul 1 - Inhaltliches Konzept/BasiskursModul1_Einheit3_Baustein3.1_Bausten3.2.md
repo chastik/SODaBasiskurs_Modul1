@@ -74,7 +74,7 @@ Typische Aufgaben:
 - ergänzen nationale Strukturen wie die NFDI durch bedarfsorientierte Unterstützung vor Ort
 
 **Nationale Forschungsdateninfrastruktur (NFDI)**  
-- Fachkonsortien, entwicklen Diensts  und Stadnarfds für die Wissenschaft, im Sammlungskontext relevant: u.a. NFDI4Culture, NFDI4Objects
+- Fachkonsortien, entwicklen Diensts  und Standards für die Wissenschaft, haben Helpdesks, im Sammlungskontext relevant: u.a. NFDI4Culture, NFDI4Objects
 - Community Cluster, arbeiten zu übergreifenden Themen z.B. Digitales Sammlungsmanagement, Digitale Provenienzforschung: [https://www.nfdi4objects.net/portal/ccs/](https://www.nfdi4objects.net/portal/ccs/)
 
 **Gesellschaft für Universitäre Sammlungen (GfU)**  
