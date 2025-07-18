@@ -49,15 +49,6 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 Herzlich willkommen zur ersten Einheit unseres SODa-Basiskurses!  
 Bevor wir in die Inhalte einsteigen, nehmen wir uns ein paar Minuten Zeit zum Ankommen, Kennenlernen und zur Orientierung.
 
-## Was erwartet Sie/Euch in dieser Einheit?
-
-**Ankommen, Netiquette, Überblick**: Die Workshopleiterinnen stellen sich vor und geben einen kurzen Einblick in den Kursablauf heute.
-
-**Kennenlernen und Vernetzung**: Ihr lernt Euch untereinander kennen. Der "Hashtag-Chat" gibt uns einen ersten Einblick in die Vielfalt der Gruppe. 
-
-**Vorwissen und Kontexte**: Durch die Klärung von Zuständigkeiten und rechtlichen Rahmenbedingungen schaffen sie Sicherheit für Forschende und Institutionen
-
-
 
 ## **Ankommen, Netiquette, Überblick**
 
