@@ -130,8 +130,23 @@ Ziele:
 -----------
 Quellenangaben
 
-[1] 
+[1] forschungsdaten.info: *FDM-Landesinitiativen und regionale Netzwerke*.  
+https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/deutschland/fdm-landesinitiativen-und-regionale-netzwerke (abgerufen am 18. Juli 2025)
 
+[2] forschungsdaten.info: *NFDI – Nationale Forschungsdateninfrastruktur*, 16. Januar 2025.  
+https://forschungsdaten.info/fdm-im-deutschsprachigen-raum/deutschland/nfdi-nationale-forschungsdateninfrastruktur/ (abgerufen am 18. Juli 2025)
+
+[3] NFDI4Objects: *Community Cluster*.  
+https://www.nfdi4objects.net/participate/community-cluster/ (abgerufen am 18. Juli 2025)
+
+[4] Gesellschaft für Universitäre Sammlungen: *Gesellschaft für universitäre Sammlungen*, 2023.  
+https://gesellschaft-universitaetssammlungen.de/wp-content/uploads/2023/10/Folder-GfU-Version.pdf (abgerufen am 18. Juli 2025)
+
+[5] Koordinierungsstelle wissenschaftliche Universitätssammlungen:  
+https://wissenschaftliche-sammlungen.de (abgerufen am 18. Juli 2025)
+
+[6] SODa Team:  
+https://sammlungen.io/team (abgerufen am 18. Juli 2025)
 
 
 
