@@ -46,23 +46,14 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 ---
 
+### Ziele der Forschungsdaten-Policies
 
-## Forschungsdaten-Policies 
-
-- **Verbindliche Orientierung**: Forschungsdaten-Policies bieten klaren Regeln für den Umgang mit Forschungsdaten und fördern so die Einhaltung der guten wissenschaftlichen Praxis 
-
-- **Strategische Steuerung**: Sie unterstützen Hochschulen bei der Entwicklung und Umsetzung institutioneller FDM-Strategien 
-
-- **Rechtssicherheit**: Durch die Klärung von Zuständigkeiten und rechtlichen Rahmenbedingungen schaffen sie Sicherheit für Forschende und Institutionen
-
-- **Nachhaltigkeit und Sichtbarkeit**: Forschungsdaten-Policies fördern die langfristige Archivierung und Nachnutzung von Forschungsdaten 
-
-### Ziele 
-
-* Umgang mit Forschungsdaten zu standardisieren
-* Sicherstellung, dass Forschungsdaten gemäß der GWP behandelt werden
+* Umgang mit Forschungsdaten standardisieren: Forschungsdaten-Policies bieten klaren Regeln für den Umgang mit Forschungsdaten und fördern so die Einhaltung der guten wissenschaftlichen Praxis 
 * Unterstützung der Forschenden bei der Verarbeitung von Forschungsdaten und Umsetzung der Richtlinien zu FDM
+* Klarheit über Zuständigkeiten, Rechte und Pflichten
 * Minimierung von Risiken bei der Verarbeitung von Forschungsdaten
+* Förderung von Transparenz, Wiederverwendbarkeit und FAIRness
+* Umsetzung institutioneller oder förderpolitischer Anforderungen
 
 ### Definition
 
