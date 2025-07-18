@@ -104,9 +104,9 @@ Fördermittelgebende Einrichtungen machen FDM-Standards zunehmend zur Voraussetz
 Die DFG fordert Antragstellende auf, bereits bei Projektbeginn Konzepte zur Datenerhebung, -nutzung und -archivierung zu formulieren. Zudem betont sie die Bedeutung der disziplinspezifischen Entwicklung von Standards und erkennt die Aufbereitung und Bereitstellung von Forschungsdaten als wissenschaftliche Leistung an. [8]
 
 #### 5. **Zeitschriften- und Verlags-Policies**
-Viele Fachzeitschriften verlangen die Veröffentlichung zugrundeliegender Forschungsdaten (Data Availability Statement).
+Viele Fachzeitschriften verlangen heute ein „Data Availability Statement“ und die Zugänglichmachung der Forschungsdaten, die einer Publikation zugrunde liegen.
 
-*Beispiel:* Nature, PLOS, Elsevier Journals.
+**Beispiel:** Die *American Geophysical Union (AGU)* verpflichtet Autor(innen) in ihrer *[AGU Publications Data Policy]([url](http://publications.agu.org/author-resource-center/publication-policies/data-policy/))*, relevante Forschungsdaten in geeigneten Repositorien zu archivieren oder, falls dies nicht möglich ist, mindestens fünf Jahre lang zugänglich zu halten. Daten, die nicht verlässlich verfügbar sind, dürfen nicht zitiert werden. Etwaige Einschränkungen bei der Datenverfügbarkeit müssen bereits bei der Einreichung eines Artikels mitgeteilt werden.
 
 -------- 
 
