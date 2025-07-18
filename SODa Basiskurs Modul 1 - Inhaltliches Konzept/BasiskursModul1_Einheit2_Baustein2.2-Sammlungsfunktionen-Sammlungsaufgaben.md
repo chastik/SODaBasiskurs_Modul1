@@ -42,7 +42,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 ## Funktionen wissenschaftlicher Universitätssammlungen
 
-Wissenschaftliche Universitätssammlungen sind Orte der Forschung, Lehre, Vermittlung und der Auseinandersetzung mit Geschichte und Verantwortung. Sie erfüllen die zentralen Aufgaben, die auch die ICOM-Definition für Museen beschreibt [1]. Universitätssammlungen erfüllen zentrale Aufgaben, die oft miteinander verknüpft sind:
+Wissenschaftliche Universitätssammlungen sind Orte der Forschung, Lehre, Vermittlung und der Auseinandersetzung mit Geschichte und Verantwortung. Sie erfüllen die zentralen Aufgaben, die auch die ICOM-Definition für Museen beschreibt:
 
 - sammeln  
 - bewahren  
