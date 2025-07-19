@@ -48,7 +48,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 Forschungsdatenmanagement ist zu einem zentralen Element guter wissenschaftlicher Praxis geworden. Während viele Hochschulen und Forschungsinstitutionen institutionelle oder projektbezogene Datenrichtlinien entwickeln, fehlt es bislang an spezifischen Regelungen für wissenschaftliche Sammlungen. Gerade in musealen und sammlungsbezogenen Kontexten stellt der Umgang mit Forschungsdaten besondere Anforderungen: Unterschiedliche Datentypen, historische Altbestände, rechtliche Unsicherheiten und komplexe Verantwortungsstrukturen erschweren eine systematische und nachhaltige Datenpraxis. [1]
 
-##**Lehrstelle**
+## **Lehrstelle**
 Für universitäre und außeruniversitäre Sammlungen fehlen bislang weitgehend strukturierte, verbindliche Policies, die den gesamten Lebenszyklus sammlungsbezogener Forschungsdaten abbilden. Dadurch bleibt die Datenhaltung oft individuell und projektgebunden organisiert mit Folgen für Sichtbarkeit, Nachnutzung und langfristige Sicherung. Eine Policy kann hier nicht nur Zuständigkeiten klären, sondern auch zu mehr Konsistenz, FAIRness und Anschlussfähigkeit beitragen.
 
 --- 
@@ -59,15 +59,15 @@ Für universitäre und außeruniversitäre Sammlungen fehlen bislang weitgehend 
 
 **Ist eine Policy für wissenschaftliche Sammlungen an Universitäten und Hochschulen notwendig?** 
 
-##**Praxisbeispiele: Wie könnte eine sammlungsspezifische Froschungsdaten-Policy aussehen?**
+## **Praxisbeispiele: Wie könnte eine sammlungsspezifische Froschungsdaten-Policy aussehen?**
 
-#**USGS Working Scientific Collections Lifecycle Guide**
+# **USGS Working Scientific Collections Lifecycle Guide**
 Der Guide der US Geological Survey beschreibt ein vollständig ausgearbeitetes, sammlungsspezifisches Policy-Modell. Die Richtlinie ist entlang des Lebenszyklus wissenschaftlicher Sammlungen strukturiert (Planung, Nutzung, Evaluation, Disposition) und benennt klare Zuständigkeiten, Dokumentationspflichten sowie unterstützende Tools wie den ReSciColl-Katalog [2].
 
-#**Forschungsdatenmanagement am Museum für Naturkunde Berlin (MfN)**
+# **Forschungsdatenmanagement am Museum für Naturkunde Berlin (MfN)**
 Das MfN Berlin hat ein modulares System von Basiskomponenten entwickelt, das unterschiedliche Datenarten, darunter Sammlungs-, Medien- oder Messdaten, miteinander verknüpft. Ziel ist eine standardisierte, interoperable und langfristig gesicherte Dateninfrastruktur. Das System umfasst neben Repositorien auch Erfassungs- und Auswertungswerkzeuge und stellt ein beispielhaftes Umsetzungsmodell für sammlungsbezogenes FDM dar [3].
 
-#**Open-Science-Policy des Deutschen Museums**
+# **Open-Science-Policy des Deutschen Museums**
 Das Deutsche Museum bezieht das Management und die Veröffentlichung von Forschungsdaten explizit in seine Open-Science-Policy ein. Die Policy empfiehlt die Umsetzung der FAIR-Prinzipien, den Einsatz geeigneter Repositorien und die langfristige Archivierung auch nicht veröffentlichter Daten. Sie verbindet forschungsnahe Praxis mit übergeordneten Prinzipien wie Open Access und Transparenz und schafft damit einen klaren Orientierungsrahmen für sammlungsbasierte Forschung [4].
 
 
