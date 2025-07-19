@@ -53,12 +53,6 @@ Für universitäre und außeruniversitäre Sammlungen fehlen bislang weitgehend 
 
 --- 
 
-## Umfrage
-
-**Ist eine Policy für wissenschaftliche Sammlungen an Universitäten und Hochschulen notwendig?** 
-
---- 
-
 ## **Praxisbeispiele: Wie könnte eine sammlungsspezifische Froschungsdaten-Policy aussehen?**
 
 ### **USGS Working Scientific Collections Lifecycle Guide**
@@ -69,6 +63,12 @@ Das MfN Berlin hat ein modulares System von Basiskomponenten entwickelt, das unt
 
 ### **Open-Science-Policy des Deutschen Museums**
 Das Deutsche Museum bezieht das Management und die Veröffentlichung von Forschungsdaten explizit in seine Open-Science-Policy ein. Die Policy empfiehlt die Umsetzung der FAIR-Prinzipien, den Einsatz geeigneter Repositorien und die langfristige Archivierung auch nicht veröffentlichter Daten. Sie verbindet forschungsnahe Praxis mit übergeordneten Prinzipien wie Open Access und Transparenz und schafft damit einen klaren Orientierungsrahmen für sammlungsbasierte Forschung [4].
+
+-----------
+
+## Umfrage
+
+**Ist eine Policy für wissenschaftliche Sammlungen an Universitäten und Hochschulen notwendig?** 
 
 
 -----------
