@@ -48,14 +48,14 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 Forschungsdatenmanagement ist zu einem zentralen Element guter wissenschaftlicher Praxis geworden. Während viele Hochschulen und Forschungsinstitutionen institutionelle oder projektbezogene Datenrichtlinien entwickeln, fehlt es bislang an spezifischen Regelungen für wissenschaftliche Sammlungen. Gerade in musealen und sammlungsbezogenen Kontexten stellt der Umgang mit Forschungsdaten besondere Anforderungen: Unterschiedliche Datentypen, historische Altbestände, rechtliche Unsicherheiten und komplexe Verantwortungsstrukturen erschweren eine systematische und nachhaltige Datenpraxis. [1]
 
-##**Lehrstelle** 
+##**Lehrstelle**
 Für universitäre und außeruniversitäre Sammlungen fehlen bislang weitgehend strukturierte, verbindliche Policies, die den gesamten Lebenszyklus sammlungsbezogener Forschungsdaten abbilden. Dadurch bleibt die Datenhaltung oft individuell und projektgebunden organisiert mit Folgen für Sichtbarkeit, Nachnutzung und langfristige Sicherung. Eine Policy kann hier nicht nur Zuständigkeiten klären, sondern auch zu mehr Konsistenz, FAIRness und Anschlussfähigkeit beitragen.
 
 --- 
 
-### Warum Policies speziell für Sammlungen?
+###Warum Policies speziell für Sammlungen?
 
-#### Umfrage
+####Umfrage
 
 **Ist eine Policy für wissenschaftliche Sammlungen an Universitäten und Hochschulen notwendig?** 
 
