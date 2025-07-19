@@ -106,7 +106,7 @@ Die DFG fordert Antragstellende auf, bereits bei Projektbeginn Konzepte zur Date
 #### 5. **Zeitschriften- und Verlags-Policies**
 Viele Fachzeitschriften verlangen heute ein „Data Availability Statement“ und die Zugänglichmachung der Forschungsdaten, die einer Publikation zugrunde liegen.
 
-**Beispiel:** Die *American Geophysical Union (AGU)* verpflichtet Autor(innen) in ihrer *[AGU Publications Data Policy]([url](http://publications.agu.org/author-resource-center/publication-policies/data-policy/))*, relevante Forschungsdaten in geeigneten Repositorien zu archivieren oder, falls dies nicht möglich ist, mindestens fünf Jahre lang zugänglich zu halten. Daten, die nicht verlässlich verfügbar sind, dürfen nicht zitiert werden. Etwaige Einschränkungen bei der Datenverfügbarkeit müssen bereits bei der Einreichung eines Artikels mitgeteilt werden.
+**Beispiel:** Die American Geophysical Union (AGU) verpflichtet Autor(innen) in ihrer [AGU Publications Data Policy]([url](http://publications.agu.org/author-resource-center/publication-policies/data-policy/)), relevante Forschungsdaten in geeigneten Repositorien zu archivieren oder, falls dies nicht möglich ist, mindestens fünf Jahre lang zugänglich zu halten. Daten, die nicht verlässlich verfügbar sind, dürfen nicht zitiert werden. Etwaige Einschränkungen bei der Datenverfügbarkeit müssen bereits bei der Einreichung eines Artikels mitgeteilt werden.
 
 -------- 
 
@@ -114,13 +114,6 @@ Viele Fachzeitschriften verlangen heute ein „Data Availability Statement“ un
 
 
 ### Institutionelle FDM-Policies
-
- ![Data Policies](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/FDMPolicies.png)<!--width="100%"-->
-
------------
-Quellenangabe
-
-(https://www.forschungsdaten.org/index.php/Data_Policies)
 
 #### Abfrage
 
@@ -147,10 +140,6 @@ Bildschirm-Memory:
 5. Verantwortlichkeiten
 6. Gültigkeit“ 
 
------------
-Quellenangabe
-
-(T2T 5 S. 35)
 
 ### FDM-Richtlinien für die Kernelemente
 
@@ -198,24 +187,12 @@ Folgende Policies enthalten in etwa die im T2T 5 genannten Elemente: Quelle: htt
     
 - Policy der Uni München: https://epub.ub.uni-muenchen.de/116800/1/Leitfaden_fuer_FDM_in_den_DH__Version1-2_.pdf
     
-
 - Policy der RWTH Aachen: https://www.rwth-aachen.de/cms/root/Forschung/Forschungsdatenmanagement/Forschungsdatenmanagement-an-der-RWTH/~ncfw/Leitlinie-zum-Forschungsdatenmanagement/
     
 - Policy der Hochschule Bremen: www.hs-bremen.de/assets/hsb/de/Dokumente/Referate/R02/Rechtssammlung/Qualitätssicherung/Forschungsdaten-Policy_der_Hochschule_Bremen__Fassung_Amtliche_Mitteilungen_der_HSB_2-2025_vom_2025-02-03_.pdf
 
 
-### Fachspezifische FDM-Policies
 
-Fachspezifische FDM-Policies definieren disziplinspezifische Standards und Anforderungen für den Umgang mit Forschungsdaten, angepasst an Besonderheiten fachlicher Bedarfe wie z.B. ethische Fragen einer Fachcommunity (z. B. Archäologie, Medizin, Biologie).
-
-**Beispiel** 
-
-Deutsches Archäologisches Institut (DAI), Data Policy: Legt spezifische Vorgaben für das Forschungsdatenmanagement in der Archäologie fest und ergänzt institutionelle Regeln um fachliche Anforderungen (z. B. Dokumentation von Grabungsdaten, Langzeitarchivierung, FAIR-Prinzipien).
-
------------
-Quellenangabe
-
-Deutsches Archäologisches Institut (DAI): Data Policy. Online verfügbar unter: https://www.dainst.org/data-policy
 
 #### Umfrage
 
@@ -259,5 +236,5 @@ https://www.forschungsdaten.org/index.php/Data_Policies#DFG:_Empfehlungen_zur_Si
 [8] Deutsche Forschungsgemeinschaft (DFG): *Leitlinien zum Umgang mit Forschungsdaten*, verabschiedet am 30.09.2015.  
 [https://www.forschungsdaten.org/index.php/Data_Policies#DFG:_Empfehlungen_zur_Sicherung_guter_wissenschaftlicher_Praxis](https://www.forschungsdaten.org/index.php/Data_Policies#DFG:_Empfehlungen_zur_Sicherung_guter_wissenschaftlicher_Praxis) (Abgerufen am 18. Juli 2025)
 
-
+[9] (T2T 5 S. 33, S. 35)
 
