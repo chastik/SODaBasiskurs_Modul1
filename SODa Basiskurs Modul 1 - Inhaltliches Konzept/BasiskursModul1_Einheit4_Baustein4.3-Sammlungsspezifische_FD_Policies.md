@@ -74,7 +74,7 @@ Das Deutsche Museum bezieht das Management und die Veröffentlichung von Forschu
 -----------
 Quellenangabe
 
-[1] Schreiner, K. (2021): Forschungsdaten im Museum. In: AKMB-news 27(2), S. 10–15. https://doi.org/10.11588/akmb.2021.2.84269
+[1] Schreiner, L. (2021): Forschungsdaten im Museum. Museumsbiblitohekarische Herangehesnweisen und Perspektiven, Stuttgart, https://hdms.bsz-bw.de/frontdoor/deliver/index/docId/6683/file/schreiner_2021_forschungsdaten_im_museum.pdf 
 
 [2] U.S. Geological Survey: USGS Working Scientific Collections Lifecycle Guide. 2022. https://www.usgs.gov/media/files/usgs-working-scientific-collections-lifecycle-guide
 
