@@ -50,10 +50,7 @@ Herzlich willkommen zur ersten Einheit unseres SODa-Basiskurses!
 Bevor wir in die Inhalte einsteigen, nehmen wir uns ein paar Minuten Zeit zum Ankommen, Kennenlernen und zur Orientierung.
 
 
-## **Ankommen, Netiquette, Überblick**
-
-### **Netiquette**
-<img width="6853" height="7149" alt="grafik" src="https://github.com/user-attachments/assets/c7260f4a-8c8f-4ed4-b43a-58a043ff0b47" />
+## **Ankommen, Ablauf, Netiquette**
 
 
 ### **Ablauf**
@@ -73,6 +70,8 @@ Bevor wir in die Inhalte einsteigen, nehmen wir uns ein paar Minuten Zeit zum An
 
 
 
+### **Netiquette**
+<img width="6853" height="7149" alt="grafik" src="https://github.com/user-attachments/assets/c7260f4a-8c8f-4ed4-b43a-58a043ff0b47" />
 
 -----------
 ## **Kennenlernen und Vernetzung**
