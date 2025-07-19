@@ -53,9 +53,9 @@ Für universitäre und außeruniversitäre Sammlungen fehlen bislang weitgehend 
 
 --- 
 
-###Warum Policies speziell für Sammlungen?
+### Warum Policies speziell für Sammlungen?
 
-####Umfrage
+### Umfrage
 
 **Ist eine Policy für wissenschaftliche Sammlungen an Universitäten und Hochschulen notwendig?** 
 
