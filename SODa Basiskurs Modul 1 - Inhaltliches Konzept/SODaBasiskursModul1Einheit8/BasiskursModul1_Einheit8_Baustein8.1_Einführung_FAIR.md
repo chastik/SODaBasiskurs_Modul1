@@ -24,9 +24,9 @@ comment:  WissKi SODA OERs
 
 **Einheit 6 – Sammlungsbezogener Forschungsdatenlebenszyklus**
 
-**Lernbaustein/EduBrick:: 8.2. Phasen des FDM-Zyklus**
+**Lernbaustein/EduBrick:: 8.1. FAIR Prinzipien**
 
-**Lernende können die Phasen des Forschungsdatenlebenszyklus erläutern. (LZ-ID 01_004_0080)**
+**8.1. Lernende können die FAIR-Prinzipien benennen. (LZ-ID 01_007_0117)**
 
 
-## 8.2. Phasen des FDM-Zyklus
+## 8.2. FAIR Prinzipien
