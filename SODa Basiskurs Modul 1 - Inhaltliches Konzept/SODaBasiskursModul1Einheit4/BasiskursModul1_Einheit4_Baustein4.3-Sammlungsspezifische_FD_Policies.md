@@ -55,11 +55,13 @@ Für universitäre und außeruniversitäre Sammlungen fehlen bislang weitgehend 
 
 ## **Praxisbeispiele: Wie könnte eine sammlungsspezifische Froschungsdaten-Policy aussehen?**
 
-### **USGS Working Scientific Collections Lifecycle Guide**
-Der Guide der US Geological Survey beschreibt ein vollständig ausgearbeitetes, sammlungsspezifisches Policy-Modell. Die Richtlinie ist entlang des Lebenszyklus wissenschaftlicher Sammlungen strukturiert (Planung, Erwerb, Nutzung, Evaluierung, Disposition) und benennt für jeden Schritt klare Workflows und Richtlinien. In der Policy wird u.a. festgelegt, dass alle Sammlungen einen Sammlungsplan benötigen. [2]
+### **Sammlungs(-management)plan der US Geological Survey**
+Der Sammlungs(-management)plan der US Geological Survey beschreibt einen vollständig ausgearbeiteten, sammlungsspezifisches Datenmanagementplan. Die Richtlinie ist entlang des Lebenszyklus wissenschaftlicher Sammlungen strukturiert (Planung, Erwerb, Nutzung, Evaluierung, Disposition) und benennt für jeden Schritt klare Workflows und Richtlinien. In der Policy wird u.a. festgelegt, dass alle Sammlungen einen Sammlungsplan benötigen. [2]
 
 ### **Open-Science-Policy des Deutschen Museums**
 Das Deutsche Museum bezieht das Management und die Veröffentlichung von Forschungsdaten explizit in seine Open-Science-Policy ein. Die Policy empfiehlt die Umsetzung der FAIR-Prinzipien, den Einsatz geeigneter Repositorien und die langfristige Archivierung auch nicht veröffentlichter Daten. Sie verbindet forschungsnahe Praxis mit übergeordneten Prinzipien wie Open Access und Transparenz und schafft damit einen klaren Orientierungsrahmen für sammlungsbasierte Forschung. [3]
+
+### **Sammlungs(-management)plan des Stanley Museum of Art der University of Iowa 
 
 -----------
 
