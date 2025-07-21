@@ -76,7 +76,7 @@ Quellenangabe
 
 [1] Schreiner, L. (2021): Forschungsdaten im Museum. Museumsbiblitohekarische Herangehesnweisen und Perspektiven, Stuttgart, https://hdms.bsz-bw.de/frontdoor/deliver/index/docId/6683/file/schreiner_2021_forschungsdaten_im_museum.pdf 
 
-[2] U.S. Geological Survey: USGS Working Scientific Collections Lifecycle Guide. 2022. https://www.usgs.gov/media/files/usgs-working-scientific-collections-lifecycle-guide
+[2] U.S. Geological Survey: USGS Working Scientific Collections Lifecycle Guide. 2022. [https://www.usgs.gov/media/files/usgs-working-scientific-collections-lifecycle-guide](https://www.usgs.gov/scientific-collections/guide-planning-and-managing-scientific-working-collections-us-geological)
 
 [3] Museum für Naturkunde Berlin: Forschungsdaten-Infrastruktur. https://www.museumfuernaturkunde.berlin/de/forschung/infrastruktur/forschungsdaten-infrastruktur (Abruf: 18. Juli 2025)
 
