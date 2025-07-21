@@ -48,7 +48,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 Forschungsdatenmanagement ist zu einem zentralen Element guter wissenschaftlicher Praxis geworden. Während viele Hochschulen und Forschungsinstitutionen institutionelle oder projektbezogene Datenrichtlinien entwickeln, fehlt es bislang an spezifischen Regelungen für wissenschaftliche Sammlungen. Gerade in musealen und sammlungsbezogenen Kontexten stellt der Umgang mit Forschungsdaten besondere Anforderungen: Unterschiedliche Datentypen, historische Altbestände, rechtliche Unsicherheiten und komplexe Verantwortungsstrukturen erschweren eine systematische und nachhaltige Datenpraxis. [1]
 
-## **Lehrstelle**
+## **Leerstelle**
 Für universitäre und außeruniversitäre Sammlungen fehlen bislang weitgehend strukturierte, verbindliche Policies, die den gesamten Lebenszyklus sammlungsbezogener Forschungsdaten abbilden. Dadurch bleibt die Datenhaltung oft individuell und projektgebunden organisiert mit Folgen für Sichtbarkeit, Nachnutzung und langfristige Sicherung. Eine Policy kann hier nicht nur Zuständigkeiten klären, sondern auch zu mehr Konsistenz, FAIRness und Anschlussfähigkeit beitragen.
 
 --- 
@@ -58,11 +58,8 @@ Für universitäre und außeruniversitäre Sammlungen fehlen bislang weitgehend 
 ### **USGS Working Scientific Collections Lifecycle Guide**
 Der Guide der US Geological Survey beschreibt ein vollständig ausgearbeitetes, sammlungsspezifisches Policy-Modell. Die Richtlinie ist entlang des Lebenszyklus wissenschaftlicher Sammlungen strukturiert (Planung, Erwerb, Nutzung, Evaluierung, Disposition) und benennt für jeden Schritt klare Workflows und Richtlinien. In der Policy wird u.a. festgelegt, dass alle Sammlungen einen Sammlungsplan benötigen. [2]
 
-### **Forschungsdatenmanagement am Museum für Naturkunde Berlin (MfN)**
-Das MfN Berlin hat ein modulares System von Basiskomponenten entwickelt, das unterschiedliche Datenarten, darunter Sammlungs-, Medien- oder Messdaten, miteinander verknüpft. Ziel ist eine standardisierte, interoperable und langfristig gesicherte Dateninfrastruktur. Das System umfasst neben Repositorien auch Erfassungs- und Auswertungswerkzeuge und stellt ein beispielhaftes Umsetzungsmodell für sammlungsbezogenes FDM dar. [3]
-
 ### **Open-Science-Policy des Deutschen Museums**
-Das Deutsche Museum bezieht das Management und die Veröffentlichung von Forschungsdaten explizit in seine Open-Science-Policy ein. Die Policy empfiehlt die Umsetzung der FAIR-Prinzipien, den Einsatz geeigneter Repositorien und die langfristige Archivierung auch nicht veröffentlichter Daten. Sie verbindet forschungsnahe Praxis mit übergeordneten Prinzipien wie Open Access und Transparenz und schafft damit einen klaren Orientierungsrahmen für sammlungsbasierte Forschung. [4]
+Das Deutsche Museum bezieht das Management und die Veröffentlichung von Forschungsdaten explizit in seine Open-Science-Policy ein. Die Policy empfiehlt die Umsetzung der FAIR-Prinzipien, den Einsatz geeigneter Repositorien und die langfristige Archivierung auch nicht veröffentlichter Daten. Sie verbindet forschungsnahe Praxis mit übergeordneten Prinzipien wie Open Access und Transparenz und schafft damit einen klaren Orientierungsrahmen für sammlungsbasierte Forschung. [3]
 
 -----------
 
@@ -78,8 +75,6 @@ Quellenangabe
 
 [2] U.S. Geological Survey: USGS Working Scientific Collections Lifecycle Guide. 2022. [https://www.usgs.gov/media/files/usgs-working-scientific-collections-lifecycle-guide](https://www.usgs.gov/scientific-collections/guide-planning-and-managing-scientific-working-collections-us-geological)
 
-[3] Museum für Naturkunde Berlin: Forschungsdaten-Infrastruktur. https://www.museumfuernaturkunde.berlin/de/forschung/infrastruktur/forschungsdaten-infrastruktur (Abruf: 18. Juli 2025)
-
-[4] Deutsches Museum: Open-Science-Policy. Stand: September 2023. [https://www.deutsches-museum.de/fileadmin/Content/010_DM/030_Forschung/020_Open_Science/Open-Science-Policy_DM.pdf](https://www.deutsches-museum.de/assets/Forschung/Bibliothek/Download/pdfs/Open-Science-Policy_Deutsches-Museum_September2023.pdf)
+[3] Deutsches Museum: Open-Science-Policy. Stand: September 2023. [https://www.deutsches-museum.de/fileadmin/Content/010_DM/030_Forschung/020_Open_Science/Open-Science-Policy_DM.pdf](https://www.deutsches-museum.de/assets/Forschung/Bibliothek/Download/pdfs/Open-Science-Policy_Deutsches-Museum_September2023.pdf)
 
 
