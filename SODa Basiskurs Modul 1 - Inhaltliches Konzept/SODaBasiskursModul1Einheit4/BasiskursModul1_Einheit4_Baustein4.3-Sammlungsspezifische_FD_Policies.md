@@ -62,8 +62,7 @@ Der Sammlungs(-management)plan der US Geological Survey beschreibt einen vollst�
 Das Deutsche Museum bezieht das Management und die Veröffentlichung von Forschungsdaten explizit in seine Open-Science-Policy ein. Die Policy empfiehlt die Umsetzung der FAIR-Prinzipien, den Einsatz geeigneter Repositorien und die langfristige Archivierung auch nicht veröffentlichter Daten. Sie verbindet forschungsnahe Praxis mit übergeordneten Prinzipien wie Open Access und Transparenz und schafft damit einen klaren Orientierungsrahmen für sammlungsbasierte Forschung. [3]
 
 ### Sammlungs(-management)plan des Stanley Museum of Art der University of Iowa 
-
-[4]
+Der Sammlungsplan des Stanley Museum of Art zeigt exemplarisch, wie sammlungsspezifische Strategien entwickelt und dokumentiert werden können. Er enthält klare Richtlinien zur Sammlungspflege, Erwerbung, Nutzung, Zugänglichkeit, Provenienzforschung, Digitalisierung und Zusammenarbeit mit universitären Partnern. Der Plan betont zudem die Rolle der Sammlung in Forschung und Lehre.[4]
 
 -----------
 
