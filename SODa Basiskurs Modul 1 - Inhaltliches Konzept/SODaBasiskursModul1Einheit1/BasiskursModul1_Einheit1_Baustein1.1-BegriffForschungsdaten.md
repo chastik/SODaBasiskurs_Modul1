@@ -40,7 +40,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 **Modul 1: Sammlungs- und Objektdaten als Forschungsdaten managen**
 
-**Einheit 1: FDN Grundlagen in wissenschaftlichen Universitätssammlungen**
+**Einheit 1: FDM Grundlagen in wissenschaftlichen Universitätssammlungen**
 
 **EduBrick: 1.1. Begriff "Forschungsdaten"**
 
