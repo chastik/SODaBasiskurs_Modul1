@@ -80,6 +80,6 @@ Quellenangabe
 
 [3] Museum für Naturkunde Berlin: Forschungsdaten-Infrastruktur. https://www.museumfuernaturkunde.berlin/de/forschung/infrastruktur/forschungsdaten-infrastruktur (Abruf: 18. Juli 2025)
 
-[4] Deutsches Museum: Open-Science-Policy. Stand: September 2023. https://www.deutsches-museum.de/fileadmin/Content/010_DM/030_Forschung/020_Open_Science/Open-Science-Policy_DM.pdf
+[4] Deutsches Museum: Open-Science-Policy. Stand: September 2023. [https://www.deutsches-museum.de/fileadmin/Content/010_DM/030_Forschung/020_Open_Science/Open-Science-Policy_DM.pdf](https://www.deutsches-museum.de/assets/Forschung/Bibliothek/Download/pdfs/Open-Science-Policy_Deutsches-Museum_September2023.pdf)
 
 
