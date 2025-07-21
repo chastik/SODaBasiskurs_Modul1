@@ -63,6 +63,8 @@ Das Deutsche Museum bezieht das Management und die Veröffentlichung von Forschu
 
 ### Sammlungs(-management)plan des Stanley Museum of Art der University of Iowa 
 
+[4]
+
 -----------
 
 ## Umfrage
@@ -78,5 +80,7 @@ Quellenangabe
 [2] U.S. Geological Survey: USGS Working Scientific Collections Lifecycle Guide. 2022. [https://www.usgs.gov/media/files/usgs-working-scientific-collections-lifecycle-guide](https://www.usgs.gov/scientific-collections/guide-planning-and-managing-scientific-working-collections-us-geological)
 
 [3] Deutsches Museum: Open-Science-Policy. Stand: September 2023. [https://www.deutsches-museum.de/fileadmin/Content/010_DM/030_Forschung/020_Open_Science/Open-Science-Policy_DM.pdf](https://www.deutsches-museum.de/assets/Forschung/Bibliothek/Download/pdfs/Open-Science-Policy_Deutsches-Museum_September2023.pdf)
+
+[4] https://stanleymuseum.uiowa.edu/sites/stanleymuseum.uiowa.edu/files/2022-05/2020-2030-Collection-Plan-UI-Stanley-Museum-of-Art.pdf
 
 
