@@ -30,3 +30,28 @@ comment:  WissKi SODA OERs
 
 
 ## 8.2. FAIR Prinzipien
+
+Die FAIR Prinzipien wurden erstmals 2016 (Wilkinson et al., 2016) veröffentlicht und stehen für: 
+
+![](https://github.com/chastik/Beratung_Dateityp_Bild/blob/main/1024px-FAIR_data_principles.jpg)<!--width="100%"--> SangyaPundir, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+
+
+** Der Datenbegriff**
+
+(How to FAIR) **"Data"** refers in this context to all kinds of digital objects that are produced in research: research data in the strictest sense, code, software, presentations, etc. However, for the sake of simplicity, we use "data" and not "digital research objects" on this website.
+
+(Glossar der Lernzielmatrix zum FDM) **Daten** sind (analoge oder digitale) Objekte und Zeichen, zum Beispiel Bilder, Messergebnisse oder Wörter, die in jeder denkbaren Form Grundlage für die Informationsgewinnung sein können. Daten können strukturiert oder unstrukturiert vorliegen. (vgl. Persike, 2023)
+
+### Aufgabe
+
+Welche Daten fallen bei euch an?
+Zuruf/Chatsturm
+Plenum
+Zeit 1 Min.
+
+-----------
+Quellenangaben
+
+(Wilkinson et al., 2016) Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18
+
+Center for Digital Research Infrastructure: What is FAIR?, in: HowtoFAIR.dk, 2022, URL: https://howtofair.dk/what-is-fair/ (letzter Zugriff: [Datum einfügen])
