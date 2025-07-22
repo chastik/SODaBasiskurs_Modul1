@@ -76,7 +76,7 @@ Richtlinien für den Umgang mit Forschungsdaten innerhalb einer Universität, Ho
 „Diese Policy für Forschungsdatenmanagement hat das Ziel, **Forscher*innen bei der Verarbeitung von Forschungsdaten bestmöglich zu unterstützen und die Risiken bei der Verarbeitung von Forschungsdaten zu reduzieren**.“ [4]
 
 #### 2. **Interdisziplinläre Policies**
-Interdisziplinäre Policies richten sich nicht an einzelne Fachrichtungen, sondern setzen übergreifende Standards für den Umgang mit Forschungsdaten, z.B. zur Guten Wissenschaftlichen Praxis.
+Interdisziplinäre Policies richten sich nicht an einzelne Fachrichtungen, sondern setzen übergreifende Standards für den Umgang mit Forschungsdaten, z.B. zur Guten Wissenschaftlichen Praxis. Mitunter machen fördermittelgebende Einrichtungen derartige Policies zur Voraussetzung einer Förderung von Forschungsvorhaben. 
 
 *Beispiel:*  Beispiel: DFG-Empfehlungen zur Sicherung guter wissenschaftlicher Praxis: Die DFG formulierte 1997 in Reaktion auf Fälle wissenschaftlichen Fehlverhaltens 16 Empfehlungen zur Sicherung guter wissenschaftlicher Praxis. Diese werden in Einheit X noch thematisiert. [5]
 
