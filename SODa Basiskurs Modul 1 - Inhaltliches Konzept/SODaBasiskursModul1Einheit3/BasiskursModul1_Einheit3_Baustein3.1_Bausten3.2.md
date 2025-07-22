@@ -51,7 +51,6 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 ### **Vor Ort**
 
 **FDM-Servicestellen, Data Stewards, Bibliotheken**  
-Typische Aufgaben:
 - Beratung zu DMP, FAIR-Prinzipien, Standards
 - Wahl geeigneter Repositorien
 - Publikation und Lizenzierung
