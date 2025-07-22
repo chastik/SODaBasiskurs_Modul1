@@ -57,6 +57,15 @@ Zeitbedarf: ca. 3 Min.
 * Citizen Science (Bürgerwissenschaft): Beteiligung von Bürger:innen an wissenschaftlicher Forschung (z. B. bei Datenerhebung, Auswertung oder Kommunikation) 
 
 
+### Aufgabe
+
+Zuruf: Wer kennt gut Beispiele?
+
+Plenum
+
+Zeitbedarf: ca. 30 Sekunden
+
+
 ### Beispiele aus wissenschaftlichen Universitätssammlungen
 
 **Open Science Praktiken in wissenschaftlichen Universitätssammlungen**
