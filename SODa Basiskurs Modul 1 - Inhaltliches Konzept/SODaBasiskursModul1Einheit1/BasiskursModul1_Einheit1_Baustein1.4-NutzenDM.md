@@ -48,7 +48,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 ## 1.4 Nutzen von Forschungsdatenmanagement
 
-Am Beispiel der *Scary Tale* wird deutlich, wie FDM konkret helfen kann:
+Am Beispiel der Scary Tale wird deutlich, wie FDM konkret helfen kann:
 
 | **Nutzen**                          | **Beispiel**                                                                 |
 |------------------------------------|------------------------------------------------------------------------------|
