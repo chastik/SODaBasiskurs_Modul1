@@ -28,7 +28,22 @@ comment:  WissKi SODA OERs
 
 **Lernende können die Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID 01_004_0079)**
 
-## 6.1. Phasen des Sammlungsbezogenen Forschungsdatenlebenszyklus
+## 6.1. Phasen des FDM-Zyklus 
+
+### Aufgabe
+
+Fortsetzung Frames auf Miroboard
+
+Praxistest: Zyklusarbeit mit Lückennanalyse
+
+*Ein Museum besitzt eine Sammlung von ca. 1.200 historischen Fotografien aus der Kolonialzeit (1880–1920) mit handschriftlichen Vermerken. Ziel ist die Digitalisierung, semantische Erschließung und FAIR-gerechte Publikation zur wissenschaftlichen Nachnutzung.*
+
+Kleingruppen  
+
+Zeitbedarf: ca. 3 Min.
+
+
+## Phasen des Datenlebenszyklus von Sammlungs- und Objektdaten in SODa
 
 1. Konzeption & Planung von Erschließungs- und Digitalisierungsvorhaben (Management & Tools)
 2. Strukturiertes Erzeugen von Objekt- und Sammlungsdaten
