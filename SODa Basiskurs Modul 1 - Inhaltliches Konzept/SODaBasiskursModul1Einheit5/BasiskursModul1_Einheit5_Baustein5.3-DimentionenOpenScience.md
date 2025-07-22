@@ -81,7 +81,6 @@ Zeitbedarf: ca. 30 Sekunden
 
 ### Weitere Beispiele
 
-
 **1. Open Access**
 * Deutschland: Open Access LMU – Institutionelles Repositorium der Universität München mit Beratung und Infrastruktur
 * International: PubMed Central – Offene Plattform für biomedizinische Forschung der US National Institutes of Health
@@ -109,6 +108,7 @@ Zeitbedarf: ca. 30 Sekunden
 **7. Citizen Science**
 * Deutschland: Bürger schaffen Wissen – Nationale Plattform für Citizen-Science-Projekte
 * International: Zooniverse – Weltweit genutzte Plattform für bürgerwissenschaftliche Forschung (Astronomie, Biologie, Geschichte etc.)
+
 
 
 -----------
