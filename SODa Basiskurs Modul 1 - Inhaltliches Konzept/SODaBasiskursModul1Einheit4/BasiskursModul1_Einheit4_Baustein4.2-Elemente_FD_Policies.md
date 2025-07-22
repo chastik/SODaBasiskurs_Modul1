@@ -50,17 +50,6 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 ![Bestandteile einer institutionellen FDM-Policy](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/FDMPolicies-Elemente.png)<!--width="100%"-->
 
-
-„Elemente einer institutionellen Forschungsdaten-Policy:
-
-1. Präambel
-2. Geltungsbereich
-3. Rechtliche Aspekte
-4. Umgang mit Forschungsdaten
-5. Verantwortlichkeiten
-6. Gültigkeit“ 
-
-
 ### FDM-Richtlinien für die Kernelemente
 
 * Eine Definition des Begriffs Forschungsdaten
