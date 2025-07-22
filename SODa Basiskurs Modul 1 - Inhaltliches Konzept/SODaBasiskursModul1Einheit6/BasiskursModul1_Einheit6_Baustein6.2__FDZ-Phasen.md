@@ -40,7 +40,7 @@ In der folgenden Übersicht werden die Phasen des sammlungsbezogenen Forschungsd
 | 3         | **Datenqualität & Kompatibilität**                                   |  **Digitale Provenienzforschung (Konzepte und Tools)** und **Konservierungs- und Restaurierungsdokumentation**: Objektbiografien, Transferwege, semantische Modellierung |
 | 5         | **Rechtliche & ethische Aspekte**                                    |  **Analyse & (Nach)Nutzung** |
 | 6         | **Langzeitverfügbarkeit (nach FAIR-Prinzipien)**                     |  **Digitale Provenienzforschung (Konzepte und Tools)** und **Konservierungs- und Restaurierungsdokumentation** |
-| 7         | **Analyse & Nachnutzung strukturierter Objektdaten**                 | **Analysieren & (Nach)Nutzen auf Basis von strukturierten Daten**  |
+
 
 
 
