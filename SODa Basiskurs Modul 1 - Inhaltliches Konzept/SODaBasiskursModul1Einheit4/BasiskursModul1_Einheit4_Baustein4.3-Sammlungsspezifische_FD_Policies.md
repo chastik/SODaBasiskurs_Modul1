@@ -68,7 +68,6 @@ Der Sammlungsplan des Stanley Museum of Art zeigt exemplarisch, wie sammlungsspe
 
 ## Umfrage
 
-**Ist eine Policy für wissenschaftliche Sammlungen an Universitäten und Hochschulen notwendig?** 
 
 
 -----------
