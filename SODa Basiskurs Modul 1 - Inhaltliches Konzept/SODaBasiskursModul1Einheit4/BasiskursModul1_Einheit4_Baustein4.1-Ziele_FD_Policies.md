@@ -113,7 +113,7 @@ Viele Fachzeitschriften verlangen heute ein „Data Availability Statement“ un
 
 #### Abfrage
 
-**Hat Ihre Institution eine Forschungsdaten-Policy?**
+**Hat Eure Institution eine Forschungsdaten-Policy?**
 
 Bildschirm-Memory:
 
