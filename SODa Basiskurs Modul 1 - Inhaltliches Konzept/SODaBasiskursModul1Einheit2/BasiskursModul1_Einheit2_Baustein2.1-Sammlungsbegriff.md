@@ -60,9 +60,9 @@ Ich stelle euch gleich drei Situationen vor, jeweils eine kurze Beschreibung. Eu
 
 So funktioniert die Abstimmung:
 
-Kamera AN: Ja, das ist für mich eine Sammlung.
-Kamera AUS: Nein, das sehe ich nicht als Sammlung.
-Kamera WECHSELN (an/aus): unentschieden, kommt darauf an.
+Kamera AN: Ja, das ist für mich eine Sammlung. <br>
+Kamera AUS: Nein, das sehe ich nicht als Sammlung. <br>
+Kamera WECHSELN (an/aus): unentschieden, kommt darauf an. <br>
 
 - Ist ein lokal gespeicherter Ordner einer Professorin der Kunstgeschichte, in dem sie hunderte Ausstellungsbesuche dokumentiert hat (mit Fotografien, Notizen, digitalisierten Flyern und Zeitungsausschnitten), eine Sammlung?
 - Sind umfangreiche anatomischen Lehrtafeln aus dem 19. Jahrhundert, die heute in einem ungenutzten Nebenraum eines Medizingebäudes lagern, eine Sammlung?
