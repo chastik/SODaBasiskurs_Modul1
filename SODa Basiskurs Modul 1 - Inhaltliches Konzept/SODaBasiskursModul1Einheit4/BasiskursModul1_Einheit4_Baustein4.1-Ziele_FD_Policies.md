@@ -75,7 +75,15 @@ Richtlinien für den Umgang mit Forschungsdaten innerhalb einer Universität, Ho
 
 „Diese Policy für Forschungsdatenmanagement hat das Ziel, **Forscher*innen bei der Verarbeitung von Forschungsdaten bestmöglich zu unterstützen und die Risiken bei der Verarbeitung von Forschungsdaten zu reduzieren**.“ [4]
 
-#### 2. **Interdisziplinläre Policies**
+
+#### 2. **Fachspezifische Policies**
+Fachspezifische Policies definieren disziplinspezifische Standards und Anforderungen für den Umgang mit Forschungsdaten, angepasst an Besonderheiten fachlicher Bedarfe wie z.B. ethische Fragen einer Fachcommunity.
+
+Deutsches Archäologisches Institut (DAI), Data Policy: Legt spezifische Vorgaben für das Forschungsdatenmanagement in der Archäologie fest und ergänzt institutionelle Regeln um fachliche Anforderungen (z. B. Dokumentation von Grabungsdaten, Langzeitarchivierung, FAIR-Prinzipien).
+
+*Beispiel:* Konrket hält das DAI u.a. fest: „Die Wissenschaftlerinnen und Wissenschaftler […] setzen die FAIR-Prinzipien um und tragen für die Einhaltung der Empfehlungen der Deutschen Forschungsgemeinschaft (DFG) zur Sicherung guter wissenschaftlicher Praxis Sorge, [… Sie] verstärken ihre Bemühungen für eine Publikation aktueller und historischer Forschungsdaten" [7]
+
+#### 3. **Interdisziplinläre Policies**
 Interdisziplinäre Policies richten sich nicht an einzelne Fachrichtungen, sondern setzen übergreifende Standards für den Umgang mit Forschungsdaten, z.B. zur Guten Wissenschaftlichen Praxis. Mitunter machen fördermittelgebende Einrichtungen derartige Policies zur Voraussetzung einer Förderung von Forschungsvorhaben. 
 
 *Beispiel:*  Beispiel: DFG-Empfehlungen zur Sicherung guter wissenschaftlicher Praxis: Die DFG formulierte 1997 in Reaktion auf Fälle wissenschaftlichen Fehlverhaltens 16 Empfehlungen zur Sicherung guter wissenschaftlicher Praxis. Diese werden in Einheit X noch thematisiert. [5]
@@ -83,23 +91,13 @@ Interdisziplinäre Policies richten sich nicht an einzelne Fachrichtungen, sonde
 Seit 1998 ist die Etablierung entsprechender Regeln Voraussetzung für den Erhalt von DFG-Mitteln.  
 2015 ergänzte die DFG diese mit **Leitlinien zum Umgang mit Forschungsdaten**, die die Anerkennung von Datenbereitstellung als wissenschaftliche Leistung fördern und disziplinübergreifend Standards etablieren sollen [5] [6].
 
-#### 3. **Fachspezifische Policies**
-Fachspezifische Policies definieren disziplinspezifische Standards und Anforderungen für den Umgang mit Forschungsdaten, angepasst an Besonderheiten fachlicher Bedarfe wie z.B. ethische Fragen einer Fachcommunity.
-
-Deutsches Archäologisches Institut (DAI), Data Policy: Legt spezifische Vorgaben für das Forschungsdatenmanagement in der Archäologie fest und ergänzt institutionelle Regeln um fachliche Anforderungen (z. B. Dokumentation von Grabungsdaten, Langzeitarchivierung, FAIR-Prinzipien).
-
-*Beispiel:* Konrket hält das DAI u.a. fest: „Die Wissenschaftlerinnen und Wissenschaftler […] setzen die FAIR-Prinzipien um und tragen für die Einhaltung der Empfehlungen der Deutschen Forschungsgemeinschaft (DFG) zur Sicherung guter wissenschaftlicher Praxis Sorge, [… Sie] verstärken ihre Bemühungen für eine Publikation aktueller und historischer Forschungsdaten" [7]
-
-#### 4. **Förderinstitutionen**
-Fördermittelgebende Einrichtungen machen FDM-Standards zunehmend zur Voraussetzung für die Förderung von Forschungsvorhaben. Dabei spielen institutionelle Leitlinien und disziplinspezifische Anforderungen eine zentrale Rolle.
-
 **Beispiel: DFG – Leitlinien zum Umgang mit Forschungsdaten**
 
 „Die langfristige Sicherung und Bereitstellung der Forschungsdaten leistet einen Beitrag zur Nachvollziehbarkeit und Qualität der wissenschaftlichen Arbeit und eröffnet wichtige Anschlussmöglichkeiten für die weitere Forschung.“
 
 Die DFG fordert Antragstellende auf, bereits bei Projektbeginn Konzepte zur Datenerhebung, -nutzung und -archivierung zu formulieren. Zudem betont sie die Bedeutung der disziplinspezifischen Entwicklung von Standards und erkennt die Aufbereitung und Bereitstellung von Forschungsdaten als wissenschaftliche Leistung an. [8]
 
-#### 5. **Zeitschriften- und Verlags-Policies**
+#### 4. **Zeitschriften- und Verlags-Policies**
 Viele Fachzeitschriften verlangen heute ein „Data Availability Statement“ und die Zugänglichmachung der Forschungsdaten, die einer Publikation zugrunde liegen.
 
 **Beispiel:** Die American Geophysical Union (AGU) verpflichtet Autor(innen) in ihrer [AGU Publications Data Policy]([url](http://publications.agu.org/author-resource-center/publication-policies/data-policy/)), relevante Forschungsdaten in geeigneten Repositorien zu archivieren oder, falls dies nicht möglich ist, mindestens fünf Jahre lang zugänglich zu halten. Daten, die nicht verlässlich verfügbar sind, dürfen nicht zitiert werden. Etwaige Einschränkungen bei der Datenverfügbarkeit müssen bereits bei der Einreichung eines Artikels mitgeteilt werden.
