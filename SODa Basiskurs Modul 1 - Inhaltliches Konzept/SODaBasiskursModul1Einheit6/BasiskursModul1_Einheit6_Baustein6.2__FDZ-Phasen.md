@@ -31,6 +31,8 @@ comment:  WissKi SODA OERs
 
 ## 6.2. Beschreibung des FDM-Zyklus
 
+In der folgenden Übersicht werden die Phasen des sammlungsbezogenen Forschungsdatenmanagement-Zyklus (FDM-Zyklus) nach SODa dargestellt und mit konkreten forschungspraktischen Aktivitäten verknüpft, die durch SODa-Fachexpertisen unterstützt werden.
+
 | Phase Nr. | Zyklusphase in SODa | Forschungspraktische Aktivitäten unterstützt von SODa Fachexpertisen |
 |-----------|-----------------------------------------------------------------------|---------------------|
 | 1         | **Konzeption & Planung von Erschließungs- und Digitalisierungsvorhaben** | **Digitale Provenienzforschung (Konzepte und Tools)**, **Konservierungs- und Restaurierungsdokumentation**) |
@@ -40,10 +42,11 @@ comment:  WissKi SODA OERs
 | 6         | **Langzeitverfügbarkeit (nach FAIR-Prinzipien)**                     |  **Digitale Provenienzforschung (Konzepte und Tools)** und **Konservierungs- und Restaurierungsdokumentation** |
 | 7         | **Analyse & Nachnutzung strukturierter Objektdaten**                 | **Analysieren & (Nach)Nutzen auf Basis von strukturierten Daten**  |
 
+
+
 ### Vom SODa Lebenszyklus über Handlunsfelder bis hin zu Forschungsaktivitäten
 
 Die folgende Tabelle ordnet die einzelnen Phasen des sammlungsbezogenen Forschungsdatenlebenszyklus relevanten Handlungsfeldern (basierend auf UNESCO-Kategorien) sowie den entsprechenden TaDiRAH-Aktivitäten zu und bietet damit eine strukturierte Grundlage für Analyse, Planung und Weiterentwicklung von Projekten im Bereich digitaler Sammlungen.
-
 
 | Nr. | SODa Lebenszyklusphase                                                  | Unesco Handlungsfeld(e)                      | TaDiRAH-Aktivität(en)                                           |
 |-----|-------------------------------------------------------------------------|----------------------------------------------|------------------------------------------------------------------|
