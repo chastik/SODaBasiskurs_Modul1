@@ -40,3 +40,18 @@ comment:  WissKi SODA OERs
 | 6         | **Langzeitverfügbarkeit (nach FAIR-Prinzipien)**                     |  **Digitale Provenienzforschung (Konzepte und Tools)** und **Konservierungs- und Restaurierungsdokumentation** |
 | 7         | **Analyse & Nachnutzung strukturierter Objektdaten**                 | **Analysieren & (Nach)Nutzen auf Basis von strukturierten Daten**  |
 
+### Vom SODa Lebenszyklus über Handlunsfelder bis hin zu Forschungsaktivitäten
+
+Die folgende Tabelle ordnet die einzelnen Phasen des sammlungsbezogenen Forschungsdatenlebenszyklus relevanten Handlungsfeldern (basierend auf UNESCO-Kategorien) sowie den entsprechenden TaDiRAH-Aktivitäten zu und bietet damit eine strukturierte Grundlage für Analyse, Planung und Weiterentwicklung von Projekten im Bereich digitaler Sammlungen.
+
+
+| Nr. | SODa Lebenszyklusphase                                                  | Unesco Handlungsfeld(e)                      | TaDiRAH-Aktivität(en)                                           |
+|-----|-------------------------------------------------------------------------|----------------------------------------------|------------------------------------------------------------------|
+| 1   | **Konzeption & Planung von Erschließungs- und Digitalisierungsvorhaben** | Sammeln / Forschen                           | Planning, Designing, Managing                                     |
+| 2   | **Strukturiertes Erzeugen von Objekt- und Sammlungsdaten**             | Sammeln / Bewahren                           | Capturing, Creating, Collecting, Annotating                      |
+| 3   | **Datenqualität & Kompatibilität (Standards, PIDs, LOD, Graphen)**     | Bewahren / Forschen                          | Cleaning, Enriching, Curating, Linking                           |
+| 4   | **Inhaltliche Aufbereitung & Anreicherung von Daten**                  | Forschen / Interpretieren                    | Annotating, Enriching, Contextualizing, Translating              |
+| 5   | **Rechtliche & ethische Aspekte**                                      | Bewahren / Interpretieren                    | Securing, Documenting, Managing, Disseminating (ethically)       |
+| 6   | **Langzeitverfügbarkeit (nach FAIR-Prinzipien)**                       | Bewahren                                     | Archiving, Preserving, Publishing                                |
+| 7   | **Analyse & Nachnutzung strukturierter Objektdaten**                   | Forschen / Interpretieren / Ausstellen       | Analyzing, Interpreting, Visualizing, Reusing, Disseminating     |
+
