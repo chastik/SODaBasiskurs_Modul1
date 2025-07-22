@@ -24,7 +24,7 @@ Die nachfolgende Tabelle bietet einen Überblick über die Anforderungen verschi
 |----------------|-----------------------------------------|-------------------|----------------------------------------------------------|--------------------------------------------------------|
 | EC Horizon Europe | DMP                                  | Nein. Erster Plan innerhalb der ersten 6 Projektmonate | Inhalte des Horizon Europe Templates                   | Update bei signifikanten Änderungen sowie zum Projektende |
 | DFG            | Angaben zum Umgang mit Forschungsdaten | Ja                | Inhalte der Leitlinie zum Umgang mit Forschungsdaten    | Nein                                                   |
-| BMBF           | Plan manchmal erforderlich, abhängig vom Programm | Falls notwendig, ja | Inhalt hängt vom jeweiligen Programm ab; Bildungsforschung: Checkliste | Kommt auf das Programm an                             |
+| BMFTR          | Plan manchmal erforderlich, abhängig vom Programm | Falls notwendig, ja | Inhalt hängt vom jeweiligen Programm ab; Bildungsforschung: Checkliste | Kommt auf das Programm an                             |
 | VWStiftung     | DMP                                   | Ja                | Inhalte des Science Europe Templates                    | Nein                                                   |
 
 
