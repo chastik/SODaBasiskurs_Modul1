@@ -139,7 +139,9 @@ Quellenangabe
 
 [6] https://www.dfg.de/resource/blob/172112/4ea861510ea369157afb499e96fb359a/leitlinien-forschungsdaten-data.pdf (Abgerufen am 18. Juli 2025)
 
-[7] Deutsche Forschungsgemeinschaft (DFG): *Leitlinien zum Umgang mit Forschungsdaten*, 30. September 2015.  
+[7] DAI https://www.dainst.org/data-policy
+
+Deutsche Forschungsgemeinschaft (DFG): *Leitlinien zum Umgang mit Forschungsdaten*, 30. September 2015.  
 https://www.forschungsdaten.org/index.php/Data_Policies#DFG:_Empfehlungen_zur_Sicherung_guter_wissenschaftlicher_Praxis  
 (Abgerufen am 18. Juli 2025)
 
