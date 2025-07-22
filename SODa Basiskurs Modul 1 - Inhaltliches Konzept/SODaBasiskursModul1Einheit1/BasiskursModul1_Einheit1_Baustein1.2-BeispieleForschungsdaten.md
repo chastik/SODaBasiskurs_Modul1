@@ -47,7 +47,7 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 **Lernziel: 1.2. Lernende können Beispiele für Sammlungs- und Forschungsdaten benennen. (in Anlehnung an LZ-ID 01_001_0008)**
 
 
-## 1.2.1 Beispiele für generische Forschungsdaten
+## 1.2.1 Beispiele für Forschungsdaten
 Forschungsdaten entstehen in vielen Formen und in ganz unterschiedlichen Disziplinen.  
 Sie können entweder direkt im Forschungsprozess erhoben oder aus vorhandenen Quellen abgeleitet werden.
 
