@@ -20,7 +20,6 @@
 - [DMPonline – Tool des Digital Curation Centre](https://dmponline.dcc.ac.uk/)
 - [DMPTool – California Digital Library (USA)](https://dmptool.org/)
 - [ARGOS – DMP-Plattform von OpenAIRE](https://argos.openaire.eu/)
-- [forschungsdaten.info – Vergleich von DMP-Tools](https://www.forschungsdaten.info/praxis-tools/tools-und-dienste/dmp-tools/)
 
 
 ### RDMO 
