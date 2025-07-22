@@ -61,7 +61,7 @@ Beispiele für Forschungsdaten sind:
 
 ## 1.2.2 Beispiele für sammlungsspezifische Forschungsdaten
 
-![Uploading grafik.png…]()
+<img width="2001" height="2433" alt="grafik" src="https://github.com/user-attachments/assets/d70c3554-8b4b-4155-8424-513759958ee0" />
 
 
 | Datenart                           | Beispiel: Pulsatilla vulgaris, Herbarbeleg TU Dresden                                                   | Forschungsbezug                                                                                  |
