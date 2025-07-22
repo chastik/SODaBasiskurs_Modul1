@@ -7,7 +7,7 @@ version:  v1
 language: DE
 lizenz: cc by
 modultitel: Modul 1, Teil 1: Sammlungs- und Objektdaten als Forschungsdaten managen
-eineit: 5
+eineit: 6
 einheitstitel: Open Science in wissenschaftlichen Universitätssammlungen
 lernziele:
 
@@ -28,4 +28,17 @@ comment:  WissKi SODA OERs
 
 **Lernende können die Phasen des Forschungsdatenlebenszyklus benennen. (LZ-ID 01_004_0079)**
 
-## 6.1. Phasen des FDM-Zyklus
+## 6.1. Phasen des Sammlungsbezogenen Forschungsdatenlebenszyklus
+
+1. Konzeption & Planung von Erschließungs- und Digitalisierungsvorhaben (Management & Tools)
+2. Strukturiertes Erzeugen von Objekt- und Sammlungsdaten
+3. Datenqualität & Kompatibilität (Standards; Persistent Identifiers; Linked Data; Graphen)
+4. Inhaltliche Aufbereitung & Anreicherung von Daten
+5. Rechtliche & ethische Aspekte
+6. Langzeitverfügbarkeit (nach FAIR-Prinzipien)
+
+
+-----------
+Quellenangaben
+
+(SODa, 2025) https://sammlungen.io/about/literacy
