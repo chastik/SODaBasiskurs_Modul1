@@ -66,9 +66,7 @@ Beispiele für Forschungsdaten sind:
 | Herkunfts- und Sammlungsgeschichte | Teilsammlung: Herrnhuter Herbarbelege<br>Sammlung: Herbarium Dresdense              | Rekonstruktion historischer Sammlungsnetzwerke, Provenienzforschung                             |
 | Erhebungs- und Kontextdaten       | Fundort: Nähe Barby (heutiges Sachsen-Anhalt), ca. 1766                               | Vergleich historischer Biodiversität, Rekonstruktion ökologischer Bedingungen                   |
 | Objektdaten                       | Pulsatilla vulgaris, Papier, getrocknete Pflanze                                  | Botanische Bestimmung, Taxonomie, morphologische Merkmalsanalyse                                |
-| Konservierungs- und Zustandsdaten | Zustand: Fragil, Digitalisierung zur Bestandserhaltung                              | Vergleich von Erhaltungszuständen, Konservierungsstrategien, Materialstudien                    |
-| Erschließungs- und Digitalisierungsdaten | Metadaten nach Dublin Core, erschlossen mit WissKI                           | Sichtbarkeit und Nachnutzung, strukturierte Datenanalyse, digitale Sammlungsforschung          |
-| Forschungs- und Analyseergebnisse | Interdisziplinäre Auswertung in Botanik, Wissenschafts- und Religionsgeschichte     | Wissenschaftsgeschichte, Netzwerkforschung, interdisziplinäre Forschung                  
+| Konservierungs- und Zustandsdaten | Zustand: Fragil, Digitalisierung zur Bestandserhaltung                              | Vergleich von Erhaltungszuständen, Konservierungsstrategien, Materialstudien                                  
 
 Forschungsdaten entstehen im Rahmen wissenschaftlicher Tätigkeiten, werden systematisch dokumentiert und analysiert und dienen als Grundlage oder Ergebnis von Forschung. Auch Sammlungsdaten erfüllen diese Kriterien: Sie dokumentieren die Herkunft und den Kontext von Objekten, bilden den Zustand und die Materialität ab, werden digitalisiert, erschlossen und wissenschaftlich ausgewertet.
 
