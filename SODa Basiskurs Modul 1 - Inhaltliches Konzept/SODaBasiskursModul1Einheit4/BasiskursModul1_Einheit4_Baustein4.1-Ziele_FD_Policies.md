@@ -84,8 +84,7 @@ Seit 1998 ist die Etablierung entsprechender Regeln Voraussetzung für den Erhal
 2015 ergänzte die DFG diese mit **Leitlinien zum Umgang mit Forschungsdaten**, die die Anerkennung von Datenbereitstellung als wissenschaftliche Leistung fördern und disziplinübergreifend Standards etablieren sollen [5] [6].
 
 #### 3. **Fachspezifische Policies**
-Fachspezifische Policies definieren disziplinspezifische Standards und Anforderungen für den Umgang mit Forschungsdaten, angepasst an Besonderheiten fachlicher Bedarfe wie z.B. ethische Fragen einer Fachcommunity (z. B. Archäologie, Medizin, Biologie).
-
+Fachspezifische Policies definieren disziplinspezifische Standards und Anforderungen für den Umgang mit Forschungsdaten, angepasst an Besonderheiten fachlicher Bedarfe wie z.B. ethische Fragen einer Fachcommunity.
 
 Deutsches Archäologisches Institut (DAI), Data Policy: Legt spezifische Vorgaben für das Forschungsdatenmanagement in der Archäologie fest und ergänzt institutionelle Regeln um fachliche Anforderungen (z. B. Dokumentation von Grabungsdaten, Langzeitarchivierung, FAIR-Prinzipien).
 
