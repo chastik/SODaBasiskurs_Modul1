@@ -46,8 +46,9 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 **Lernziel: Lernende können Ansprechpersonen für sammlungsbezogenes Forschungsdatenmanagement (FDM) benennen. (in Anlehnung an LZ-ID 01_009_0172) und Lernende können Angebote und Funktionen von Ansprechpersonen im sammlungsbezogenen FDM benennen. (in Anlehnung an LZ-ID 01_009_0173)**
 
+#### **Kontaktstellen**
 
-### **Vor Ort: Kontaktstellen**
+### **Vor Ort**
 
 **FDM-Servicestellen, Data Stewards, Bibliotheken**  
 Typische Aufgaben:
