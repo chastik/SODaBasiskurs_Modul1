@@ -61,6 +61,9 @@ Beispiele für Forschungsdaten sind:
 
 ## 1.2.2 Beispiele für sammlungsspezifische Forschungsdaten
 
+![Uploading grafik.png…]()
+
+
 | Datenart                           | Beispiel: Pulsatilla vulgaris, Herbarbeleg TU Dresden                                                   | Forschungsbezug                                                                                  |
 |-----------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Herkunfts- und Sammlungsgeschichte | Teilsammlung: Herrnhuter Herbarbelege<br>Sammlung: Herbarium Dresdense              | Rekonstruktion historischer Sammlungsnetzwerke, Provenienzforschung                             |
