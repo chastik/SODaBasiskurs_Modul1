@@ -71,7 +71,7 @@ Bevor wir in die Inhalte einsteigen, nehmen wir uns ein paar Minuten Zeit zum An
 
 
 ### **Netiquette**
-<img width="6853" height="7149" alt="grafik" src="https://github.com/user-attachments/assets/c7260f4a-8c8f-4ed4-b43a-58a043ff0b47" />
+<img width="6853" height="7149" alt="grafik" src="https://github.com/user-attachments/assets/c0123992-18b1-4fcb-9737-f3c927b8e576" />
 
 -----------
 ## **Kennenlernen und Vernetzung**
