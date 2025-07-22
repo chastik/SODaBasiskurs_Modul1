@@ -49,15 +49,24 @@ link:    https://raw.githubusercontent.com/chastik/SODa-Basiskurs/refs/heads/mai
 
 ## 2.1. Sammlungsbegriff
 
-### **Sind die nachfolgende Beispiele Sammlungen?**
-- Ist ein lokal gespeicherter Ordner einer Professorin der Kunstgeschichte, in dem sie hunderte Ausstellungsbesuche dokumentiert hat (mit Fotografien, Notizen, digitalisierten Flyern und Zeitungsausschniten), eine Sammlung?
-- Sind umfangreiche anatomischen Lehrtafeln aus dem 19. Jahrhundert, die heute in einem ungenutzten Nebenraum eines Medizingebäudes lagern, eine Sammlung?
-- Sind alte Maschinenbauteile, die nirgendwo erfasst werden, aber in der Einführungsvorlesungen als Anschauungsobjekte herumgegeben werden eine Sammlung?
-
 ### **Was genau macht etwas zu einer Sammlung?**
 - Mehr als eine Ansammlung: Gibt es eine erkennbare Ordnung oder Systematik der Objekte?
 - Wissenschaftliche Relevanz: Werden die Objekte zu Lehr-, Forschungs- oder Ausstellungszwecken genutzt?
 - Zuschreibung: Wird die Sammlung so genannt und wird Verantwortung für die Sammlung übernommen? [1]
+
+### **Memory-Abstimmung: Sind die nachfolgende Beispiele Sammlungen?**
+
+Ich stelle euch gleich drei Situationen vor, jeweils eine kurze Beschreibung. Eure Aufgabe ist es, spontan einzuschätzen: Ist das eine Sammlung, ja oder nein?
+
+So funktioniert die Abstimmung:
+
+    Kamera AN: Ja, das ist für mich eine Sammlung.
+    Kamera AUS: Nein, das sehe ich nicht als Sammlung.
+    Kamera WECHSELN (an/aus): unentschieden, kommt darauf an.
+
+- Ist ein lokal gespeicherter Ordner einer Professorin der Kunstgeschichte, in dem sie hunderte Ausstellungsbesuche dokumentiert hat (mit Fotografien, Notizen, digitalisierten Flyern und Zeitungsausschnitten), eine Sammlung?
+- Sind umfangreiche anatomischen Lehrtafeln aus dem 19. Jahrhundert, die heute in einem ungenutzten Nebenraum eines Medizingebäudes lagern, eine Sammlung?
+- Sind alte Maschinenbauteile, die nirgendwo erfasst werden, aber in der Einführungsvorlesungen als Anschauungsobjekte herumgegeben werden eine Sammlung?
 
 
 -----------
