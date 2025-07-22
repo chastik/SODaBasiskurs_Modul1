@@ -77,7 +77,7 @@ Am Beispiel des Herbarbelegs wird deutlich, wie vielfältig diese Daten sein kö
 
 
 ## Zuruf
-Welche Forschungs- oder Sammlungsdaten begegnen Euch in Eurer eigenen Arbeit? Ganz egal, ob Bilder, Listen, Tabellen oder Sensorwerte. 
+Welche Forschungs- oder Sammlungsdaten begegnen Euch in Eurer eigenen Arbeit? Schreibt es in den Chat oder meldet euch. 
 
 -----------
 Quellenangaben
