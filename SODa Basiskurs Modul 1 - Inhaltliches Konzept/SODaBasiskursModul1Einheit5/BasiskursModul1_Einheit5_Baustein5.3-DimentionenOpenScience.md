@@ -77,7 +77,7 @@ Zeitbedarf: ca. 30 Sekunden
 | **Open Source**           | Universität Jena – [Digitale DSpace-Sammlungsplattform](https://sammlungen.uni-jena.de/)         | Nutzung quelloffener Repositoriumsoftware zur digitalen Erschließung, Lehre und Forschung                        |
 | **Open Educational Resources (OER)** | FAU Erlangen-Nürnberg – [Anatomische Sammlung](https://www.sammlungen.fau.de/)  | Sammlung (z.B. Medizin, Kunst, Wissenschaftsgeschichte) als Grundlage für frei zugängliche digitale Lehrmaterialien im Medizinstudium           |
 | **Open Peer Review**      | (Beispielhaft: Journale mit Museumsbezug)                                  | Offene Begutachtung z. B. bei *Journal of Museum Education* oder *Curator: The Museum Journal*   |
-| **Citizen Science**       | HU Berlin, Uni Hamburg u. a. - [MuseumsLab(https://www.museumfuernaturkunde.berlin/de/museum/heute/das-museum/themuseumslab); Universität Koblenz - [Liebesbriefarchiv]([Liebesbriefarchiv](https://liebesbriefarchiv.de/))| Beteiligung von Bürger:innen an Provenienzforschung & Digitalisierung von Objekten; Transkription und Annotation|                |
+| **Citizen Science**       | HU Berlin, Uni Hamburg u. a. - [MuseumsLab](https://www.museumfuernaturkunde.berlin/de/museum/heute/das-museum/themuseumslab); Universität Koblenz - [Liebesbriefarchiv](https://liebesbriefarchiv.de/)| Beteiligung von Bürger:innen an Provenienzforschung & Digitalisierung von Objekten; Transkription und Annotation|                |
 
 ### Weitere Beispiele
 
