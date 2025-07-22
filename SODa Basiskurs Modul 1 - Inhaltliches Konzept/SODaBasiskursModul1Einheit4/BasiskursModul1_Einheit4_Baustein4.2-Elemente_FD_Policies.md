@@ -105,28 +105,7 @@ Folgende Policies enthalten in etwa die im T2T 5 genannten Elemente: Quelle: htt
     
 - Policy der RWTH Aachen: https://www.rwth-aachen.de/cms/root/Forschung/Forschungsdatenmanagement/Forschungsdatenmanagement-an-der-RWTH/~ncfw/Leitlinie-zum-Forschungsdatenmanagement/
     
-- Policy der Hochschule Bremen: www.hs-bremen.de/assets/hsb/de/Dokumente/Referate/R02/Rechtssammlung/Qualitätssicherung/Forschungsdaten-Policy_der_Hochschule_Bremen__Fassung_Amtliche_Mitteilungen_der_HSB_2-2025_vom_2025-02-03_.pdf
-
-
-
-
-#### Umfrage
-
-**Braucht es eine Policy für wissenschaftliche Sammlungen an Universitäten und Hochschulen?**
-
-### Relevanz für Sammlungsdaten
-
-- Notwendigkeit spezifischer Regelwerke für Sammlungen
-
-- Klärung von Zuständigkeiten (z. B. Kustod*innen, Forschende, Repositorien)
-
-- Sicherung von Langzeitverfügbarkeit, Sichtbarkeit und FAIRness
-
-- Unterstützung bei der Verknüpfung von Sammlungs- und Forschungsdaten
-
-#### Beispiel "USGS Policy on Scientific Working Collections" 
-
- ![USGS Policy](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/FDMPolicyUSGS.png)<!--width="100%"-->
+- Policy der Hochschule Bremen: www.hs-bremen.de/assets/hsb/de/Dokumente/Referate/R02/Rechtssammlung/Qualitätssicherung/Forschungsdaten-Policy_der_Hochschule_Bremen__Fassung_Amtliche_Mitteilungen_der_HSB_2
 
 -----------
 Quellenangabe
