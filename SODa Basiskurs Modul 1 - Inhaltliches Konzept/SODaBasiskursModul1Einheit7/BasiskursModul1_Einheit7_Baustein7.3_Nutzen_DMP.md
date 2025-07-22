@@ -19,7 +19,7 @@ Je einfacher Forschungsdaten wiederverwendbar sind, desto mehr zahlt sich der Au
 
 Zudem bietet ein DMP nicht nur die Grundlage zur Beantragung notwendiger Ressourcen in Drittmittelprojekten, sondern auch eine klare Roadmap für den Projektverlauf.
 
-###Aufgabe
+### Aufgabe
 
 Fortsetzung Frames auf Miroboard
 
