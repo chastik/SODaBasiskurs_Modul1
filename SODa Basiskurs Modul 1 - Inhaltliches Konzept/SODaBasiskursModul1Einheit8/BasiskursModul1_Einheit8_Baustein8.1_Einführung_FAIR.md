@@ -36,7 +36,7 @@ Die FAIR Prinzipien wurden erstmals 2016 (Wilkinson et al., 2016) veröffentlich
 ![](https://github.com/chastik/Beratung_Dateityp_Bild/blob/main/1024px-FAIR_data_principles.jpg)<!--width="100%"--> SangyaPundir, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 
 
-** Der Datenbegriff**
+### Der Datenbegriff
 
 (How to FAIR) **"Data"** refers in this context to all kinds of digital objects that are produced in research: research data in the strictest sense, code, software, presentations, etc. However, for the sake of simplicity, we use "data" and not "digital research objects" on this website.
 
