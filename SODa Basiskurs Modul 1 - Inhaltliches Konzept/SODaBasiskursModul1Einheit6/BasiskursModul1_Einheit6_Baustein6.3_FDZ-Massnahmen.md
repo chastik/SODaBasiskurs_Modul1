@@ -24,7 +24,7 @@ comment:  WissKi SODA OERs
 
 **Einheit 6 – Sammlungsbezogener Forschungsdatenlebenszyklus**
 
-**Lernbaustein/EduBrick:: 6.3 Maßnahmen entlang des FDM-Zyklus**
+**Lernbaustein/EduBrick: 6.3 Maßnahmen entlang des FDM-Zyklus**
 
 **Lernende können FDM-Maßnahmen in verschiedenen Phasen des Forschungsdatenlebenszyklus benennen.(LZ-ID 01\_004\_0082)**
 
