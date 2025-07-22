@@ -31,16 +31,14 @@ comment:  WissKi SODA OERs
 
 ## 6.3. Maßnahmen entlang des FD-Zyklus
 
+Entlang der einzelnen Phasen des sammlungsbezogenen Forschungsdatenlebenszyklus lassen sich konkrete Maßnahmen identifizieren, die zur praktischen Umsetzung, Qualitätssicherung und nachhaltigen Nutzung von Objektdaten beitragen.
 
-Die folgende Übersicht verknüpft die Phasen des sammlungsbezogenen Forschungsdatenlebenszyklus mit zentralen musealen Handlungsfeldern (Unesco,xxx) , relevanten TaDiRAH-Aktivitäten (Borek, xxx) und benennt beispielhafte Maßnahmen zur praktischen Umsetzung in Projekten der digitalen Sammlungserschließung und Forschung.
-
-
-| Nr. | SODa Lebenszyklusphase                                                                 | Unesco Handlungsfeld(e)                      | TaDiRAH-Aktivität(en)                                           | Beispielhafte Maßnahmen                                                                                   |
-|-----|-----------------------------------------------------------------------------------|----------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| 1   | **Konzeption & Planung von Erschließungs- und Digitalisierungsvorhaben**         | Sammeln / Forschen                     | Planning, Designing, Managing                                     | Projektplan erstellen, Verantwortlichkeiten klären, DMP schreiben, Tools und Formate definieren         |
-| 2   | **Strukturiertes Erzeugen von Objekt- und Sammlungsdaten**                       | Sammeln / Bewahren                     | Capturing, Creating, Collecting, Annotating                      | Objekte scannen/fotografieren, strukturierte Erfassung in Datenbank, erste Annotation mit Normdaten     |
-| 3   | **Datenqualität & Kompatibilität (Standards, PIDs, LOD, Graphen)**               | Bewahren / Forschen                    | Cleaning, Enriching, Curating, Linking                           | Normdatenintegration (z. B. GND), Qualitätskontrolle, Graphstruktur mit LOD-Vokabularen modellieren      |
-| 4   | **Inhaltliche Aufbereitung & Anreicherung von Daten**                            | Forschen / Interpretieren              | Annotating, Enriching, Contextualizing, Translating              | Historische Kontexte ergänzen, Quellenverweise einpflegen, Begriffe mit Ontologien verknüpfen           |
-| 5   | **Rechtliche & ethische Aspekte**                                                | Bewahren / Interpretieren              | Securing, Documenting, Managing, Disseminating (ethically)       | Rechte prüfen, CC-Lizenzen wählen, sensible Inhalte kennzeichnen, Stakeholder einbinden                 |
-| 6   | **Langzeitverfügbarkeit (nach FAIR-Prinzipien)**                                 | Bewahren                               | Archiving, Preserving, Publishing                                | Master-Dateien archivieren, Repositorium auswählen, Metadaten nach FAIR erfassen, DOI registrieren      |
-| 7   | **Analyse & Nachnutzung strukturierter Objektdaten**                             | Forschen / Interpretieren / Ausstellen | Analyzing, Interpreting, Visualizing, Reusing, Disseminating     | Netzwerkanalyse durchführen, Objekte visualisieren, in digitale Ausstellung einbinden, Sekundärnutzung ermöglichen |
+| Phase Nr. | Lebenszyklusphase                                                  | Beispielhafte Maßnahmen                                                                                     |
+|-----------|--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| 1         | Konzeption & Planung                                               | - Projektplan erstellen  <br> - Verantwortlichkeiten klären  <br> - DMP schreiben  <br> - Tools/Formate definieren |
+| 2         | Strukturiertes Erzeugen von Objekt- und Sammlungsdaten            | - Objekte scannen/fotografieren  <br> - Strukturierte Erfassung in Datenbank  <br> - Erste Annotation mit Normdaten |
+| 3         | Datenqualität & Kompatibilität                                     | - Normdatenintegration (z. B. GND)  <br> - Qualitätskontrolle  <br> - LOD-Vokabulare einbinden  <br> - Graphstruktur modellieren |
+| 4         | Inhaltliche Aufbereitung & Anreicherung                            | - Historische Kontexte ergänzen  <br> - Quellenverweise einpflegen  <br> - Begriffe mit Ontologien verknüpfen |
+| 5         | Rechtliche & ethische Aspekte                                      | - Rechte prüfen  <br> - Offene Lizenzen vergeben  <br> - Sensible Inhalte kennzeichnen  <br> - Stakeholder einbeziehen |
+| 6         | Langzeitverfügbarkeit                                              | - Master-Dateien archivieren  <br> - Repositorien auswählen  <br> - Metadaten FAIR-konform erfassen  <br> - DOI registrieren |
+| 7         | Analyse & Nachnutzung                                              | - Netzwerkanalyse durchführen  <br> - Objekte visuell aufbereiten  <br> - Digitale Ausstellung integrieren  <br> - Nachnutzung durch Dritte ermöglichen |
