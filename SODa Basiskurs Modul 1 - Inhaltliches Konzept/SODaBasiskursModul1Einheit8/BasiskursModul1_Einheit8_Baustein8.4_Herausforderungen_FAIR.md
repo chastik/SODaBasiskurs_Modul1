@@ -15,6 +15,34 @@
 
 ## 8.4. Herausforderungen der FAIR Prinzipien
 
+1. Heterogenität der Objekte und Daten
+  * Unterschiedliche Materialtypen (Objekte, Fotos, Messdaten, Texte, Audio …) erschweren Standardisierung
+  * Komplexe Metadatenstrukturen und Sammlungslogiken (z. B. Stück vs. Kontext)
+
+2. Uneinheitliche Erschließungsstände
+  * Historisch gewachsene Dokumentation, oft ohne strukturierte Datenmodelle
+  * Fehlende Normdaten, uneinheitliche Terminologie, inkonsistente Kategorien
+
+3. Rechtliche und ethische Unsicherheiten
+  * Urheberrecht, Datenschutz, Kulturgutschutz, koloniale Kontexte
+  * Unsicherheiten bei Lizenzwahl und Veröffentlichung sensibler Inhalte
+
+4. Fehlende oder inkompatible Infrastrukturen
+  * Lokale Systeme nicht interoperabel oder nicht auf Langzeitverfügbarkeit ausgelegt
+  * Fehlende Schnittstellen zu Repositorien, Normdaten oder LOD-Plattformen
+
+5. Mangel an Fachkompetenz und Ressourcen
+  * Fachpersonal für RDM, FAIR-Standards oder Ontologiemodellierung nicht vorhanden
+  * Zeitmangel, Projektbefristungen, fehlende strategische Verankerung
+
+6. Unklare Verantwortlichkeiten
+  * Wer ist zuständig für Datenqualität, Pflege, Veröffentlichung, Nachnutzung?
+  * Unterschiedliche Rollenverständnisse zwischen Sammlungs-, IT- und Forschungspersonal
+
+7. Fehlende Anbindung an Forschungsprozesse
+  * Sammlung wird oft getrennt von aktiver Forschung verwaltet
+  * Daten werden nicht systematisch mit aktuellen Forschungsfragen verknüpft oder re-publiziert
+
 
 -----------
 Quellenangaben
