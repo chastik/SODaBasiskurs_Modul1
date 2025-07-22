@@ -26,49 +26,40 @@ Plenum
 Zeitbedarf: ca. 3 Min.
 
 
-
 ### Kern­elemente sind...
 
-Dies sind die Kernlemente eines Daten­managementplans (DMP) laut *forschungsdaten.info*:
+1. **Basisinformationen**
+   - Projektname, Laufzeit, Förderinstitution(en), beteiligte Partner
+   - Verantwortliche Personen und Rollen im Datenmanagement
 
-* Überblick
-  
-  * Projektname, Laufzeit, Träger, Partner, verantwortliche Personen
+2. **Datenbeschreibung**
+   - Herkunft, Art und Menge der Daten  
+   - Voraussichtliche Formate (offene, proprietäre)  
+   - Qualität, Integration vorhandener Daten  
 
-* Datenbestand
-  
-  * Herkunft, Qualität und Integration vorhandener Daten ins Projekt
+3. **Datendokumentation & Qualitätssicherung**
+   - Dokumentation von Datenerzeugung und -bearbeitung  
+   - Reproduzierbarkeit der Ergebnisse  
+   - Einsatz von Metadatenstandards und kontrollierten Vokabularen  
 
-* Datengenese
-  
-  * Art und Menge der Daten, voraussichtliche Formate, Generierung, Dokumentation und Reproduzierbarkeit
+4. **Speicherung, Backup & Sicherheit**
+   - Speicherorte und -strategien  
+   - Dateibenennung, Versionierung, Synchronisation  
+   - Datenschutz, Zugriffsrechte und Backup-Pläne  
 
-* Workflow
-  
-  * Datenverwaltung inklusive Speicherung
-  * Dateibenennung, Versionierung
-  * Synchronisation
-  * kollaboratives Arbeiten
+5. **Rechtliche & ethische Aspekte**
+   - Urheberrechte, Lizenzen und Datenschutzanforderungen  
+   - Berücksichtigung institutioneller, rechtlicher oder ethischer Vorgaben  
 
-* Ingestplan
+6. **Archivierung, Publikation & Nutzung**
+   - Auswahlkriterien für Archivierung  
+   - Zeitpunkt und Verfahren der Datenübergabe (Ingest)  
+   - Veröffentlichung und Interoperabilität mit Repositorien/Diensten  
 
-  * Auswahlkriterien und Zeitpunkte für Datenübergabe, Metadaten, Validierung und Archivierung
+7. **Verantwortlichkeiten & Ressourcen**
+   - Zuständigkeiten im Datenmanagementprozess  
+   - Geschätzter Aufwand und Ressourcenbedarf (z. B. Personal, Infrastruktur, Archivierungskosten)
 
-* Konsolidierung
-
-  * Berücksichtigung von Vorgaben externer Institutionen, Rechte & Urheber, Zugriffsregelungen, Datenschutz, Backup-Strategie
-
-* Verbreitung
-
-  * Datenaustausch: Welche Daten, wie wird geteilt, Interoperabilität mit bestehenden Diensten
-
-* Rollen
-
-  * Verantwortlichkeiten für das Datenmanagement
-
-* Ressourcen
-  
-  * Geschätzte Kosten für Personal, Metadatenerstellung, Archivierung etc.
 
 
 ### Beispiele
