@@ -15,6 +15,14 @@
 
 ## 8.3. Relevanz der FAIR-Prinzipien
 
+* Sichtbarkeit und Zugänglichkeit der Unisammlungen
+* Institutions- und disziplinsübergreifend kollaborieren und teilen
+* besseres Verständnis und bessere Nutzbarkeit
+* Transparenz und Nachvollziehbarkeit
+* vermeiden von Informationsverlust
+* Potentiale von Sammlungen als digitale Ressource voll ausschöpfen
+
+
 
 -----------
 Quellenangaben
