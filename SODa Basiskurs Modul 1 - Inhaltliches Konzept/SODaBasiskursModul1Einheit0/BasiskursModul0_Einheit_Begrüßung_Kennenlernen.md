@@ -93,7 +93,8 @@ Hier geht es zur Umfrage: https://www.mentimeter.com/app/presentation/aluihmh3ap
 -----------
 ## **Scary Tale aus den Universtiätssammlungen**
 
-Stellt euch vor… Ihr tretet eine neue Stelle als Sammlungsleitung an. Es gibt keine zentrale Datenbank. Einige Erfassungen liegen handschriftlich in Notizbüchern vor, andere sind in Exceltabellen auf einem alten Rechner gespeichert – zu dem ihr keine Zugangsdaten habt, da euer Vorgänger in Rente ist. 
-Die Sammlung? Verteilt auf mehrere Räume. Niemand weiß genau, wie viele Objekte dazugehören. Oder wann und wie sie dort hingekommen sind. Und ob welche fehlen.
-Ihr erfahrt, dass kürzlich zwei Objekte von Privatpersonen über ein Auktionshaus für insgesamt 60.000 Euro versteigert wurden, die den Stempel deiner Universitätssammlung tragen. Was nun?
+Stellt euch vor, ihr tretet eine neue Stelle als Sammlungsleitung an… 
+Es gibt keine zentrale Datenbank. Einige Erschließungsdaten liegen handschriftlich in Notizbüchern vor, andere sind in Exceltabellen auf einem alten Rechner gespeichert – zu dem ihr keine Zugangsdaten habt, da euer Vorgänger in Rente ist. Die Sammlung? Verteilt auf mehrere Räume. Niemand weiß genau, wie viele Objekte dazugehören. Oder wann und wie sie dort hingekommen sind. Und ob welche fehlen. Ihr erfahrt, dass kürzlich zwei Objekte von Privatpersonen über ein Auktionshaus für insgesamt 60.000 Euro versteigert wurden, die den Stempel deiner Universitätssammlung tragen. Was nun?
+<img width="7546" height="90" alt="grafik" src="https://github.com/user-attachments/assets/5fabfe97-6ede-4749-aa66-bcdc980c65bc" />
+
 
