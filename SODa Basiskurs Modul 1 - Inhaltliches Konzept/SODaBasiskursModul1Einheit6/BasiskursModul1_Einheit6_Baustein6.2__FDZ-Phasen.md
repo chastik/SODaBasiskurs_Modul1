@@ -42,9 +42,9 @@ In der folgenden Übersicht werden die Phasen des sammlungsbezogenen Forschungsd
 | 6         | **Langzeitverfügbarkeit (nach FAIR-Prinzipien)**                     |  **Digitale Provenienzforschung (Konzepte und Tools)** und **Konservierungs- und Restaurierungsdokumentation** |
 
 
+## Anhang
 
-
-### Vom SODa Lebenszyklus über Handlunsfelder bis hin zu Forschungsaktivitäten
+ **Vom SODa Lebenszyklus über Handlunsfelder bis hin zu Forschungsaktivitäten**
 
 Die folgende Tabelle ordnet die einzelnen Phasen des sammlungsbezogenen Forschungsdatenlebenszyklus relevanten Handlungsfeldern (basierend auf UNESCO-Kategorien) sowie den entsprechenden TaDiRAH-Aktivitäten zu und bietet damit eine strukturierte Grundlage für Analyse, Planung und Weiterentwicklung von Projekten im Bereich digitaler Sammlungen.
 
