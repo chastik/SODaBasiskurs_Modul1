@@ -39,20 +39,16 @@ Plenum
 
 Zeitbedarf: ca. 3 Min.
 
-### Vor- und Nachteile
+### Nutzen von DMPs
 
-| **Vorteile**                                                                                     | **Nachteile**                                                                                      |
-|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| Eröffnet Zugang zu bestimmten Förderlinien                                                      | Die Überwachung der Einhaltung des DMP erfordert personelle Ressourcen                            |
-| Erleichtert die Dokumentation bei Berichtspflichten                                              | Die Erstellung und Einhaltung des DMP erfordert Zeit und ggf. weitere Ressourcen (z. B. Infrastruktur) |
-| Vereinfacht die eigene Nachnutzung von Daten durch Vorgabe klarer Strukturen                    | Bestehende Dateiformate müssen evtl. konvertiert werden                                           |
-| Erhöht die Anzahl der Zitationen durch geregelte Nachnutzungsmöglichkeiten für Dritte           |                                                                                                    |
-| Datenpublikation gilt als eigenständige Publikation                                             |                                                                                                    |
-| Verringert die Gefahr von Datenverlust                                                          |                                                                                                    |
-| Erhöht die Chance, dass Datenträger und Dateiformate nach 10 Jahren noch lesbar sind            |                                                                                                    |
-| Verbesserter Wissenstransfer und Wissensmanagement bei Personalwechsel                          |                                                                                                    |
-
-
+- Eröffnet Zugang zu bestimmten Förderlinien  
+- Erleichtert die Dokumentation bei Berichtspflichten  
+- Vereinfacht die eigene Nachnutzung von Daten durch Vorgabe klarer Strukturen  
+- Erhöht die Anzahl der Zitationen durch geregelte Nachnutzungsmöglichkeiten für Dritte  
+- Datenpublikation gilt als eigenständige Publikation  
+- Verringert die Gefahr von Datenverlust  
+- Erhöht die Chance, dass Datenträger und Dateiformate nach 10 Jahren noch lesbar sind  
+- Verbesserter Wissenstransfer und Wissensmanagement bei Personalwechsel  
 
 
 -----------
