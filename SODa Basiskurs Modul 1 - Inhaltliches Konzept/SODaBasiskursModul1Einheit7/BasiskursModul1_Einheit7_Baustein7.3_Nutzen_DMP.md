@@ -21,6 +21,14 @@ Zudem bietet ein DMP nicht nur die Grundlage zur Beantragung notwendiger Ressour
 
 ### Aufgabe
 
+Chatsturm
+
+3 Treffer: TN posten Stichworte und Aussagen zu Vorteilen im Chat.
+
+Zeitbedarf: ca. 1 Min.
+
+### Alternative Aufgabe
+
 Fortsetzung Frames auf Miroboard
 
 3 Treffer: TN sammeln Stichworte und Aussagen zu Vorteilen
