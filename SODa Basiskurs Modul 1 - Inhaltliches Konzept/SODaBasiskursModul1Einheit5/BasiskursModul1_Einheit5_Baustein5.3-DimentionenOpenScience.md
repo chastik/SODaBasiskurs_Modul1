@@ -44,7 +44,7 @@ Drehen und Wenden: Begriffe und Erklärungen zuordnen
 
 Kleingruppen á 3-5 Personen pro Frame.
 
-Zeitbedarf: ca. 3 Min.
+Zeitbedarf: ca. 4 Min.
 
 ### Die Praktiken für Open Science sind... [1] [2]
 
