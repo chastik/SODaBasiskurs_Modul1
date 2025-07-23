@@ -40,7 +40,7 @@ In den Zielen, wie die Prinzipien und Dimensionen (Praktiken), wirksam werden �
 
 Fortsetzung Frames auf Miroboard
 
-Drehen und Wenden: Ziele zu Ergbnissen aus EduBrick 5.3 zuordnen
+SchemaX: Ziele zu Ergbnissen aus EduBrick 5.3 zuordnen
 
 Kleingruppe á 3-5 Personen in Breakout Räumen
 
