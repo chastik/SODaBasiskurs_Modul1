@@ -40,7 +40,7 @@ Fortsetzung auf Miroboard
 
 Praxistest: Zyklusarbeit mit Lückennanalyse
 
-*Ein Museum besitzt eine Sammlung von ca. 1.200 historischen Fotografien aus der Kolonialzeit (1880–1920) mit handschriftlichen Vermerken. Ziel ist die Digitalisierung, semantische Erschließung und FAIR-gerechte Publikation zur wissenschaftlichen Nachnutzung.*
+*Eine wissenschaftliche Sammlung von ca. 1.200 historischen Farb-	fotografien mit handschriftlichen Vermerken soll digitalisiert und 	semantisch erschlossen sowie FAIR zur wissenschaftlichen 	Nachnutzung publiziert werden.*
 
 Kleingruppe á 3-5 Personen in Breakout Räumen  
 
