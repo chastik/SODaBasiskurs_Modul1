@@ -54,19 +54,15 @@ Bevor wir in die Inhalte einsteigen, nehmen wir uns ein paar Minuten Zeit zum An
 
 
 ### **Ablauf**
-| Zeit         | Programmpunkt                                                             |
-|--------------|---------------------------------------------------------------------------|
-| 13:00        | Einheit 0 – Begrüßung und Kennenlernen                                    |
-| 13:05        | Einheit 1 – FDM-Grundlagen in wiss. Universitätssammlungen               |
-| 13:25        | Einheit 2 – Sammlungsbegriff, Aufgaben und Merkmale  wiss. Universitätssammlungen                    |
-| 13:35        | Einheit 3 – Kontaktstellen für wiss. Universitätssammlungen              |
-| 13:45        | Einheit 4 – Forschungsdaten-Policies                                      |
-| 13:50–14:00  | **PAUSE**                                                                 |
-| 14:00        | Einheit 5 – Open Science im Sammlungskontext                              |
-| 14:20        | Einheit 6 – Forschungsdatenlebenszyklus                                  |
-| 14:35        | Einheit 7 – DMP für wiss. Universitätssammlungen                         |
-| 14:50        | Einheit 8 – FAIR-Prinzipien in wiss. Universitätssammlungen              |
-| 15:00        | Verabschiedung                                                            |
+| Uhrzeit     | Einheit   | Titel                                                       | Dauer  |
+| ----------- | --------- | ----------------------------------------------------------- | ------ |
+| 14:00–14:08 | Einheit 0 | Begrüßung und Kennenlernen                                  | 8 Min  |
+| 14:08–14:24 | Einheit 1 | FDM-Grundlagen in wissenschaftlichen Universitätssammlungen | 16 Min |
+| 14:24–14:31 | Einheit 2 | Sammlungsbegriff, Aufgaben und Merkmale                     | 7 Min  |
+| 14:31–14:38 | Einheit 3 | Kontaktstellen und Ansprechpersonen                         | 7 Min  |
+| 14:38–14:53 | Einheit 4 | Forschungsdaten-Policies                                    | 15 Min |
+| 14:53–15:03 | **Pause** | —                                                           | 10 Min |
+
 
 
 
