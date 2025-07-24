@@ -31,7 +31,10 @@ comment:  WissKi SODA OERs
 
 ## 6.2. Beschreibung des FDM-Zyklus
 
-In der folgenden Übersicht werden die Phasen des sammlungsbezogenen Forschungsdatenmanagement-Zyklus (FDM-Zyklus) nach SODa dargestellt und mit konkreten forschungspraktischen Aktivitäten verknüpft, die durch SODa-Fachexpertisen unterstützt werden.
+In der folgenden Übersicht werden die Phasen des sammlungsbezogenen Forschungsdatenmanagement-Zyklus (FDM-Zyklus) nach SODa dargestellt und mit konkreten forschungspraktischen Aktivitäten verknüpft. 
+
+Die SODa Fachexpertise Erschließung und Forschungsdatenmanagement wird hier durch Forschugsorientierten Fachexpertisen unterstützt (https://sammlungen.io/team). 
+
 
 | Phase Nr. | Zyklusphase in SODa | Forschungspraktische Aktivitäten unterstützt von SODa Fachexpertisen |
 |-----------|-----------------------------------------------------------------------|---------------------|
