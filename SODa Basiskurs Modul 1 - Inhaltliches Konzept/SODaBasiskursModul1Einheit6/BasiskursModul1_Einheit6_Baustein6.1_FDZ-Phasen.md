@@ -30,6 +30,10 @@ comment:  WissKi SODA OERs
 
 ## 6.1. Phasen des FDM-Zyklus 
 
+Der Forschungsdatenlebenszyklus beschreibt die verschiedenen Phasen, die Forschungsdaten von ihrer Entstehung bis zur Nachnutzung durchlaufen – von der Planung über die Erhebung, Analyse und Dokumentation bis hin zur Archivierung und Veröffentlichung. 
+
+Um ein besseres Verständnis für diesen zu entwickeln...
+
 ### Aufgabe
 
 Fortsetzung auf Miroboard
