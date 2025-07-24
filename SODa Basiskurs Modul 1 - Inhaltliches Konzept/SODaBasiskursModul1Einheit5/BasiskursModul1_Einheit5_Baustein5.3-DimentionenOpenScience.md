@@ -36,16 +36,6 @@ Die Grundprinzipien [siehe Einheit 5.2 Prinzipien] von Open Science bilden das e
 
 In den konkreten Dimensionen zeigt sich, wie diese Werte praktisch umgesetzt werden.
 
-### Aufgabe
-
-4 Frames auf Miroboard 
-
-Drehen und Wenden: Begriffe und Erklärungen zuordnen 
-
-Kleingruppen á 3-5 Personen pro Frame.
-
-Zeitbedarf: ca. 4 Min.
-
 ### Die Praktiken für Open Science sind... [1] [2]
 
 * Open Access: Forschungsergebnisse öffentlich, unbeschränkt und kostenfrei zugänglich machen 
@@ -56,6 +46,15 @@ Zeitbedarf: ca. 4 Min.
 * Open Educational Resources (OER): Lehr- und Lernmaterialien offen lizensieren (z. B. mit CC-Lizenzen) und frei zugänglich machen 
 * Citizen Science (Bürgerwissenschaft): Beteiligung von Bürger:innen an wissenschaftlicher Forschung (z. B. bei Datenerhebung, Auswertung oder Kommunikation) 
 
+### Aufgabe
+
+4 Frames auf Miroboard 
+
+Drehen und Wenden: Begriffe und Erklärungen zuordnen 
+
+Kleingruppen á 3-5 Personen pro Frame.
+
+Zeitbedarf: ca. 4 Min.
 
 ### Aufgabe
 
