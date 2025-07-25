@@ -28,8 +28,6 @@ Das Open‑Source‑Tool Research Data Management Organiser (RDMO) wird derzeit 
 
 Es dient als strukturierte Grundlage zur Erstellung von DMPs – inklusive kontextbezogener Hilfetexte, Exportoptionen und kollaborativen Features wie Rollen-/Rechteverwaltung und Versionierung.
 
-In Zusammenarbeit mit den Konsortien werden fachspezifische Vorlagen entwickelt.
-
 HeFDI (Hessen) hat RDMO flächendeckend an alle Hochschulen der Region ausgerollt, bietet entsprechende Schulungen an und stellt die Infrastruktur zur Verfügung.
 
 Weitere Details sind auf der [Webseite](https://www.forschungsdaten.org/index.php/RDMO) zu finden:
@@ -39,6 +37,15 @@ Weitere Details sind auf der [Webseite](https://www.forschungsdaten.org/index.ph
 * Community of Practice mit Tutorials, FAQ, und Fragenkataloge
 
 
+### Beispiele
+
+Seit 2023 arbeitet die NFDI-Arbeitsgruppe "Data Management Planning" (infra-DMP) an der Entwicklung fachspezifischer und generischer DMP-Vorlagen sowie modularer Erweiterungskomponenten. 
+
+Ziel ist es, Bedarfe aus den NFDI-Konsortien der Geistes- und Kulturwissenschaften aufzunehmen, Best Practices zu bündeln und eine NFDI-weit anschlussfähige Definition und Qualitätskriterien für Datenmanagementpläne bereitzustellen. 
+
+Die Ergebnisse sollen als RDMO-Vorlagen den Communities zur Verfügung gestellt werden. 
+
+Es gibt bereits eine DMP-Vorlage für die Musikwissenschaften an der Universität Paderborn und eine weitere Vorlage für die Kunstgeschichte ist in Marburg in Arbeit.
 
 -----------
 Quellenangaben
