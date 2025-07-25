@@ -62,16 +62,6 @@ Zeitbedarf: ca. 3 Min.
 
 
 
-### Beispiele
-
-Seit 2023 arbeitet die NFDI-Arbeitsgruppe "Data Management Planning" (infra-DMP) an der Entwicklung fachspezifischer und generischer DMP-Vorlagen sowie modularer Erweiterungskomponenten. 
-
-Ziel ist es, Bedarfe aus den NFDI-Konsortien der Geistes- und Kulturwissenschaften aufzunehmen, Best Practices zu bündeln und eine NFDI-weit anschlussfähige Definition und Qualitätskriterien für Datenmanagementpläne bereitzustellen. 
-
-Die Ergebnisse sollen als RDMO-Vorlagen den Communities zur Verfügung gestellt werden. 
-
-Es gibt bereits eine DMP-Vorlage für die Musikwissenschaften an der Universität Paderborn und eine weitere Vorlage für die Kunstgeschichte ist in Marburg in Arbeit.
-
 
 
 -----------
