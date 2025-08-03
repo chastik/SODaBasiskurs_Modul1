@@ -36,7 +36,7 @@ Die Grundprinzipien [siehe Einheit 5.2 Prinzipien] von Open Science bilden das e
 
 In den konkreten Dimensionen zeigt sich, wie diese Werte praktisch umgesetzt werden.
 
-### Die Praktiken für Open Science sind... [1] [2]
+### Die Praktiken für Open Science sind... (Leibniz-Gemeinschaft, 2022; UB Stuttgart, o. J.)
 
 * Open Access: Forschungsergebnisse öffentlich, unbeschränkt und kostenfrei zugänglich machen 
 * Open Data: Forschungsdaten (wenn möglich) offen nach FAIR-Prinzipien (Findable, Accessible, Interoperable, Reusable) zugänglich machen 
@@ -113,7 +113,7 @@ Zeitbedarf: ca. 30 Sekunden
 -----------
 Quellenangaben
 
-[1]  Leibniz‑Gemeinschaft. (2022, 24. November). Leitbild Open Science: Ein Leitbild für offene Forschung [PDF]. Abgerufen am 13. Juli 2025, von https://www.leibniz-gemeinschaft.de/fileadmin/user_upload/Bilder_und_Downloads/Forschung/Open_Science/Leitbild_Open_Science.pdf
+(Leibniz-Gemeinschaft, 2022). Leitbild Open Science: Ein Leitbild für offene Forschung [PDF]. Abgerufen am 13. Juli 2025, von https://www.leibniz-gemeinschaft.de/fileadmin/user_upload/Bilder_und_Downloads/Forschung/Open_Science/Leitbild_Open_Science.pdf
 
-[2] Universität Stuttgart. (o. J.). Open Educational Resources (OER) – OER & Open Science. In Open Educational Resources. Universitätsbibliothek Stuttgart. Abgerufen am 13. Juli 2025, von https://www.ub.uni‑stuttgart.de/forschen‑publizieren/open‑educational‑resources/OER01_OpenScience/
+(UB Stuttgart, o. J.). Open Educational Resources (OER) – OER & Open Science. In Open Educational Resources. Universitätsbibliothek Stuttgart. Abgerufen am 13. Juli 2025, von https://www.ub.uni‑stuttgart.de/forschen‑publizieren/open‑educational‑resources/OER01_OpenScience/
 
