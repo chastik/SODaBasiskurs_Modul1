@@ -30,7 +30,7 @@ comment:  WissKi SODA OERs
 **5.5. Lernende können die Relevanz von Open Science für Wissenschaft und Gesellschaft benennen. (LZ-ID 01\_08\_0142)**
 
 
-## 5.5. Relevanz von Open Science [1]
+## 5.5. Relevanz von Open Science (UNESCO, 2021) 
 
 Open Science ist nicht nur eine wissenschaftliche Praxis, sondern eine strategische Antwort auf die gesellschaftlichen, ethischen und globalen Anforderungen an Forschung im 21. Jahrhundert.
 
@@ -47,13 +47,12 @@ Open Science ist wichtig zur...
 
 ![](https://github.com/chastik/Beratung_Dateityp_Bild/blob/main/RelevanzOS.jpg)<!--width="100%"--> ****
   
-## Open Science-Praxistipps [2]
-
+## Open Science-Praxistipps  (ZBW, o.J.)
 * [Tipps für den Forschungsalltag](https://open-science-future.zbw.eu/wp-content/uploads/2021/09/os-magazin-print_teil1.pdf)
 * [Tipps für die Wissenschaftskommunikation mit Social Media](https://open-science-future.zbw.eu/wp-content/uploads/2021/09/os-magazin-print_teil2.pdf)
 * [Worksheets](https://open-science-future.zbw.eu/wp-content/uploads/2021/09/os-magazin-print_teil3.pdf)
 
-## Open Science-Austauschformate [2]
+## Open Science-Austauschformate  (ZBW, o.J.)
 
 **[Open Science Magazin](https://open-science-future.zbw.eu/)**
 ![](https://raw.githubusercontent.com/chastik/SODa-Basiskurs/main/img/OSmagazin.png)<!--width="50%"-->
@@ -74,12 +73,6 @@ Open Science ist wichtig zur...
 -----------
 Quellenangaben
 
-[1]  UNESCO. (2021). UNESCO Recommendation on Open Science. Paris: United Nations Educational, Scientific and Cultural Organization. Abgerufen am 11. Juli 2025, von https://unesdoc.unesco.org/ark:/48223/pf0000379949
-[2] ZBW – Leibniz-Informationszentrum Wirtschaft. (o. D.). In Open Science Future. Abgerufen am 13. Juli 2025, von https://open‑science‑future.zbw.eu/worksheets/
+(UNESCO, 2021) UNESCO Recommendation on Open Science. Paris: United Nations Educational, Scientific and Cultural Organization. Abgerufen am 11. Juli 2025, von https://unesdoc.unesco.org/ark:/48223/pf0000379949
 
-
-
------------
-Quellenangaben
-
-[1] UNESCO. (2021). UNESCO Recommendation on Open Science. Paris: United Nations Educational, Scientific and Cultural Organization. Abgerufen am 11. Juli 2025, von https://unesdoc.unesco.org/ark:/48223/pf0000379949
+(ZBW, o.J.) ZBW – Leibniz-Informationszentrum Wirtschaft. In Open Science Future. Abgerufen am 13. Juli 2025, von https://open‑science‑future.zbw.eu/worksheets/
