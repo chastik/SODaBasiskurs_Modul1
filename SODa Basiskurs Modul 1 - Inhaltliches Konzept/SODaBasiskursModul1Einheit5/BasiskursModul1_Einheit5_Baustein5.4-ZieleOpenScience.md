@@ -46,7 +46,7 @@ Kleingruppe á 3-5 Personen in Breakout Räumen
 
 Zeitbedarf: ca. 3 Min.
 
-### Die wichtigsten Ziele sind... [1]
+### Die wichtigsten Ziele sind... (UNESCO, 2021) 
 
 * Open Access: breite Sichtbarkeit, Nachvollziehbarkeit und gerechter Zugang zu Wissen
 * Open Data: ermöglicht Nachnutzung, Nachvollziehbarkeit und Reproduzierbarkeit
@@ -60,4 +60,4 @@ Zeitbedarf: ca. 3 Min.
 -----------
 Quellenangaben
 
-[1] UNESCO. (2021). UNESCO Recommendation on Open Science. Paris: United Nations Educational, Scientific and Cultural Organization. Abgerufen am 11. Juli 2025, von https://unesdoc.unesco.org/ark:/48223/pf0000379949
+(UNESCO, 2021) UNESCO. (2021). UNESCO Recommendation on Open Science. Paris: United Nations Educational, Scientific and Cultural Organization. Abgerufen am 11. Juli 2025, von https://unesdoc.unesco.org/ark:/48223/pf0000379949
