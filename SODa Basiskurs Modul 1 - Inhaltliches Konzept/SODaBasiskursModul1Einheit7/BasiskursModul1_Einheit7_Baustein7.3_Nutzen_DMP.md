@@ -39,7 +39,7 @@ Plenum
 
 Zeitbedarf: ca. 3 Min.
 
-### Nutzen von DMPs
+### Nutzen von DMPs (forschungsdaten.info, 2025)
 
 - Eröffnet Zugang zu bestimmten Förderlinien  
 - Erleichtert die Dokumentation bei Berichtspflichten  
@@ -54,6 +54,6 @@ Zeitbedarf: ca. 3 Min.
 -----------
 Quellenangaben
 
-forschungsdaten.info. (o. D.). Datenmanagementplan. Informationsplattform Forschungsdaten. https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/
+(forschungsdaten.info, 2025). Datenmanagementplan. Informationsplattform Forschungsdaten. https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/
 
 
