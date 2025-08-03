@@ -31,9 +31,9 @@ comment:  WissKi SODA OERs
 
 ## 5.2. Prinzipien von Open Science
 
-Open Science folgt den "Prinzipien guter wissenschaftlicher Praxis (GWP) [siehe Einheit 5.1 Kodizies/Leitlienien] mit den Mitteln einer digitalisierten Gesellschaft" (ZBW, o. J.) und "the idea that scientific knowledge of all kinds should be openly shared as early as is practical in the discovery process." [2] 
+Open Science folgt den "Prinzipien guter wissenschaftlicher Praxis (GWP) [siehe Einheit 5.1 Kodizies/Leitlienien] mit den Mitteln einer digitalisierten Gesellschaft" (ZBW, o. J.) und "the idea that scientific knowledge of all kinds should be openly shared as early as is practical in the discovery process." (Nielsen, 2011) 
 
-2021 veröffentlicht die UNESCO eine Empfehlung zu Open Science [3] als erste globale Norm für eine offene Wissenschaft. Sie definiert Prinzipien, Werte und Maßnahmen, um den offenen Zugang zu wissenschaftlichem Wissen weltweit zu fördern – gerecht, inklusiv, kooperativ.
+2021 veröffentlicht die UNESCO eine Empfehlung zu Open Science (UNESCO, 2021) als erste globale Norm für eine offene Wissenschaft. Sie definiert Prinzipien, Werte und Maßnahmen, um den offenen Zugang zu wissenschaftlichem Wissen weltweit zu fördern – gerecht, inklusiv, kooperativ.
 
 ### Aufgabe
 
@@ -62,6 +62,6 @@ Quellenangaben
 (ZBW, o. J.)  Leibniz-Gemeinschaft. (o. J.). Open Science. In Forschung. Abgerufen am 11. Juli 2025, von https://www.leibniz-gemeinschaft.de/forschung/open-science
 leibniz-gemeinschaft.de
 
-[2] Nielsen, M. (2011, November 13). Open Science [Video]. YouTube. https://www.youtube.com/watch?v=DnWocYKqvhw
+(Nielsen, 2011) Open science: Michael Nielsen at TEDxWaterloo [Video recording]. https://www.youtube.com/watch?v=DnWocYKqvhw
 
-[3] UNESCO. (2021). UNESCO Recommendation on Open Science. Paris: United Nations Educational, Scientific and Cultural Organization. Abgerufen am 11. Juli 2025, von https://unesdoc.unesco.org/ark:/48223/pf0000379949
+(UNESCO, 2021) UNESCO. (2021). UNESCO Recommendation on Open Science. Paris: United Nations Educational, Scientific and Cultural Organization. Abgerufen am 11. Juli 2025, von https://unesdoc.unesco.org/ark:/48223/pf0000379949
