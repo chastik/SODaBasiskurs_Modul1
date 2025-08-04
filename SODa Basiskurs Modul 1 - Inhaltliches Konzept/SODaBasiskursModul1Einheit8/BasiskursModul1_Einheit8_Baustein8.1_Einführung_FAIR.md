@@ -54,4 +54,4 @@ Quellenangaben
 
 (Wilkinson et al., 2016) Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18
 
-Center for Digital Research Infrastructure: What is FAIR?, in: HowtoFAIR.dk, 2022, URL: https://howtofair.dk/what-is-fair/ (letzter Zugriff: [Datum einfügen])
+(Harms Buss et al., n.d.) Center for Digital Research Infrastructure: What is FAIR?, in: HowtoFAIR.dk, 2022, URL: https://howtofair.dk/what-is-fair/ (letzter Zugriff: [Datum einfügen])
