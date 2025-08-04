@@ -15,7 +15,7 @@
 
 ## 7.1. Warum sind Datenmanagementplänen (DMP) relevant?
 
-"Datenmanagementpläne umfassen alle Informationen, die die Sammlung, Aufbereitung, Speicherung, Archivierung und Veröffentlichung von Forschungsdaten im Rahmen eines Forschungsprojektes hinreichend beschreiben und dokumentieren." (Würz, 2023)
+"Datenmanagementpläne umfassen alle Informationen, die die Sammlung, Aufbereitung, Speicherung, Archivierung und Veröffentlichung von Forschungsdaten im Rahmen eines Forschungsprojektes hinreichend beschreiben und dokumentieren." (Helbig et al., 2017)
 
 Ein Datenmanagementplan (DMP) fördert den systematischen Umgang mit Forschungsdaten und dient der
 
@@ -32,6 +32,6 @@ Es wird beschrieben wie die Daten entstehen, gesammelt, erhoben, analysiert, ges
 -----------
 Quellenangaben
 
-Würz, R. (2023). Forschungsdatenmanagement: Ein Überblick. Humboldt-Universität zu Berlin. @[video](https://rs.cms.hu-berlin.de/dataman/plugins/api_resource/?ref=91&alt_ref=155&key=DXloim41X4WijSxG_Tbx8U-MpeZWl-Gl7zRGOxiPyU9B6iTAn19DzMUDRnwesTHTgB5fsA,,&skey=c9073b96b08010c1c6805f1891830849)
+(Helbig et al., 2017). Forschungsdatenmanagement: Ein Überblick. Humboldt-Universität zu Berlin. @[video](https://rs.cms.hu-berlin.de/dataman/plugins/api_resource/?ref=91&alt_ref=155&key=DXloim41X4WijSxG_Tbx8U-MpeZWl-Gl7zRGOxiPyU9B6iTAn19DzMUDRnwesTHTgB5fsA,,&skey=c9073b96b08010c1c6805f1891830849)
 
 
