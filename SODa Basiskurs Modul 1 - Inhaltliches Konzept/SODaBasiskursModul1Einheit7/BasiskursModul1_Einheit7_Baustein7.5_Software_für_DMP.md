@@ -45,9 +45,12 @@ Ziel ist es, Bedarfe aus den NFDI-Konsortien der Geistes- und Kulturwissenschaft
 
 Die Ergebnisse sollen als RDMO-Vorlagen den Communities zur Verfügung gestellt werden. 
 
-Es gibt bereits eine DMP-Vorlage für die Musikwissenschaften an der Universität Paderborn und eine weitere Vorlage für die Kunstgeschichte ist in Marburg in Arbeit.
+Es gibt bereits eine DMP-Vorlage für die Musikwissenschaften an der Universität Paderborn und eine weitere Vorlage für die Kunstgeschichte ist in Marburg in Arbeit. (Bergmann, 2023)
 
 -----------
 Quellenangaben
 
 forschungsdaten.org. (o. D.). RDMO – Research Data Management Organiser. Abgerufen am 17. Juli 2025, von https://www.forschungsdaten.org/index.php/RDMO
+
+(Bergmann, 2023) Bergmann, K., Gammert, J., Krause, C., & Richts-Matthaei, K. (2023). Datenmanagementpläne in NFDI4Culture. 3. Culture Community Plenary (CCP 3), Mainz. Zenodo. https://doi.org/10.5281/zenodo.7896469
+
