@@ -16,7 +16,7 @@
 ## 7.5. DMP Software (DMP)
 
 
-- [RDMO – Research Data Management Organiser](https://rdmorganiser.github.io/)
+- [RDMO – Research Data Management Organiser](https://rdmorganiser.github.io/) (RDMO, 2025)
 - [DMPonline – Tool des Digital Curation Centre](https://dmponline.dcc.ac.uk/)
 - [DMPTool – California Digital Library (USA)](https://dmptool.org/)
 - [ARGOS – DMP-Plattform von OpenAIRE](https://argos.openaire.eu/)
@@ -50,7 +50,7 @@ Es gibt bereits eine DMP-Vorlage für die Musikwissenschaften an der Universitä
 -----------
 Quellenangaben
 
-forschungsdaten.org. (o. D.). RDMO – Research Data Management Organiser. Abgerufen am 17. Juli 2025, von https://www.forschungsdaten.org/index.php/RDMO
+(RDMO, 2025) RDMO – Research Data Management Organiser. Abgerufen am 17. Juli 2025, von https://www.forschungsdaten.org/index.php/RDMO
 
 (Bergmann, 2023) Bergmann, K., Gammert, J., Krause, C., & Richts-Matthaei, K. (2023). Datenmanagementpläne in NFDI4Culture. 3. Culture Community Plenary (CCP 3), Mainz. Zenodo. https://doi.org/10.5281/zenodo.7896469
 
