@@ -69,5 +69,4 @@ Quellenangaben
 
 forschungsdaten.info. (o. D.). Datenmanagementplan. Informationsplattform Forschungsdaten. https://forschungsdaten.info/themen/informieren-und-planen/datenmanagementplan/
 
-(Bergmann, 2023) Bergmann, K., Gammert, J., Krause, C., & Richts-Matthaei, K. (2023). Datenmanagementpläne in NFDI4Culture. 3. Culture Community Plenary (CCP 3), Mainz. Zenodo. https://doi.org/10.5281/zenodo.7896469
 
